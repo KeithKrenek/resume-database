@@ -1,0 +1,123 @@
+{
+  "id": "LED007",
+  "core": "Developed and delivered comprehensive training seminar on design protocols to 15+ engineers, ensuring consistent understanding and implementation of company standards",
+  "dates": {
+    "start": "2012-10",
+    "end": "2012-12",
+    "status": "completed"
+  },
+  "company": "Mustang Engineering",
+  "related_entries": ["LED006", "WEB003", "WEB004"],
+  "relationship_type": "knowledge_transfer",
+  "variations": {
+    "training_lead": {
+      "short": "Conducted design training",
+      "medium": "Led protocol training program",
+      "detailed": "Developed and delivered comprehensive design protocol training program for engineering team"
+    },
+    "technical_instructor": {
+      "short": "Taught design standards",
+      "medium": "Presented engineering protocols",
+      "detailed": "Created and presented technical training on engineering design standards and protocols"
+    },
+    "knowledge_manager": {
+      "short": "Managed standards education",
+      "medium": "Facilitated protocol learning",
+      "detailed": "Led knowledge transfer initiative for engineering design standards and best practices"
+    }
+  },
+  "metrics": [
+    {
+      "value": "15+",
+      "context": "engineers trained",
+      "verified": true,
+      "category": "reach",
+      "timeframe": "session",
+      "impact_area": "education"
+    },
+    {
+      "value": "comprehensive",
+      "context": "protocol coverage",
+      "verified": true,
+      "category": "content",
+      "timeframe": "training",
+      "impact_area": "knowledge"
+    },
+    {
+      "value": "consistent",
+      "context": "standards implementation",
+      "verified": true,
+      "category": "outcome",
+      "timeframe": "ongoing",
+      "impact_area": "practice"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "training",
+      "detail": "Program development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "presentation",
+      "detail": "Technical instruction",
+      "proficiency": "expert"
+    },
+    {
+      "category": "protocols",
+      "detail": "Standards education",
+      "proficiency": "expert"
+    },
+    {
+      "category": "assessment",
+      "detail": "Learning validation",
+      "proficiency": "expert"
+    }
+  ],
+  "training_components": {
+    "content": [
+      "Design standards",
+      "Best practices",
+      "Implementation guidelines",
+      "Quality requirements"
+    ],
+    "delivery": [
+      "Presentation materials",
+      "Interactive exercises",
+      "Case studies",
+      "Practical examples"
+    ],
+    "assessment": [
+      "Knowledge validation",
+      "Practical application",
+      "Feedback collection",
+      "Understanding verification"
+    ],
+    "documentation": [
+      "Training materials",
+      "Reference guides",
+      "Practice resources",
+      "Follow-up support"
+    ]
+  },
+  "learning_outcomes": {
+    "technical": [
+      "Protocol understanding",
+      "Standards application",
+      "Best practice implementation",
+      "Quality maintenance"
+    ],
+    "practical": [
+      "Workflow integration",
+      "Process improvement",
+      "Error reduction",
+      "Efficiency increase"
+    ],
+    "organizational": [
+      "Consistency enhancement",
+      "Team alignment",
+      "Communication improvement",
+      "Knowledge sharing"
+    ]
+  }
+}

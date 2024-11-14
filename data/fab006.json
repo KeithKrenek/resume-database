@@ -1,0 +1,117 @@
+{
+  "id": "FAB006",
+  "core": "Built and validated multiple electrical control systems including 24 elevator controls, 2 ground-fault detectors, and 1 power board, ensuring quality and reliability",
+  "dates": {
+    "start": "2008-04",
+    "end": "2008-08",
+    "status": "completed"
+  },
+  "company": "Zarlec",
+  "related_entries": ["LED008"],
+  "relationship_type": "manufacturing",
+  "variations": {
+    "electrical_technician": {
+      "short": "Built control systems",
+      "medium": "Manufactured electrical controls",
+      "detailed": "Fabricated and tested various industrial electrical control systems"
+    },
+    "production_specialist": {
+      "short": "Produced control units",
+      "medium": "Assembled electrical systems",
+      "detailed": "Built multiple types of electrical control and safety systems"
+    },
+    "quality_technician": {
+      "short": "Validated control systems",
+      "medium": "Ensured product quality",
+      "detailed": "Built and verified critical electrical control systems"
+    }
+  },
+  "metrics": [
+    {
+      "value": "24",
+      "context": "elevator controls completed",
+      "verified": true,
+      "category": "production",
+      "timeframe": "project duration",
+      "impact_area": "delivery"
+    },
+    {
+      "value": "2",
+      "context": "ground-fault detectors built",
+      "verified": true,
+      "category": "safety",
+      "timeframe": "completion",
+      "impact_area": "systems"
+    },
+    {
+      "value": "multiple",
+      "context": "system types produced",
+      "verified": true,
+      "category": "variety",
+      "timeframe": "total",
+      "impact_area": "capability"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "assembly",
+      "detail": "Electrical fabrication",
+      "proficiency": "expert"
+    },
+    {
+      "category": "testing",
+      "detail": "System validation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "safety",
+      "detail": "Critical systems",
+      "proficiency": "expert"
+    },
+    {
+      "category": "quality",
+      "detail": "Product verification",
+      "proficiency": "expert"
+    }
+  ],
+  "system_types": {
+    "elevator_controls": [
+      "Control logic",
+      "Safety features",
+      "Interface systems",
+      "Operation validation"
+    ],
+    "fault_detection": [
+      "Ground monitoring",
+      "Safety circuits",
+      "Alert systems",
+      "Protection mechanisms"
+    ],
+    "power_systems": [
+      "Power distribution",
+      "Circuit protection",
+      "Monitoring features",
+      "Control interfaces"
+    ]
+  },
+  "manufacturing_process": {
+    "assembly": [
+      "Component preparation",
+      "System integration",
+      "Quality checks",
+      "Final assembly"
+    ],
+    "testing": [
+      "Functional validation",
+      "Safety verification",
+      "Performance testing",
+      "Reliability checks"
+    ],
+    "documentation": [
+      "Build records",
+      "Test results",
+      "Quality certificates",
+      "System specifications"
+    ]
+  }
+}

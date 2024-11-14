@@ -1,0 +1,59 @@
+{
+  "id": "ACT015",
+  "core": "Provided comprehensive research mentoring and evaluation across multiple institutions and programs",
+  "dates": {
+    "start": "2014",
+    "end": "2019"
+  },
+  "category": "academic_leadership",
+  "roles": [
+    {
+      "position": "Research Week Judge",
+      "institution": "Texas A&M University",
+      "dates": "2014-2015",
+      "responsibilities": [
+        "Evaluated student research presentations",
+        "Provided constructive feedback",
+        "Assessed technical merit",
+        "Supported student development"
+      ]
+    },
+    {
+      "position": "Engineering Scholar Mentor",
+      "institution": "Texas A&M University",
+      "dates": "2013-2014",
+      "responsibilities": [
+        "Guided undergraduate research",
+        "Advised on project development",
+        "Supported technical writing",
+        "Facilitated professional growth"
+      ]
+    },
+    {
+      "position": "Undergraduate Research Supervisor",
+      "institution": "Harvard University",
+      "dates": "2016-2019",
+      "responsibilities": [
+        "Trained lab techniques",
+        "Oversaw research projects",
+        "Guided data analysis",
+        "Mentored technical writing"
+      ]
+    }
+  ],
+  "impact": {
+    "student_development": [
+      "Enhanced research skills",
+      "Improved presentation abilities",
+      "Strengthened technical writing",
+      "Developed professional capabilities"
+    ],
+    "program_enhancement": [
+      "Quality assessment",
+      "Standards maintenance",
+      "Program improvement",
+      "Best practices implementation"
+    ]
+  },
+  "related_entries": ["ACT007", "ACT009", "EDU004"]
+}

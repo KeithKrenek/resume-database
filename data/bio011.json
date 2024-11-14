@@ -1,0 +1,117 @@
+{
+  "id": "BIO011",
+  "core": "Led multi-year project planning and execution to develop specialized tool for studying cell aging, managing complete research and development lifecycle",
+  "dates": {
+    "start": "2013-08",
+    "end": "2015-05",
+    "status": "completed"
+  },
+  "company": "NanoBio Systems Lab",
+  "related_entries": ["BIO009", "BIO010"],
+  "relationship_type": "project_leadership",
+  "variations": {
+    "project_lead": {
+      "short": "Led aging research project",
+      "medium": "Managed tool development program",
+      "detailed": "Directed multi-year development of cell aging research platform"
+    },
+    "research_manager": {
+      "short": "Managed research program",
+      "medium": "Led aging study development",
+      "detailed": "Coordinated comprehensive cell aging research initiative"
+    },
+    "development_lead": {
+      "short": "Led tool development",
+      "medium": "Directed research platform creation",
+      "detailed": "Managed development of specialized cell aging analysis system"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multi-year",
+      "context": "project execution",
+      "verified": true,
+      "category": "duration",
+      "timeframe": "program",
+      "impact_area": "development"
+    },
+    {
+      "value": "complete",
+      "context": "tool development cycle",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "project",
+      "impact_area": "delivery"
+    },
+    {
+      "value": "successful",
+      "context": "research implementation",
+      "verified": true,
+      "category": "outcome",
+      "timeframe": "completion",
+      "impact_area": "research"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "management",
+      "detail": "Project leadership",
+      "proficiency": "expert"
+    },
+    {
+      "category": "research",
+      "detail": "Aging studies",
+      "proficiency": "expert"
+    },
+    {
+      "category": "development",
+      "detail": "Tool creation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "planning",
+      "detail": "Program execution",
+      "proficiency": "expert"
+    }
+  ],
+  "project_management": {
+    "planning": [
+      "Timeline development",
+      "Resource allocation",
+      "Milestone definition",
+      "Risk assessment"
+    ],
+    "execution": [
+      "Team coordination",
+      "Progress tracking",
+      "Quality assurance",
+      "Deliverable management"
+    ],
+    "research": [
+      "Protocol development",
+      "Data collection",
+      "Analysis methods",
+      "Result validation"
+    ]
+  },
+  "development_aspects": {
+    "technical": [
+      "Tool specifications",
+      "Performance requirements",
+      "Integration needs",
+      "Validation criteria"
+    ],
+    "operational": [
+      "Workflow optimization",
+      "User requirements",
+      "Process efficiency",
+      "Documentation"
+    ],
+    "research": [
+      "Experimental design",
+      "Data collection",
+      "Analysis methods",
+      "Result interpretation"
+    ]
+  }
+}

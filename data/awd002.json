@@ -1,0 +1,50 @@
+{
+  "id": "AWD002",
+  "core": "Received multiple prestigious awards recognizing excellence in teaching and research at Harvard University",
+  "dates": {
+    "start": "2015-09",
+    "end": "2019-07"
+  },
+  "category": "university_awards",
+  "institution": "Harvard University",
+  "awards": [
+    {
+      "name": "Distinction in Teaching Award",
+      "year": "2017",
+      "category": "Teaching Excellence",
+      "details": "Recognition of exceptional teaching effectiveness and student engagement",
+      "significance": [
+        "Top teaching honor for graduate students",
+        "Based on student evaluations",
+        "Recognizes pedagogical innovation",
+        "Demonstrates communication excellence"
+      ]
+    },
+    {
+      "name": "Kao Fellowship",
+      "year": "2016",
+      "category": "Research Support",
+      "details": "Competitive fellowship supporting innovative research in applied sciences",
+      "significance": [
+        "Merit-based selection",
+        "Research funding support",
+        "Recognition of research potential",
+        "Advanced technology focus"
+      ]
+    }
+  ],
+  "impact": {
+    "academic": [
+      "Teaching skill validation",
+      "Research support",
+      "Academic excellence recognition",
+      "Professional development"
+    ],
+    "career": [
+      "Teaching credentials",
+      "Research funding",
+      "Professional recognition",
+      "Academic achievement"
+    ]
+  }
+}

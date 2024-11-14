@@ -1,0 +1,133 @@
+{
+  "id": "AGI004",
+  "core": "Developed and implemented prompt engineering solutions to generate full websites, proposals, and various deliverables, streamlining content creation through AI automation",
+  "dates": {
+    "start": "2023-09",
+    "end": "2024-03",
+    "status": "completed"
+  },
+  "company": "Elementsist",
+  "related_entries": ["AGI003", "WEB001", "WEB002"],
+  "relationship_type": "content_automation",
+  "variations": {
+    "ai_engineer": {
+      "short": "Built AI content generation system",
+      "medium": "Developed automated content creation",
+      "detailed": "Engineered sophisticated prompt-based system for generating diverse business deliverables"
+    },
+    "prompt_engineer": {
+      "short": "Created prompt engineering system",
+      "medium": "Designed AI content generation",
+      "detailed": "Developed advanced prompt engineering frameworks for automated content creation and document generation"
+    },
+    "automation_specialist": {
+      "short": "Automated content delivery",
+      "medium": "Streamlined deliverable creation",
+      "detailed": "Implemented automated systems for generating various business documents and web content"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "deliverable types automated",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "ongoing",
+      "impact_area": "productivity"
+    },
+    {
+      "value": "streamlined",
+      "context": "content generation process",
+      "verified": true,
+      "category": "efficiency",
+      "timeframe": "continuous",
+      "impact_area": "operations"
+    },
+    {
+      "value": "comprehensive",
+      "context": "automation solution",
+      "verified": true,
+      "category": "implementation",
+      "timeframe": "project completion",
+      "impact_area": "delivery"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "ai",
+      "detail": "Prompt engineering",
+      "proficiency": "expert"
+    },
+    {
+      "category": "automation",
+      "detail": "Content generation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "System implementation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Output quality",
+      "proficiency": "expert"
+    }
+  ],
+  "impact": [
+    "Accelerated content creation",
+    "Improved consistency",
+    "Reduced manual effort",
+    "Enhanced scalability",
+    "Standardized output",
+    "Increased efficiency",
+    "Enabled rapid iteration",
+    "Streamlined workflows"
+  ],
+  "prompt_engineering": {
+    "design": [
+      "Context optimization",
+      "Instruction crafting",
+      "Parameter tuning",
+      "Output formatting"
+    ],
+    "implementation": [
+      "System integration",
+      "Error handling",
+      "Quality control",
+      "Version management"
+    ],
+    "optimization": [
+      "Response refinement",
+      "Performance tuning",
+      "Style adjustment",
+      "Consistency improvement"
+    ],
+    "automation": [
+      "Workflow integration",
+      "Process streamlining",
+      "Output management",
+      "Quality assurance"
+    ]
+  },
+  "content_types": {
+    "websites": [
+      "Page content",
+      "Meta descriptions",
+      "Site structure",
+      "Navigation elements"
+    ],
+    "documents": [
+      "Proposals",
+      "Reports",
+      "Documentation",
+      "Technical specs"
+    ],
+    "marketing": [
+      "Copy content",
+      "Campaign materials",
+      "Brand messaging",
+      "Value propositions"
+    ]
+  }
+}

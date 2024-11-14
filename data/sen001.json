@@ -1,0 +1,177 @@
+{
+    "id": "SEN001",
+    "core": "Leading design, build, integration, and testing of microfluidic systems integrated with ring resonator biosensors for protein kinetics measurements, employing rapid prototyping for accelerated development",
+    "dates": {
+      "start": "2023-01",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "technical_lead": {
+        "short": "Led biosensor development",
+        "medium": "Directed integrated biosensor project",
+        "detailed": "Leading comprehensive development of microfluidic-integrated optical biosensors, from concept through testing and validation"
+      },
+      "systems_engineer": {
+        "short": "Designed integrated sensing platform",
+        "medium": "Developed microfluidic-photonic system",
+        "detailed": "Engineering complex integration of microfluidics with optical sensing elements for protein analysis applications"
+      },
+      "research_engineer": {
+        "short": "Advanced biosensor capabilities",
+        "medium": "Developed protein measurement system",
+        "detailed": "Developing advanced biosensing platform combining microfluidics and photonics for real-time protein kinetics analysis"
+      }
+    },
+    "metrics": [
+      {
+        "value": "integrated",
+        "context": "microfluidic-photonic system",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "development",
+        "impact_area": "technology"
+      },
+      {
+        "value": "rapid",
+        "context": "prototyping and iteration",
+        "verified": true,
+        "category": "development",
+        "timeframe": "continuous",
+        "impact_area": "efficiency"
+      },
+      {
+        "value": "real-time",
+        "context": "protein kinetics measurement",
+        "verified": true,
+        "category": "capability",
+        "timeframe": "operation",
+        "impact_area": "performance"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "microfluidics",
+        "detail": "System design and integration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "photonics",
+        "detail": "Ring resonator sensors",
+        "proficiency": "expert"
+      },
+      {
+        "category": "integration",
+        "detail": "System assembly and testing",
+        "proficiency": "expert"
+      },
+      {
+        "category": "prototyping",
+        "detail": "Rapid development methods",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Advanced biosensor technology",
+      "Enabled protein analysis",
+      "Improved measurement capability",
+      "Created integration methods",
+      "Enhanced system performance",
+      "Established test protocols",
+      "Accelerated development",
+      "Enabled new applications"
+    ],
+    "skills": [
+      "System Integration",
+      "Microfluidic Design",
+      "Optical Sensing",
+      "Rapid Prototyping",
+      "Test Development",
+      "Performance Optimization",
+      "Requirements Analysis",
+      "Technical Leadership",
+      "Process Development",
+      "Design Validation"
+    ],
+    "tags": [
+      "Biosensors",
+      "Microfluidics",
+      "Photonics",
+      "Integration",
+      "Development",
+      "Prototyping",
+      "Analysis"
+    ],
+    "methodology": [
+      "Rapid Prototyping",
+      "Iterative Development",
+      "System Integration",
+      "Performance Validation",
+      "Design Optimization"
+    ],
+    "domain_impact": [
+      "Protein Analysis",
+      "Biosensing",
+      "Medical Diagnostics",
+      "Research Tools"
+    ],
+    "tech_stack": [
+      "CAD Software",
+      "Simulation Tools",
+      "Test Equipment",
+      "Analysis Platforms"
+    ],
+    "system_components": {
+      "microfluidics": [
+        "Channel design",
+        "Flow control",
+        "Sample handling",
+        "Integration interfaces"
+      ],
+      "photonics": [
+        "Ring resonators",
+        "Optical coupling",
+        "Signal detection",
+        "Data acquisition"
+      ],
+      "integration": [
+        "Interface design",
+        "Assembly methods",
+        "Packaging solutions",
+        "System connections"
+      ],
+      "control": [
+        "Flow management",
+        "Temperature control",
+        "Data collection",
+        "System monitoring"
+      ]
+    },
+    "development_process": {
+      "design": [
+        "Requirements analysis",
+        "System architecture",
+        "Component specification",
+        "Integration planning"
+      ],
+      "prototyping": [
+        "Rapid fabrication",
+        "Assembly testing",
+        "Performance validation",
+        "Design iteration"
+      ],
+      "testing": [
+        "Functional validation",
+        "Performance characterization",
+        "Reliability assessment",
+        "System optimization"
+      ],
+      "validation": [
+        "Measurement accuracy",
+        "System stability",
+        "Response time",
+        "Detection limits"
+      ]
+    }
+  }

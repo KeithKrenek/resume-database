@@ -1,0 +1,100 @@
+{
+  "id": "ACT008",
+  "core": "Led and participated in various educational outreach programs, focusing on science and engineering education for K-12 students",
+  "dates": {
+    "start": "2015-09",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "category": "educational_outreach",
+  "programs": [
+    {
+      "name": "Cambridge 8th Grade Science and Engineering Showcase",
+      "role": "Volunteer",
+      "date": "2017-2018",
+      "activities": [
+        "Demonstrated scientific concepts",
+        "Guided student projects",
+        "Facilitated hands-on learning",
+        "Answered technical questions"
+      ],
+      "impact": [
+        "Enhanced student engagement",
+        "Promoted STEM interest",
+        "Supported practical learning",
+        "Built student confidence"
+      ]
+    },
+    {
+      "name": "Harvard Public School Partnerships",
+      "role": "Volunteer",
+      "date": "2016-2019",
+      "activities": [
+        "Delivered science presentations",
+        "Led interactive experiments",
+        "Mentored student projects",
+        "Developed educational materials"
+      ],
+      "impact": [
+        "Strengthened school-university connections",
+        "Enhanced STEM education",
+        "Inspired future scientists",
+        "Supported teachers"
+      ]
+    }
+  ],
+  "impact_areas": {
+    "student_development": [
+      "Scientific understanding",
+      "Practical skills",
+      "Problem-solving abilities",
+      "STEM interest"
+    ],
+    "educational_system": [
+      "Resource enhancement",
+      "Teacher support",
+      "Program diversity",
+      "Learning effectiveness"
+    ],
+    "community": [
+      "Academic partnerships",
+      "Educational access",
+      "Knowledge sharing",
+      "Resource distribution"
+    ]
+  },
+  "skills_demonstrated": {
+    "educational": [
+      "Science communication",
+      "Interactive teaching",
+      "Student engagement",
+      "Curriculum adaptation"
+    ],
+    "leadership": [
+      "Program coordination",
+      "Team collaboration",
+      "Initiative development",
+      "Resource management"
+    ],
+    "technical": [
+      "Experiment design",
+      "Safety management",
+      "Equipment handling",
+      "Demonstration planning"
+    ]
+  },
+  "outcomes": {
+    "immediate": [
+      "Increased student engagement",
+      "Enhanced understanding",
+      "Practical experience",
+      "Community connection"
+    ],
+    "long_term": [
+      "STEM career interest",
+      "Educational partnership development",
+      "Community impact",
+      "Program sustainability"
+    ]
+  }
+}

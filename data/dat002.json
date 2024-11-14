@@ -1,0 +1,117 @@
+{
+  "id": "DAT002",
+  "core": "Conducted and analyzed terabytes of electrical data from over 100 neuronal network experiments, establishing comprehensive understanding of network behavior",
+  "dates": {
+    "start": "2016-01",
+    "end": "2019-07",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["BIO007", "SEN002", "FAB003", "FAB004", "BIO008", "BIZ004"],
+  "relationship_type": "data_analysis",
+  "variations": {
+    "data_scientist": {
+      "short": "Analyzed neural network data",
+      "medium": "Processed terabyte-scale neural data",
+      "detailed": "Conducted comprehensive analysis of large-scale neuronal network electrical recordings"
+    },
+    "research_analyst": {
+      "short": "Evaluated neural experiments",
+      "medium": "Analyzed experimental outcomes",
+      "detailed": "Led analysis of extensive neuronal network experiments examining electrical behavior"
+    },
+    "technical_lead": {
+      "short": "Managed data processing",
+      "medium": "Led experimental analysis",
+      "detailed": "Directed processing and analysis of large-scale neurophysiological datasets"
+    }
+  },
+  "metrics": [
+    {
+      "value": "terabytes",
+      "context": "data analyzed",
+      "verified": true,
+      "category": "scale",
+      "timeframe": "project duration",
+      "impact_area": "analysis"
+    },
+    {
+      "value": "100+",
+      "context": "experiments analyzed",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "total",
+      "impact_area": "research"
+    },
+    {
+      "value": "comprehensive",
+      "context": "network characterization",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "completion",
+      "impact_area": "understanding"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "analysis",
+      "detail": "Large-scale data processing",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electrophysiology",
+      "detail": "Neural signal analysis",
+      "proficiency": "expert"
+    },
+    {
+      "category": "computing",
+      "detail": "High-performance processing",
+      "proficiency": "expert"
+    },
+    {
+      "category": "visualization",
+      "detail": "Data representation",
+      "proficiency": "expert"
+    }
+  ],
+  "analysis_components": {
+    "processing": [
+      "Signal extraction",
+      "Noise reduction",
+      "Feature detection",
+      "Pattern recognition"
+    ],
+    "characterization": [
+      "Network dynamics",
+      "Signal properties",
+      "Temporal patterns",
+      "Spatial relationships"
+    ],
+    "validation": [
+      "Quality control",
+      "Error analysis",
+      "Statistical verification",
+      "Result confirmation"
+    ]
+  },
+  "data_management": {
+    "storage": [
+      "Data organization",
+      "Version control",
+      "Backup systems",
+      "Archive management"
+    ],
+    "processing": [
+      "Pipeline development",
+      "Batch processing",
+      "Performance optimization",
+      "Resource allocation"
+    ],
+    "analysis": [
+      "Statistical methods",
+      "Pattern recognition",
+      "Trend analysis",
+      "Correlation studies"
+    ]
+  }
+}

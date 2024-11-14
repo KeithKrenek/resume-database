@@ -1,0 +1,145 @@
+{
+    "id": "BIO005",
+    "core": "Accelerated technology readiness of a novel particle manipulation device through iterative hardware-software development cycles, exploring new materials and geometries while validating via experiments and simulations",
+    "dates": {
+      "start": "2021-06",
+      "end": "2023-02",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "development_lead": {
+        "short": "Led rapid device development",
+        "medium": "Directed iterative device optimization process",
+        "detailed": "Led accelerated development of particle manipulation system through coordinated hardware prototyping and software simulation cycles"
+      },
+      "research_engineer": {
+        "short": "Explored new design solutions",
+        "medium": "Investigated novel materials and geometries",
+        "detailed": "Conducted systematic exploration of new materials and geometric configurations to optimize device performance and manufacturability"
+      },
+      "validation_engineer": {
+        "short": "Validated device performance",
+        "medium": "Performed comprehensive system validation",
+        "detailed": "Executed iterative validation cycles combining experimental testing with simulation-based verification to ensure design optimization"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "design iterations completed",
+        "verified": true,
+        "category": "development",
+        "timeframe": "project duration",
+        "impact_area": "optimization"
+      },
+      {
+        "value": "accelerated",
+        "context": "technology readiness progression",
+        "verified": true,
+        "category": "advancement",
+        "timeframe": "project timeline",
+        "impact_area": "development"
+      },
+      {
+        "value": "validated",
+        "context": "performance improvements",
+        "verified": true,
+        "category": "verification",
+        "timeframe": "per iteration",
+        "impact_area": "functionality"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "prototyping",
+        "detail": "Rapid hardware iteration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "simulation",
+        "detail": "Software validation",
+        "proficiency": "expert"
+      },
+      {
+        "category": "materials",
+        "detail": "Materials exploration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "testing",
+        "detail": "Performance validation",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Accelerated development timeline",
+      "Improved device performance",
+      "Identified optimal materials",
+      "Enhanced design methodology",
+      "Validated novel configurations",
+      "Established testing protocols",
+      "Created development framework",
+      "Enabled rapid iteration"
+    ],
+    "skills": [
+      "Rapid Prototyping",
+      "Materials Engineering",
+      "Design Optimization",
+      "Experimental Validation",
+      "Simulation Analysis",
+      "Performance Testing",
+      "Technical Leadership",
+      "Process Development",
+      "Hardware Integration",
+      "Software Validation"
+    ],
+    "tags": [
+      "Prototyping",
+      "Optimization",
+      "Materials",
+      "Validation",
+      "Development",
+      "Integration",
+      "Research"
+    ],
+    "methodology": [
+      "Iterative Development",
+      "Hardware-Software Codesign",
+      "Experimental Validation",
+      "Simulation-Based Design",
+      "Rapid Prototyping"
+    ],
+    "domain_impact": [
+      "Particle Manipulation",
+      "Device Development",
+      "Process Optimization",
+      "Technology Advancement"
+    ],
+    "tech_stack": [
+      "CAD Tools",
+      "Simulation Software",
+      "Testing Equipment",
+      "Analysis Platforms"
+    ],
+    "development_process": {
+      "hardware": [
+        "Material selection",
+        "Geometry optimization",
+        "Component integration",
+        "Assembly validation"
+      ],
+      "software": [
+        "Performance simulation",
+        "Parameter optimization",
+        "Model validation",
+        "Results analysis"
+      ],
+      "validation": [
+        "Experimental testing",
+        "Performance verification",
+        "Design iteration",
+        "Documentation"
+      ]
+    }
+  }

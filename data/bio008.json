@@ -1,0 +1,123 @@
+{
+  "id": "BIO008",
+  "core": "Developed comprehensive multiphysics models to characterize and optimize interactions between living cells and 3D electrodes, enabling improved neuroelectronic interface design",
+  "dates": {
+    "start": "2016-09",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["BIO007", "SEN002", "FAB003", "FAB004", "BIZ004"],
+  "relationship_type": "simulation_development",
+  "variations": {
+    "simulation_engineer": {
+      "short": "Modeled cell-electrode physics",
+      "medium": "Developed multiphysics cell models",
+      "detailed": "Created comprehensive models of cell-electrode interactions in 3D environments"
+    },
+    "research_scientist": {
+      "short": "Analyzed bio-electronic interfaces",
+      "medium": "Investigated cell-electrode dynamics",
+      "detailed": "Led multiphysics analysis of cellular interactions with 3D electrode structures"
+    },
+    "modeling_specialist": {
+      "short": "Created bio-interface models",
+      "medium": "Developed biological simulation tools",
+      "detailed": "Engineered multiphysics simulation framework for bio-electronic interfaces"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "physics domains integrated",
+      "verified": true,
+      "category": "complexity",
+      "timeframe": "development",
+      "impact_area": "simulation"
+    },
+    {
+      "value": "3D",
+      "context": "spatial modeling achieved",
+      "verified": true,
+      "category": "capability",
+      "timeframe": "implementation",
+      "impact_area": "analysis"
+    },
+    {
+      "value": "optimized",
+      "context": "interface design enabled",
+      "verified": true,
+      "category": "impact",
+      "timeframe": "completion",
+      "impact_area": "development"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "simulation",
+      "detail": "Multiphysics modeling",
+      "proficiency": "expert"
+    },
+    {
+      "category": "biology",
+      "detail": "Cell behavior analysis",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electronics",
+      "detail": "Interface characterization",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Design improvement",
+      "proficiency": "expert"
+    }
+  ],
+  "physics_domains": {
+    "electrical": [
+      "Field distribution",
+      "Charge transfer",
+      "Signal propagation",
+      "Interface impedance"
+    ],
+    "mechanical": [
+      "Cell adhesion",
+      "Surface interactions",
+      "Structural mechanics",
+      "Material properties"
+    ],
+    "biological": [
+      "Cell behavior",
+      "Membrane dynamics",
+      "Physiological response",
+      "Environmental factors"
+    ],
+    "chemical": [
+      "Surface chemistry",
+      "Ionic interactions",
+      "pH effects",
+      "Biocompatibility"
+    ]
+  },
+  "simulation_features": {
+    "modeling": [
+      "3D geometry",
+      "Time dynamics",
+      "Multi-scale effects",
+      "Coupled phenomena"
+    ],
+    "analysis": [
+      "Parameter sensitivity",
+      "Performance prediction",
+      "Optimization studies",
+      "Design validation"
+    ],
+    "implementation": [
+      "Numerical methods",
+      "Convergence handling",
+      "Resource management",
+      "Result visualization"
+    ]
+  }
+}

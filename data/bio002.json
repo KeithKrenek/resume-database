@@ -1,0 +1,145 @@
+{
+    "id": "BIO002",
+    "core": "Led design and simulation efforts for new capacitive micromachined ultrasonic transducer (CMUT) arrays, optimizing acoustic force generation for precise cell and particle manipulation in microfluidic devices",
+    "dates": {
+      "start": "2022-01",
+      "end": "2023-06",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "technical_lead": {
+        "short": "Led CMUT array design project",
+        "medium": "Directed development of acoustic transducer arrays",
+        "detailed": "Led multiphysics design and simulation efforts for novel CMUT arrays, optimizing acoustic force generation for cellular manipulation applications"
+      },
+      "simulation_engineer": {
+        "short": "Simulated acoustofluidic devices",
+        "medium": "Developed comprehensive device models",
+        "detailed": "Created detailed multiphysics simulations incorporating electrical, mechanical, and fluidic interactions for CMUT array optimization"
+      },
+      "device_engineer": {
+        "short": "Designed ultrasonic transducers",
+        "medium": "Optimized CMUT array configurations",
+        "detailed": "Engineered CMUT array designs balancing acoustic performance, fabrication constraints, and system integration requirements"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "physics domains integrated",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "design phase",
+        "impact_area": "simulation"
+      },
+      {
+        "value": "optimized",
+        "context": "acoustic force generation",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "per design",
+        "impact_area": "functionality"
+      },
+      {
+        "value": "novel",
+        "context": "transducer array configurations",
+        "verified": true,
+        "category": "innovation",
+        "timeframe": "project duration",
+        "impact_area": "technology"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "simulation",
+        "detail": "Multiphysics modeling",
+        "proficiency": "expert"
+      },
+      {
+        "category": "acoustics",
+        "detail": "Ultrasonic transducer design",
+        "proficiency": "expert"
+      },
+      {
+        "category": "microfluidics",
+        "detail": "Cell manipulation systems",
+        "proficiency": "expert"
+      },
+      {
+        "category": "optimization",
+        "detail": "Device performance optimization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Advanced CMUT array technology",
+      "Enabled precise cell manipulation",
+      "Improved device performance",
+      "Enhanced design methodology",
+      "Created simulation framework",
+      "Informed fabrication processes",
+      "Established design guidelines",
+      "Supported system integration"
+    ],
+    "skills": [
+      "Multiphysics Simulation",
+      "MEMS Design",
+      "Acoustic Engineering",
+      "Device Optimization",
+      "Technical Leadership",
+      "System Integration",
+      "Performance Analysis",
+      "Design Documentation",
+      "Requirements Analysis",
+      "Cross-functional Coordination"
+    ],
+    "tags": [
+      "MEMS",
+      "Acoustics",
+      "Simulation",
+      "Biotech",
+      "Design",
+      "Optimization",
+      "Research"
+    ],
+    "methodology": [
+      "Physics-Based Design",
+      "Iterative Optimization",
+      "Performance Modeling",
+      "Design for Manufacturing",
+      "System-Level Integration"
+    ],
+    "domain_impact": [
+      "Cell Manipulation",
+      "Acoustic MEMS",
+      "Biomedical Devices",
+      "Research Instrumentation"
+    ],
+    "tech_stack": [
+      "COMSOL Multiphysics",
+      "CAD Software",
+      "Analysis Tools",
+      "Simulation Frameworks"
+    ],
+    "design_considerations": {
+      "physics": [
+        "Electrostatic actuation",
+        "Mechanical resonance",
+        "Acoustic wave propagation",
+        "Fluid dynamics"
+      ],
+      "optimization": [
+        "Force generation",
+        "Frequency response",
+        "Power efficiency",
+        "Spatial resolution"
+      ],
+      "integration": [
+        "Fabrication constraints",
+        "System compatibility",
+        "Operating conditions",
+        "Performance requirements"
+      ]
+    }
+  }

@@ -1,0 +1,67 @@
+{
+  "id": "ACT004",
+  "core": "Engaged in diverse community service activities, contributing to educational, social, and charitable initiatives",
+  "dates": {
+    "start": "2012-09",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "community_engagement",
+  "activities": [
+    {
+      "role": "Volunteer",
+      "organization": "St. Paul Food Pantry",
+      "dates": "2022-2024",
+      "impact": "Supported food security initiatives in local community",
+      "responsibilities": ["Food distribution", "Inventory management", "Client service"]
+    },
+    {
+      "role": "Donation Coordinator",
+      "organization": "Mile High United Way School Supply Drive",
+      "dates": "2021-2022",
+      "impact": "Managed donation outpost for educational supplies",
+      "responsibilities": ["Resource collection", "Distribution coordination", "Community outreach"]
+    },
+    {
+      "role": "Liturgical Minister",
+      "organization": "St. Thomas Aquinas Catholic Parish",
+      "dates": "2020-2024",
+      "impact": "Supported community spiritual services",
+      "responsibilities": ["Service coordination", "Community engagement", "Event support"]
+    },
+    {
+      "role": "Volunteer",
+      "organization": "Dancing to Heal",
+      "dates": "2018-2019",
+      "impact": "Contributed to therapeutic movement programs",
+      "responsibilities": ["Program support", "Participant engagement", "Event assistance"]
+    }
+  ],
+  "impact_areas": {
+    "community": [
+      "Food security enhancement",
+      "Educational resource access",
+      "Spiritual community support",
+      "Health and wellness promotion"
+    ],
+    "organizational": [
+      "Resource distribution efficiency",
+      "Program sustainability",
+      "Community engagement",
+      "Service delivery"
+    ],
+    "personal": [
+      "Leadership development",
+      "Community connection",
+      "Service orientation",
+      "Cultural awareness"
+    ]
+  },
+  "skills_demonstrated": [
+    "Project coordination",
+    "Resource management",
+    "Community engagement",
+    "Event planning",
+    "Team collaboration"
+  ]
+}

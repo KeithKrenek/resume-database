@@ -1,0 +1,139 @@
+{
+  "id": "AGI005",
+  "core": "Designed and implemented sophisticated math and physics-based prompts to test and improve AI model robustness, while ensuring prompt diversity and minimizing biases through systematic audits",
+  "dates": {
+    "start": "2023-01",
+    "end": "2023-06",
+    "status": "completed"
+  },
+  "company": "Scale AI",
+  "related_entries": ["AGI003", "AGI004"],
+  "relationship_type": "ai_development",
+  "variations": {
+    "prompt_engineer": {
+      "short": "Developed testing prompts",
+      "medium": "Created advanced model testing system",
+      "detailed": "Engineered sophisticated prompts for testing and improving AI model performance in technical domains"
+    },
+    "quality_assurance": {
+      "short": "Conducted prompt audits",
+      "medium": "Ensured prompt quality and diversity",
+      "detailed": "Implemented systematic audit processes to ensure prompt compliance, diversity, and bias minimization"
+    },
+    "ai_researcher": {
+      "short": "Enhanced model robustness",
+      "medium": "Improved AI model performance",
+      "detailed": "Developed specialized prompts targeting technical reasoning capabilities to enhance model robustness"
+    }
+  },
+  "metrics": [
+    {
+      "value": "frequent",
+      "context": "prompt audits conducted",
+      "verified": true,
+      "category": "quality",
+      "timeframe": "continuous",
+      "impact_area": "compliance"
+    },
+    {
+      "value": "enhanced",
+      "context": "model robustness improvement",
+      "verified": true,
+      "category": "performance",
+      "timeframe": "project duration",
+      "impact_area": "capability"
+    },
+    {
+      "value": "diverse",
+      "context": "prompt coverage achieved",
+      "verified": true,
+      "category": "development",
+      "timeframe": "ongoing",
+      "impact_area": "testing"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "prompting",
+      "detail": "Technical prompt development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "testing",
+      "detail": "Model evaluation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "quality",
+      "detail": "Audit implementation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Performance assessment",
+      "proficiency": "expert"
+    }
+  ],
+  "impact": [
+    "Improved model robustness",
+    "Enhanced technical reasoning",
+    "Reduced model bias",
+    "Increased prompt diversity",
+    "Strengthened quality assurance",
+    "Advanced testing methodology",
+    "Enhanced model evaluation",
+    "Improved compliance"
+  ],
+  "skills": [
+    "Prompt Engineering",
+    "AI Testing",
+    "Quality Assurance",
+    "Technical Writing",
+    "Performance Analysis",
+    "Compliance Management",
+    "Test Design",
+    "Mathematical Reasoning",
+    "Physics Knowledge",
+    "Bias Detection"
+  ],
+  "prompt_development": {
+    "technical": [
+      "Math reasoning challenges",
+      "Physics-based problems",
+      "Logic testing scenarios",
+      "Domain expertise application"
+    ],
+    "quality": [
+      "Bias detection",
+      "Diversity assessment",
+      "Compliance checking",
+      "Performance monitoring"
+    ],
+    "methodology": [
+      "Test case design",
+      "Scenario development",
+      "Complexity scaling",
+      "Edge case identification"
+    ]
+  },
+  "audit_process": {
+    "compliance": [
+      "Guidelines adherence",
+      "Policy verification",
+      "Standards maintenance",
+      "Documentation review"
+    ],
+    "diversity": [
+      "Topic coverage",
+      "Difficulty variation",
+      "Context range",
+      "Approach variety"
+    ],
+    "bias": [
+      "Bias identification",
+      "Fairness assessment",
+      "Balance verification",
+      "Mitigation strategies"
+    ]
+  }
+}

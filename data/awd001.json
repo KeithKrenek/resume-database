@@ -1,0 +1,47 @@
+{
+  "id": "AWD001",
+  "core": "Awarded prestigious National Science Foundation Graduate Research Fellowship supporting Ph.D. research in Applied Physics",
+  "dates": {
+    "awarded": "2015-03",
+    "duration": "2015-2019"
+  },
+  "category": "national_fellowship",
+  "organization": "National Science Foundation",
+  "details": {
+    "award_type": "Research Fellowship",
+    "monetary_value": "$138,000",
+    "award_rate": "~12% acceptance rate",
+    "scope": "National",
+    "recognition_area": "Graduate Research Potential"
+  },
+  "research_proposal": {
+    "field": "Applied Physics",
+    "focus": "CMOS-Integrated Neuroelectronic Interfaces",
+    "impact_areas": [
+      "Neuroscience research",
+      "Medical diagnostics",
+      "Brain-machine interfaces",
+      "Bioelectronic devices"
+    ]
+  },
+  "significance": [
+    "Premier graduate fellowship in sciences",
+    "Highly competitive national award",
+    "Full research funding support",
+    "Professional development opportunities"
+  ],
+  "impact": {
+    "research": [
+      "Enabled focused research time",
+      "Supported equipment access",
+      "Facilitated conference attendance",
+      "Enabled independent research direction"
+    ],
+    "career": [
+      "Enhanced research credibility",
+      "Provided networking opportunities",
+      "Demonstrated research potential",
+      "Supported academic freedom"
+    ]
+  }
+}

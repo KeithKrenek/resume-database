@@ -1,0 +1,61 @@
+{
+  "id": "EDU002",
+  "core": "Master of Science (M.S.) in Electrical Engineering with perfect academic performance",
+  "dates": {
+    "start": "2014-08",
+    "end": "2015-05",
+    "graduation": "2015-05"
+  },
+  "institution": "Texas A&M University",
+  "location": "College Station, TX",
+  "details": {
+    "degree": "M.S.",
+    "field": "Electrical Engineering",
+    "gpa": "4.0",
+    "thesis": "High-throughput microfluidic acoustic system to generate yeast cells for aging studies",
+    "advisors": ["Prof. Arum Han", "Prof. Sam Palermo"]
+  },
+  "research_focus": {
+    "primary": "Microfluidic Systems",
+    "specializations": [
+      "Bio-MEMS",
+      "Cell manipulation",
+      "Acoustic systems",
+      "Device automation"
+    ]
+  },
+  "key_coursework": [
+    "Advanced MEMS",
+    "Microelectronics",
+    "Signal Processing",
+    "Digital System Design",
+    "Advanced Circuit Design"
+  ],
+  "technical_skills": {
+    "design": [
+      "Microfluidic systems",
+      "Bio-MEMS devices",
+      "Circuit design",
+      "System automation"
+    ],
+    "software": [
+      "MATLAB",
+      "CAD tools",
+      "Circuit simulation",
+      "Data analysis"
+    ],
+    "laboratory": [
+      "Microfabrication",
+      "Device testing",
+      "System integration",
+      "Experimental design"
+    ]
+  },
+  "achievements": [
+    "Perfect 4.0 GPA",
+    "Research publication",
+    "Conference presentations",
+    "Technical innovations"
+  ],
+  "related_entries": ["BIO009", "BIO010", "BIO011", "DAT003", "BIO012"]
+}

@@ -1,0 +1,151 @@
+{
+    "id": "FAB001",
+    "core": "Led analysis and down-selection of large-scale manufacturing methods for a novel electric motor design, evaluating technical feasibility, cost effectiveness, and production scalability",
+    "dates": {
+      "start": "2022-04",
+      "end": "2023-01",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "manufacturing_engineer": {
+        "short": "Evaluated motor production methods",
+        "medium": "Analyzed manufacturing processes for novel motor",
+        "detailed": "Conducted comprehensive analysis of manufacturing methods for novel electric motor design, optimizing for scalability and cost-effectiveness"
+      },
+      "process_engineer": {
+        "short": "Optimized production processes",
+        "medium": "Developed scalable manufacturing strategy",
+        "detailed": "Evaluated and selected optimal manufacturing processes considering technical requirements, cost constraints, and production volume targets"
+      },
+      "technical_lead": {
+        "short": "Led manufacturing method selection",
+        "medium": "Directed production process analysis",
+        "detailed": "Led systematic evaluation and down-selection of manufacturing methods, balancing technical performance with production feasibility"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "manufacturing methods evaluated",
+        "verified": true,
+        "category": "analysis",
+        "timeframe": "project duration",
+        "impact_area": "manufacturing"
+      },
+      {
+        "value": "optimized",
+        "context": "production scalability",
+        "verified": true,
+        "category": "outcome",
+        "timeframe": "implementation",
+        "impact_area": "production"
+      },
+      {
+        "value": "comprehensive",
+        "context": "feasibility assessment",
+        "verified": true,
+        "category": "evaluation",
+        "timeframe": "analysis phase",
+        "impact_area": "decision-making"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "manufacturing",
+        "detail": "Process analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "evaluation",
+        "detail": "Method assessment",
+        "proficiency": "expert"
+      },
+      {
+        "category": "production",
+        "detail": "Scalability analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "cost",
+        "detail": "Economic assessment",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Identified optimal production method",
+      "Enabled scalable manufacturing",
+      "Reduced production costs",
+      "Improved process efficiency",
+      "Enhanced product quality",
+      "Established evaluation framework",
+      "Informed strategic decisions",
+      "Created selection methodology"
+    ],
+    "skills": [
+      "Manufacturing Analysis",
+      "Process Evaluation",
+      "Cost Assessment",
+      "Technical Leadership",
+      "Decision Making",
+      "Risk Analysis",
+      "Requirements Analysis",
+      "Production Planning",
+      "Method Selection",
+      "Quality Assessment"
+    ],
+    "tags": [
+      "Manufacturing",
+      "Electric Motors",
+      "Production",
+      "Analysis",
+      "Optimization",
+      "Evaluation",
+      "Scale-up"
+    ],
+    "methodology": [
+      "Systematic Evaluation",
+      "Cost-Benefit Analysis",
+      "Technical Assessment",
+      "Risk Assessment",
+      "Decision Matrix Analysis"
+    ],
+    "domain_impact": [
+      "Electric Motor Production",
+      "Manufacturing Process",
+      "Production Scale-up",
+      "Method Selection"
+    ],
+    "tech_stack": [
+      "Analysis Tools",
+      "CAD Software",
+      "Process Simulation",
+      "Cost Modeling Tools"
+    ],
+    "evaluation_criteria": {
+      "technical": [
+        "Production capability",
+        "Quality consistency",
+        "Process control",
+        "Technical complexity"
+      ],
+      "economic": [
+        "Capital investment",
+        "Operating costs",
+        "Scale economies",
+        "Resource requirements"
+      ],
+      "operational": [
+        "Process reliability",
+        "Production rate",
+        "Quality control",
+        "Maintenance needs"
+      ],
+      "strategic": [
+        "Scalability potential",
+        "Supply chain impact",
+        "Technology maturity",
+        "Implementation risk"
+      ]
+    }
+  }

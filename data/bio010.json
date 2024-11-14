@@ -1,0 +1,117 @@
+{
+  "id": "BIO010",
+  "core": "Designed and fabricated over 100 customized microfluidic devices to meet specific customer research requirements and experimental needs",
+  "dates": {
+    "start": "2013-09",
+    "end": "2015-05",
+    "status": "completed"
+  },
+  "company": "NanoBio Systems Lab",
+  "related_entries": ["BIO009", "BIO011"],
+  "relationship_type": "device_development",
+  "variations": {
+    "device_engineer": {
+      "short": "Created microfluidic devices",
+      "medium": "Developed custom microfluidics",
+      "detailed": "Designed and fabricated customized microfluidic research platforms"
+    },
+    "fabrication_specialist": {
+      "short": "Built research devices",
+      "medium": "Produced microfluidic systems",
+      "detailed": "Implemented large-scale fabrication of specialized microfluidic devices"
+    },
+    "solutions_developer": {
+      "short": "Delivered custom solutions",
+      "medium": "Created research platforms",
+      "detailed": "Developed tailored microfluidic solutions for specific research needs"
+    }
+  },
+  "metrics": [
+    {
+      "value": "100+",
+      "context": "devices fabricated",
+      "verified": true,
+      "category": "production",
+      "timeframe": "project duration",
+      "impact_area": "delivery"
+    },
+    {
+      "value": "customized",
+      "context": "design solutions",
+      "verified": true,
+      "category": "development",
+      "timeframe": "per device",
+      "impact_area": "capability"
+    },
+    {
+      "value": "multiple",
+      "context": "customer requirements met",
+      "verified": true,
+      "category": "satisfaction",
+      "timeframe": "continuous",
+      "impact_area": "service"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "design",
+      "detail": "Microfluidic architecture",
+      "proficiency": "expert"
+    },
+    {
+      "category": "fabrication",
+      "detail": "Device production",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Performance tuning",
+      "proficiency": "expert"
+    },
+    {
+      "category": "validation",
+      "detail": "Quality assurance",
+      "proficiency": "expert"
+    }
+  ],
+  "development_process": {
+    "design": [
+      "Requirements analysis",
+      "Architecture planning",
+      "Feature optimization",
+      "Performance modeling"
+    ],
+    "fabrication": [
+      "Process selection",
+      "Material optimization",
+      "Quality control",
+      "Production efficiency"
+    ],
+    "validation": [
+      "Performance testing",
+      "Specification verification",
+      "User feedback",
+      "Documentation"
+    ]
+  },
+  "device_features": {
+    "technical": [
+      "Flow control",
+      "Channel design",
+      "Integration ports",
+      "Material selection"
+    ],
+    "customization": [
+      "Application-specific features",
+      "User requirements",
+      "Performance optimization",
+      "Interface adaptation"
+    ],
+    "quality": [
+      "Reliability testing",
+      "Performance validation",
+      "Consistency checks",
+      "Documentation"
+    ]
+  }
+}

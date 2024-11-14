@@ -1,0 +1,110 @@
+{
+  "id": "EDU003",
+  "core": "Bachelor of Science (B.S.) in Electrical Engineering with Mathematics Minor, achieving perfect academic record",
+  "dates": {
+    "start": "2010-08",
+    "end": "2014-08",
+    "graduation": "2014-08"
+  },
+  "institution": "Texas A&M University",
+  "location": "College Station, TX",
+  "details": {
+    "degree": "B.S.",
+    "major": "Electrical Engineering",
+    "minor": "Mathematics",
+    "gpa": "4.0",
+    "honors": "Summa Cum Laude",
+    "programs": [
+      "University Honors",
+      "Engineering Scholars Program",
+      "Undergraduate Research Scholars"
+    ]
+  },
+  "academic_focus": {
+    "electrical_engineering": [
+      "Circuit design",
+      "Signal processing",
+      "Electronics",
+      "Control systems",
+      "Digital systems"
+    ],
+    "mathematics": [
+      "Advanced calculus",
+      "Differential equations",
+      "Linear algebra",
+      "Numerical methods",
+      "Mathematical modeling"
+    ]
+  },
+  "key_coursework": {
+    "engineering": [
+      "Electronic Circuit Design",
+      "Digital Signal Processing",
+      "Microprocessor Systems",
+      "Control Theory",
+      "Electromagnetic Fields"
+    ],
+    "mathematics": [
+      "Advanced Engineering Math",
+      "Differential Equations",
+      "Numerical Analysis",
+      "Vector Calculus",
+      "Linear Algebra"
+    ]
+  },
+  "research_experience": {
+    "projects": [
+      {
+        "title": "Microfluidic Integration with CMOS",
+        "lab": "Analog & Mixed Signal Group",
+        "focus": "Protein interaction studies"
+      },
+      {
+        "title": "Bio-MEMS Development",
+        "lab": "NanoBio Systems Lab",
+        "focus": "Cell analysis systems"
+      }
+    ]
+  },
+  "achievements": {
+    "academic": [
+      "Perfect 4.0 GPA",
+      "Summa Cum Laude graduation",
+      "Multiple scholarships",
+      "Department honors"
+    ],
+    "research": [
+      "Undergraduate research publications",
+      "Conference presentations",
+      "Technical innovations",
+      "Laboratory expertise"
+    ],
+    "leadership": [
+      "Student organizations",
+      "Research team collaboration",
+      "Project management",
+      "Mentorship roles"
+    ]
+  },
+  "technical_skills": {
+    "engineering": [
+      "Circuit design",
+      "System integration",
+      "Signal processing",
+      "Control systems"
+    ],
+    "mathematics": [
+      "Mathematical modeling",
+      "Numerical analysis",
+      "Statistical analysis",
+      "Algorithm development"
+    ],
+    "software": [
+      "MATLAB",
+      "CAD tools",
+      "Programming languages",
+      "Simulation software"
+    ]
+  },
+  "related_entries": ["DAT003", "BIO012", "AWD003"]
+}

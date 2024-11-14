@@ -1,0 +1,74 @@
+{
+  "id": "ACT012",
+  "core": "Served as liturgical minister at St. Thomas Aquinas Catholic Parish, demonstrating leadership in community service and event coordination",
+  "dates": {
+    "start": "2020-01",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "community_leadership",
+  "organization": "St. Thomas Aquinas Catholic Parish",
+  "role_details": {
+    "position": "Liturgical Minister",
+    "responsibilities": [
+      "Coordinate liturgical services",
+      "Train and schedule volunteers",
+      "Ensure smooth service operations",
+      "Support community events"
+    ],
+    "leadership_aspects": [
+      "Team coordination",
+      "Event management",
+      "Community engagement",
+      "Service organization"
+    ]
+  },
+  "impact": {
+    "community": [
+      "Enhanced service quality",
+      "Improved volunteer coordination",
+      "Strengthened community bonds",
+      "Increased participation"
+    ],
+    "organizational": [
+      "Streamlined operations",
+      "Enhanced communication",
+      "Improved resource management",
+      "Better event coordination"
+    ],
+    "personal_development": [
+      "Leadership growth",
+      "Public speaking",
+      "Event planning",
+      "Team management"
+    ]
+  },
+  "transferable_skills": {
+    "leadership": [
+      "Team coordination",
+      "Resource management",
+      "Event planning",
+      "Communication"
+    ],
+    "organizational": [
+      "Schedule management",
+      "Process optimization",
+      "Quality assurance",
+      "Training development"
+    ]
+  },
+  "outcomes": {
+    "immediate": [
+      "Successful service execution",
+      "Enhanced volunteer engagement",
+      "Improved coordination",
+      "Better resource utilization"
+    ],
+    "long_term": [
+      "Sustainable processes",
+      "Community growth",
+      "Leadership development",
+      "Organizational improvement"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "WEB005",
+  "core": "Developed efficient graphical user interface for hardware test data analysis, reducing analysis time by 4+ hours through streamlined workflow",
+  "dates": {
+    "start": "2012-06",
+    "end": "2012-08",
+    "status": "completed"
+  },
+  "company": "Lockheed Martin Space Systems",
+  "related_entries": ["TST001", "FAB005"],
+  "relationship_type": "analysis_tool",
+  "variations": {
+    "software_engineer": {
+      "short": "Built analysis interface",
+      "medium": "Developed test analysis GUI",
+      "detailed": "Created efficient interface for hardware test data analysis"
+    },
+    "ui_developer": {
+      "short": "Designed analysis tool",
+      "medium": "Created data analysis interface",
+      "detailed": "Engineered streamlined GUI for complex test data processing"
+    },
+    "efficiency_specialist": {
+      "short": "Optimized analysis workflow",
+      "medium": "Improved data processing",
+      "detailed": "Developed time-saving analysis interface for test data"
+    }
+  },
+  "metrics": [
+    {
+      "value": "4+",
+      "context": "hours saved per analysis",
+      "verified": true,
+      "category": "efficiency",
+      "timeframe": "per test",
+      "impact_area": "productivity"
+    },
+    {
+      "value": "streamlined",
+      "context": "analysis workflow",
+      "verified": true,
+      "category": "optimization",
+      "timeframe": "continuous",
+      "impact_area": "process"
+    },
+    {
+      "value": "improved",
+      "context": "user experience",
+      "verified": true,
+      "category": "usability",
+      "timeframe": "implementation",
+      "impact_area": "operation"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "ui",
+      "detail": "Interface development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Data processing",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Workflow improvement",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "System connectivity",
+      "proficiency": "expert"
+    }
+  ],
+  "interface_features": {
+    "analysis": [
+      "Data processing",
+      "Result visualization",
+      "Trend analysis",
+      "Report generation"
+    ],
+    "usability": [
+      "Intuitive navigation",
+      "Workflow optimization",
+      "Error handling",
+      "User guidance"
+    ],
+    "efficiency": [
+      "Process automation",
+      "Time savings",
+      "Resource optimization",
+      "Task streamlining"
+    ]
+  },
+  "workflow_improvements": {
+    "automation": [
+      "Data import",
+      "Analysis execution",
+      "Result export",
+      "Report creation"
+    ],
+    "optimization": [
+      "Process streamlining",
+      "Step reduction",
+      "Error prevention",
+      "Time efficiency"
+    ],
+    "integration": [
+      "System connectivity",
+      "Data flow",
+      "Tool compatibility",
+      "Result sharing"
+    ]
+  }
+}

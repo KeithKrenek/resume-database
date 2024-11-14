@@ -1,0 +1,94 @@
+{
+  "id": "ACT007",
+  "core": "Served as judge for multiple academic research competitions and showcases, evaluating student projects and providing constructive feedback",
+  "dates": {
+    "start": "2014-01",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "category": "academic_service",
+  "roles": [
+    {
+      "title": "Judge",
+      "event": "National Collegiate Research Conference",
+      "organization": "Harvard University",
+      "date": "2018",
+      "responsibilities": [
+        "Evaluated research presentations",
+        "Provided constructive feedback",
+        "Assessed scientific merit",
+        "Ranked submissions"
+      ],
+      "impact": [
+        "Supported emerging researchers",
+        "Enhanced research quality",
+        "Encouraged scientific rigor",
+        "Promoted academic excellence"
+      ]
+    },
+    {
+      "title": "Judge",
+      "event": "Texas A&M Student Research Week",
+      "organization": "Texas A&M University",
+      "date": "2015",
+      "responsibilities": [
+        "Evaluated student presentations",
+        "Assessed research methodology",
+        "Provided feedback on presentation skills",
+        "Collaborated with judging panel"
+      ],
+      "impact": [
+        "Advanced student research",
+        "Improved presentation quality",
+        "Strengthened academic community",
+        "Fostered research excellence"
+      ]
+    }
+  ],
+  "evaluation_areas": {
+    "technical": [
+      "Research methodology",
+      "Scientific validity",
+      "Data analysis",
+      "Technical depth"
+    ],
+    "presentation": [
+      "Communication clarity",
+      "Visual presentation",
+      "Speaking skills",
+      "Audience engagement"
+    ],
+    "impact": [
+      "Research significance",
+      "Innovation level",
+      "Practical applications",
+      "Future potential"
+    ]
+  },
+  "skills_applied": {
+    "analytical": [
+      "Critical evaluation",
+      "Research assessment",
+      "Quality analysis",
+      "Methodology review"
+    ],
+    "communication": [
+      "Constructive feedback",
+      "Written evaluation",
+      "Verbal communication",
+      "Professional guidance"
+    ],
+    "leadership": [
+      "Decision making",
+      "Consensus building",
+      "Fair assessment",
+      "Mentorship"
+    ]
+  },
+  "contributions": [
+    "Enhanced research quality standards",
+    "Supported student development",
+    "Strengthened academic programs",
+    "Fostered research excellence"
+  ]
+}

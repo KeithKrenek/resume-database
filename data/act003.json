@@ -1,0 +1,69 @@
+{
+  "id": "ACT003",
+  "core": "Developed technical content across multiple platforms and industries, translating complex concepts for diverse audiences",
+  "dates": {
+    "start": "2019-01",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "professional_communication",
+  "roles": [
+    {
+      "title": "Tech Blog Writer/Editor",
+      "organization": "Very (IoT development company)",
+      "dates": "2022-2024",
+      "content_types": ["Technical blogs", "White papers", "Documentation"],
+      "focus_areas": ["IoT", "Development practices", "Industry trends"]
+    },
+    {
+      "title": "Tech Content Creator",
+      "organization": "Cartwheel Robotics",
+      "dates": "2023-2024",
+      "content_types": ["Technical documentation", "Marketing materials", "Educational content"],
+      "focus_areas": ["Robotics", "Automation", "Technology innovation"]
+    },
+    {
+      "title": "Software Engineering Consultant",
+      "organization": "Elementsist",
+      "dates": "2023-2024",
+      "content_types": ["Technical proposals", "Project documentation", "Client communications"],
+      "focus_areas": ["Software development", "AI/ML", "Business solutions"]
+    }
+  ],
+  "deliverables": {
+    "content_types": [
+      "Technical blog posts",
+      "White papers",
+      "Documentation",
+      "Educational materials",
+      "Marketing content"
+    ],
+    "topics_covered": [
+      "IoT development",
+      "Robotics technology",
+      "Software engineering",
+      "AI/ML applications",
+      "Industry best practices"
+    ],
+    "audience_reach": [
+      "Technical professionals",
+      "Business stakeholders",
+      "General public",
+      "Students and educators"
+    ]
+  },
+  "impact": {
+    "communication": [
+      "Enhanced technical clarity",
+      "Improved audience engagement",
+      "Effective knowledge transfer",
+      "Brand awareness building"
+    ],
+    "professional": [
+      "Industry expertise demonstration",
+      "Thought leadership development",
+      "Network expansion",
+      "Portfolio diversification"
+    ]
+  }
+}

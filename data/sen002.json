@@ -1,0 +1,123 @@
+{
+  "id": "SEN002",
+  "core": "Designed and optimized electric/fluidic packaging for neuroelectronic interface arrays, achieving 5x improvement in system package lifetime through innovative solutions",
+  "dates": {
+    "start": "2016-03",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["BIO007", "DAT002", "FAB003", "FAB004", "BIO008", "BIZ004"],
+  "relationship_type": "system_development",
+  "variations": {
+    "packaging_engineer": {
+      "short": "Optimized neural interface packaging",
+      "medium": "Enhanced neuroelectronic system lifetime",
+      "detailed": "Developed advanced packaging solutions for neuroelectronic interfaces with extended lifetime"
+    },
+    "systems_engineer": {
+      "short": "Designed interface systems",
+      "medium": "Created neural interface solutions",
+      "detailed": "Engineered comprehensive packaging solutions for neural interface arrays"
+    },
+    "reliability_engineer": {
+      "short": "Improved system longevity",
+      "medium": "Enhanced package reliability",
+      "detailed": "Achieved significant improvements in system reliability and lifetime"
+    }
+  },
+  "metrics": [
+    {
+      "value": "5x",
+      "context": "lifetime improvement",
+      "verified": true,
+      "category": "performance",
+      "timeframe": "achievement",
+      "impact_area": "reliability"
+    },
+    {
+      "value": "integrated",
+      "context": "electric/fluidic systems",
+      "verified": true,
+      "category": "complexity",
+      "timeframe": "development",
+      "impact_area": "technology"
+    },
+    {
+      "value": "optimized",
+      "context": "package design",
+      "verified": true,
+      "category": "design",
+      "timeframe": "completion",
+      "impact_area": "functionality"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "packaging",
+      "detail": "System integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "fluidics",
+      "detail": "Flow management",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electronics",
+      "detail": "Interface design",
+      "proficiency": "expert"
+    },
+    {
+      "category": "reliability",
+      "detail": "Lifetime optimization",
+      "proficiency": "expert"
+    }
+  ],
+  "design_features": {
+    "electrical": [
+      "Signal routing",
+      "Interference protection",
+      "Connection reliability",
+      "Power distribution"
+    ],
+    "fluidic": [
+      "Flow channels",
+      "Seal integrity",
+      "Pressure management",
+      "Bubble prevention"
+    ],
+    "mechanical": [
+      "Structural support",
+      "Stress management",
+      "Thermal control",
+      "Assembly methods"
+    ],
+    "reliability": [
+      "Failure prevention",
+      "Lifetime extension",
+      "Environmental protection",
+      "Maintenance access"
+    ]
+  },
+  "optimization_areas": {
+    "materials": [
+      "Biocompatibility",
+      "Durability",
+      "Interface properties",
+      "Chemical resistance"
+    ],
+    "integration": [
+      "Assembly processes",
+      "System interfaces",
+      "Component compatibility",
+      "Testing methods"
+    ],
+    "performance": [
+      "Signal quality",
+      "Flow stability",
+      "Environmental resistance",
+      "Long-term reliability"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "AWD005",
+  "core": "Awarded First Place in Oral Presentation at Texas A&M Student Research Week, demonstrating excellence in research communication and technical content",
+  "dates": {
+    "awarded": "2014-03"
+  },
+  "category": "research_excellence",
+  "organization": "Texas A&M University",
+  "details": {
+    "award_type": "Competition First Place",
+    "category": "Oral Presentation",
+    "event": "Student Research Week",
+    "competition_level": "University-wide",
+    "presentation_topic": "Microfluidic Systems for Cell Analysis"
+  },
+  "presentation_details": {
+    "research_area": "Bioengineering",
+    "technical_focus": [
+      "Microfluidic device development",
+      "Cell analysis automation",
+      "System integration",
+      "Experimental results"
+    ],
+    "evaluation_criteria": [
+      "Technical content",
+      "Presentation clarity",
+      "Research methodology",
+      "Impact and innovation"
+    ]
+  },
+  "significance": [
+    "Recognition of research excellence",
+    "Validation of communication skills",
+    "Peer recognition",
+    "Technical achievement"
+  ],
+  "impact": {
+    "academic": [
+      "Enhanced research visibility",
+      "Recognition of technical expertise",
+      "Improved presentation skills",
+      "Research validation"
+    ],
+    "professional": [
+      "Communication skill demonstration",
+      "Technical credibility",
+      "Presentation experience",
+      "Professional development"
+    ]
+  },
+  "related_entries": ["EDU002", "BIO009", "BIO010", "BIO011"]
+}

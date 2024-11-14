@@ -1,0 +1,145 @@
+{
+    "id": "BIO003",
+    "core": "Led electrical integration and RF optimization for an acoustofluidic biomanufacturing platform, developing a compact system for particle manipulation based on size and mechanical properties",
+    "dates": {
+      "start": "2021-09",
+      "end": "2023-12",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "systems_engineer": {
+        "short": "Led biomanufacturing tool integration",
+        "medium": "Managed electrical integration of acoustofluidic system",
+        "detailed": "Directed system integration of complex acoustofluidic platform, optimizing RF delivery and minimizing form factor for commercial biomanufacturing"
+      },
+      "electrical_engineer": {
+        "short": "Optimized RF power system",
+        "medium": "Developed efficient RF power delivery solution",
+        "detailed": "Engineered RF power delivery system with impedance matching network, minimizing power loss while ensuring reliable acoustic force generation"
+      },
+      "integration_lead": {
+        "short": "Led system miniaturization",
+        "medium": "Optimized system size and performance",
+        "detailed": "Orchestrated comprehensive size reduction effort while maintaining system performance, collaborating with multiple vendors for component optimization"
+      }
+    },
+    "metrics": [
+      {
+        "value": "optimized",
+        "context": "RF power delivery efficiency",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "continuous",
+        "impact_area": "functionality"
+      },
+      {
+        "value": "reduced",
+        "context": "system form factor",
+        "verified": true,
+        "category": "design",
+        "timeframe": "project completion",
+        "impact_area": "portability"
+      },
+      {
+        "value": "dozens",
+        "context": "vendors coordinated",
+        "verified": true,
+        "category": "collaboration",
+        "timeframe": "project duration",
+        "impact_area": "integration"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "rf",
+        "detail": "Power delivery optimization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "electrical",
+        "detail": "System integration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "acoustics",
+        "detail": "Impedance matching",
+        "proficiency": "expert"
+      },
+      {
+        "category": "systems",
+        "detail": "Size optimization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enhanced system portability",
+      "Improved power efficiency",
+      "Enabled commercial deployment",
+      "Reduced system complexity",
+      "Optimized component selection",
+      "Established integration procedures",
+      "Created vendor network",
+      "Improved system reliability"
+    ],
+    "skills": [
+      "System Integration",
+      "RF Engineering",
+      "Power Optimization",
+      "Vendor Management",
+      "Requirements Analysis",
+      "Technical Leadership",
+      "Design for Manufacturing",
+      "Size Reduction",
+      "Performance Optimization",
+      "Cross-functional Coordination"
+    ],
+    "tags": [
+      "RF",
+      "Integration",
+      "Biotech",
+      "Manufacturing",
+      "Optimization",
+      "Hardware",
+      "Commercial"
+    ],
+    "methodology": [
+      "Systems Engineering",
+      "Component Integration",
+      "Iterative Optimization",
+      "Vendor Collaboration",
+      "Design for Portability"
+    ],
+    "domain_impact": [
+      "Biomanufacturing",
+      "Commercial Instrumentation",
+      "Process Automation",
+      "Medical Devices"
+    ],
+    "tech_stack": [
+      "RF Test Equipment",
+      "Power Analysis Tools",
+      "CAD Software",
+      "Integration Tools"
+    ],
+    "system_optimization": {
+      "rf_system": [
+        "Power delivery efficiency",
+        "Impedance matching",
+        "Signal integrity",
+        "Thermal management"
+      ],
+      "integration": [
+        "Component selection",
+        "Size reduction",
+        "Assembly optimization",
+        "Interface design"
+      ],
+      "vendor_coordination": [
+        "Component specifications",
+        "Custom solutions",
+        "Quality assurance",
+        "Supply chain management"
+      ]
+    }
+  }

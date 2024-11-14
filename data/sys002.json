@@ -1,0 +1,177 @@
+{
+    "id": "SYS002",
+    "core": "Led comprehensive trade space analysis for development of a portable, lightweight, custom very low frequency (VLF) transmitter for field testing, optimizing design for mobility and performance",
+    "dates": {
+      "start": "2021-11",
+      "end": "2022-09",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "systems_engineer": {
+        "short": "Led VLF transmitter analysis",
+        "medium": "Directed VLF system trade study",
+        "detailed": "Led systematic evaluation of design options for portable VLF transmitter, balancing performance requirements with field deployment constraints"
+      },
+      "technical_lead": {
+        "short": "Led transmitter development study",
+        "medium": "Managed VLF system analysis project",
+        "detailed": "Directed comprehensive analysis of design alternatives for custom VLF transmitter, optimizing for portability and field testing capabilities"
+      },
+      "analysis_lead": {
+        "short": "Conducted system trade analysis",
+        "medium": "Led technical requirement analysis",
+        "detailed": "Spearheaded analysis of technical requirements and design options for field-deployable VLF transmission system"
+      }
+    },
+    "metrics": [
+      {
+        "value": "comprehensive",
+        "context": "design space evaluation",
+        "verified": true,
+        "category": "analysis",
+        "timeframe": "project duration",
+        "impact_area": "development"
+      },
+      {
+        "value": "optimized",
+        "context": "portability and performance balance",
+        "verified": true,
+        "category": "outcome",
+        "timeframe": "design",
+        "impact_area": "functionality"
+      },
+      {
+        "value": "field-ready",
+        "context": "system specifications",
+        "verified": true,
+        "category": "requirements",
+        "timeframe": "completion",
+        "impact_area": "deployment"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "rf",
+        "detail": "VLF system analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "systems",
+        "detail": "Trade study execution",
+        "proficiency": "expert"
+      },
+      {
+        "category": "analysis",
+        "detail": "Requirements evaluation",
+        "proficiency": "expert"
+      },
+      {
+        "category": "design",
+        "detail": "Portable system optimization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Defined optimal design approach",
+      "Enabled field deployment",
+      "Enhanced system portability",
+      "Improved test capabilities",
+      "Created design framework",
+      "Supported development decisions",
+      "Reduced technical risk",
+      "Established performance targets"
+    ],
+    "skills": [
+      "Systems Analysis",
+      "Trade Studies",
+      "RF Engineering",
+      "Requirements Analysis",
+      "Technical Leadership",
+      "Decision Analysis",
+      "Performance Optimization",
+      "Project Management",
+      "Design Evaluation",
+      "Risk Assessment"
+    ],
+    "tags": [
+      "VLF",
+      "RF Systems",
+      "Analysis",
+      "Trade Study",
+      "Portability",
+      "Field Testing",
+      "Development"
+    ],
+    "methodology": [
+      "Systematic Analysis",
+      "Requirements Management",
+      "Trade Space Exploration",
+      "Decision Analysis",
+      "Risk Assessment"
+    ],
+    "domain_impact": [
+      "Field Testing",
+      "RF Systems",
+      "Portable Electronics",
+      "Test Equipment"
+    ],
+    "tech_stack": [
+      "Analysis Tools",
+      "RF Design Software",
+      "System Modeling",
+      "Requirements Management"
+    ],
+    "analysis_areas": {
+      "performance": [
+        "Signal strength",
+        "Frequency stability",
+        "Power efficiency",
+        "Operating range"
+      ],
+      "physical": [
+        "Size optimization",
+        "Weight reduction",
+        "Portability features",
+        "Environmental protection"
+      ],
+      "operational": [
+        "Field deployment",
+        "User interface",
+        "Battery life",
+        "Setup time"
+      ],
+      "technical": [
+        "RF design",
+        "Power systems",
+        "Thermal management",
+        "Interface design"
+      ]
+    },
+    "trade_considerations": {
+      "requirements": [
+        "Performance specifications",
+        "Size constraints",
+        "Weight limits",
+        "Power budget"
+      ],
+      "constraints": [
+        "Field conditions",
+        "Transport requirements",
+        "User capabilities",
+        "Environmental factors"
+      ],
+      "evaluation": [
+        "Design alternatives",
+        "Component selection",
+        "Technology options",
+        "Implementation approaches"
+      ],
+      "decisions": [
+        "Design priorities",
+        "Technical compromises",
+        "Risk mitigation",
+        "Development path"
+      ]
+    }
+  }

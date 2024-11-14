@@ -1,0 +1,123 @@
+{
+  "id": "FAB003",
+  "core": "Developed and executed nano/micro-fabrication processes for integrating electrodes onto CMOS chips, including comprehensive metrology for quality assurance",
+  "dates": {
+    "start": "2016-06",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["BIO007", "SEN002", "FAB004", "BIO008", "BIZ004"],
+  "relationship_type": "fabrication_process",
+  "variations": {
+    "process_engineer": {
+      "short": "Fabricated CMOS electrodes",
+      "medium": "Developed electrode fabrication process",
+      "detailed": "Created nano/micro-scale electrode fabrication process for CMOS integration"
+    },
+    "fabrication_specialist": {
+      "short": "Integrated microelectrodes",
+      "medium": "Implemented electrode processes",
+      "detailed": "Executed complex fabrication processes for nano/micro-electrode integration"
+    },
+    "metrology_engineer": {
+      "short": "Conducted process validation",
+      "medium": "Performed fabrication metrology",
+      "detailed": "Implemented comprehensive metrology protocols for fabrication quality assurance"
+    }
+  },
+  "metrics": [
+    {
+      "value": "dozens",
+      "context": "processes implemented",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "project duration",
+      "impact_area": "fabrication"
+    },
+    {
+      "value": "integrated",
+      "context": "CMOS compatibility achieved",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "completion",
+      "impact_area": "technology"
+    },
+    {
+      "value": "comprehensive",
+      "context": "metrology implementation",
+      "verified": true,
+      "category": "quality",
+      "timeframe": "continuous",
+      "impact_area": "validation"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "fabrication",
+      "detail": "Nano/micro processes",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "CMOS compatibility",
+      "proficiency": "expert"
+    },
+    {
+      "category": "metrology",
+      "detail": "Process validation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "materials",
+      "detail": "Interface engineering",
+      "proficiency": "expert"
+    }
+  ],
+  "process_components": {
+    "fabrication": [
+      "Photolithography",
+      "Material deposition",
+      "Etching processes",
+      "Surface modification"
+    ],
+    "integration": [
+      "CMOS compatibility",
+      "Interface development",
+      "Process sequencing",
+      "Thermal management"
+    ],
+    "metrology": [
+      "Dimensional analysis",
+      "Surface characterization",
+      "Electrical testing",
+      "Quality verification"
+    ],
+    "optimization": [
+      "Yield improvement",
+      "Process refinement",
+      "Parameter optimization",
+      "Defect reduction"
+    ]
+  },
+  "quality_control": {
+    "measurements": [
+      "Physical dimensions",
+      "Electrical properties",
+      "Surface qualities",
+      "Material characteristics"
+    ],
+    "validation": [
+      "Process verification",
+      "Performance testing",
+      "Reliability assessment",
+      "Documentation control"
+    ],
+    "improvement": [
+      "Process refinement",
+      "Yield optimization",
+      "Error reduction",
+      "Quality enhancement"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "FAB004",
+  "core": "Invented and developed novel process for fabricating nanopipette electrodes onto CMOS chips, leading complete R&D cycle for biocompatible electrochemistry integration",
+  "dates": {
+    "start": "2017-01",
+    "end": "2019-07",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["FAB003", "BIO007", "SEN002", "BIO008", "BIZ004"],
+  "relationship_type": "process_innovation",
+  "variations": {
+    "process_innovator": {
+      "short": "Invented electrode process",
+      "medium": "Created novel fabrication method",
+      "detailed": "Developed innovative process for integrating nanopipette electrodes with CMOS"
+    },
+    "research_lead": {
+      "short": "Led process development",
+      "medium": "Directed fabrication R&D",
+      "detailed": "Led comprehensive R&D effort for biocompatible electrode integration"
+    },
+    "technical_lead": {
+      "short": "Managed process creation",
+      "medium": "Led technology development",
+      "detailed": "Directed development of novel biocompatible electrochemistry process"
+    }
+  },
+  "metrics": [
+    {
+      "value": "novel",
+      "context": "process invention",
+      "verified": true,
+      "category": "innovation",
+      "timeframe": "development",
+      "impact_area": "technology"
+    },
+    {
+      "value": "complete",
+      "context": "R&D cycle executed",
+      "verified": true,
+      "category": "development",
+      "timeframe": "project duration",
+      "impact_area": "process"
+    },
+    {
+      "value": "biocompatible",
+      "context": "integration achieved",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "completion",
+      "impact_area": "functionality"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "fabrication",
+      "detail": "Novel process development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electrochemistry",
+      "detail": "Biocompatible integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "development",
+      "detail": "R&D leadership",
+      "proficiency": "expert"
+    },
+    {
+      "category": "innovation",
+      "detail": "Process invention",
+      "proficiency": "expert"
+    }
+  ],
+  "development_phases": {
+    "invention": [
+      "Concept development",
+      "Feasibility analysis",
+      "Design innovation",
+      "Process planning"
+    ],
+    "implementation": [
+      "Process development",
+      "Parameter optimization",
+      "Integration methods",
+      "Quality control"
+    ],
+    "validation": [
+      "Performance testing",
+      "Biocompatibility verification",
+      "Reliability assessment",
+      "Process documentation"
+    ],
+    "optimization": [
+      "Yield improvement",
+      "Process refinement",
+      "Integration enhancement",
+      "Quality assurance"
+    ]
+  },
+  "process_achievements": {
+    "technical": [
+      "Novel fabrication method",
+      "CMOS compatibility",
+      "Biocompatible interface",
+      "Process reliability"
+    ],
+    "innovation": [
+      "Process invention",
+      "Parameter optimization",
+      "Integration solutions",
+      "Quality standards"
+    ],
+    "commercialization": [
+      "Technology transfer",
+      "Scale-up potential",
+      "Manufacturing viability",
+      "Cost effectiveness"
+    ]
+  }
+}

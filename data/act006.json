@@ -1,0 +1,100 @@
+{
+  "id": "ACT006",
+  "core": "Participated in and contributed to specialized academic programs focused on engineering excellence, research development, and scholarly achievement",
+  "dates": {
+    "start": "2010-09",
+    "end": "2015-05",
+    "status": "completed"
+  },
+  "category": "academic_development",
+  "programs": [
+    {
+      "name": "Texas A&M Engineering Scholars Program",
+      "role": "Scholar",
+      "duration": "2010-2014",
+      "focus_areas": [
+        "Advanced engineering concepts",
+        "Research methodology",
+        "Professional development",
+        "Leadership skills"
+      ],
+      "achievements": [
+        "Academic excellence",
+        "Research involvement",
+        "Professional networking",
+        "Leadership development"
+      ]
+    },
+    {
+      "name": "Texas A&M Undergraduate Research Scholars Program",
+      "role": "Research Scholar",
+      "duration": "2013-2014",
+      "activities": [
+        "Independent research",
+        "Methodology development",
+        "Results presentation",
+        "Technical writing"
+      ],
+      "outcomes": [
+        "Research publication",
+        "Technical presentation",
+        "Project management experience",
+        "Scientific writing skills"
+      ]
+    }
+  ],
+  "skills_developed": {
+    "academic": [
+      "Research methodology",
+      "Scientific writing",
+      "Data analysis",
+      "Critical thinking"
+    ],
+    "technical": [
+      "Engineering principles",
+      "Laboratory techniques",
+      "Experimental design",
+      "Data collection"
+    ],
+    "professional": [
+      "Project management",
+      "Team collaboration",
+      "Time management",
+      "Professional communication"
+    ]
+  },
+  "impact_areas": {
+    "academic": [
+      "Research capability",
+      "Scientific knowledge",
+      "Academic achievement",
+      "Scholarly contribution"
+    ],
+    "professional": [
+      "Career preparation",
+      "Network development",
+      "Leadership skills",
+      "Technical expertise"
+    ],
+    "personal": [
+      "Self-directed learning",
+      "Problem-solving ability",
+      "Time management",
+      "Goal achievement"
+    ]
+  },
+  "long_term_benefits": {
+    "career": [
+      "Strong academic foundation",
+      "Research experience",
+      "Professional network",
+      "Leadership capabilities"
+    ],
+    "skills": [
+      "Independent research ability",
+      "Project management",
+      "Technical communication",
+      "Problem-solving methodology"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ACT005",
+  "core": "Participated in and contributed to strategic professional development conferences focusing on resource optimization, teaching excellence, and industry advancement",
+  "dates": {
+    "start": "2016-09",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "professional_development",
+  "events": [
+    {
+      "name": "Business Today Regional Conference: Optimizing Resources",
+      "role": "Participant",
+      "date": "2023",
+      "focus_areas": [
+        "Resource optimization",
+        "Business strategy",
+        "Operational efficiency",
+        "Innovation management"
+      ],
+      "key_takeaways": [
+        "Strategic resource allocation",
+        "Efficiency optimization techniques",
+        "Business process improvement",
+        "Innovation implementation"
+      ]
+    },
+    {
+      "name": "Derek Bok Center for Teaching and Learning Conference",
+      "role": "Participant",
+      "date": "2017",
+      "focus_areas": [
+        "Teaching methodologies",
+        "Educational innovation",
+        "Student engagement",
+        "Learning assessment"
+      ],
+      "key_takeaways": [
+        "Advanced teaching strategies",
+        "Student engagement techniques",
+        "Educational technology integration",
+        "Assessment methods"
+      ]
+    },
+    {
+      "name": "Harvard Open Labs Science Café",
+      "role": "Presenter",
+      "date": "2018",
+      "presentation_topic": "Neuroelectronic Interfaces and Their Applications",
+      "impact": [
+        "Knowledge dissemination",
+        "Public engagement in science",
+        "Research communication",
+        "Community outreach"
+      ]
+    }
+  ],
+  "skills_developed": {
+    "professional": [
+      "Strategic thinking",
+      "Resource management",
+      "Process optimization",
+      "Innovation strategy"
+    ],
+    "educational": [
+      "Teaching effectiveness",
+      "Learning assessment",
+      "Student engagement",
+      "Educational technology"
+    ],
+    "communication": [
+      "Public speaking",
+      "Technical presentation",
+      "Audience engagement",
+      "Knowledge translation"
+    ]
+  },
+  "impact_areas": {
+    "career_development": [
+      "Professional network expansion",
+      "Industry knowledge enhancement",
+      "Skill diversification",
+      "Best practice adoption"
+    ],
+    "organizational": [
+      "Knowledge transfer",
+      "Process improvement",
+      "Innovation implementation",
+      "Resource optimization"
+    ],
+    "educational": [
+      "Teaching effectiveness",
+      "Student engagement",
+      "Learning outcomes",
+      "Educational innovation"
+    ]
+  },
+  "applications": {
+    "immediate": [
+      "Teaching methodology improvement",
+      "Resource optimization strategies",
+      "Communication enhancement",
+      "Process efficiency"
+    ],
+    "long_term": [
+      "Career advancement",
+      "Professional network development",
+      "Leadership capability",
+      "Innovation mindset"
+    ]
+  }
+}

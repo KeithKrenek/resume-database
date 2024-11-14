@@ -1,0 +1,79 @@
+{
+  "id": "ACT014",
+  "core": "Created technical content for Cartwheel Robotics, effectively communicating advanced robotics concepts and innovations to diverse audiences",
+  "dates": {
+    "start": "2023-06",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "technical_communication",
+  "organization": "Cartwheel Robotics",
+  "role_details": {
+    "position": "Tech Content Creator",
+    "focus_areas": [
+      "Robotics technology",
+      "Automation systems",
+      "Control algorithms",
+      "System integration"
+    ]
+  },
+  "content_creation": {
+    "technical_documentation": {
+      "types": [
+        "System specifications",
+        "Integration guides",
+        "Performance analyses",
+        "Technical overviews"
+      ],
+      "topics": [
+        "Robotics architecture",
+        "Control systems",
+        "Sensor integration",
+        "Automation platforms"
+      ]
+    },
+    "marketing_materials": {
+      "types": [
+        "Technical briefs",
+        "Capability overviews",
+        "Case studies",
+        "Product specifications"
+      ],
+      "focus": [
+        "Technical differentiation",
+        "Innovation highlights",
+        "Performance metrics",
+        "Application scenarios"
+      ]
+    }
+  },
+  "technical_expertise": {
+    "robotics": [
+      "Control systems",
+      "Sensor integration",
+      "Motion planning",
+      "System architecture"
+    ],
+    "automation": [
+      "Process control",
+      "System integration",
+      "Performance optimization",
+      "Safety protocols"
+    ]
+  },
+  "impact": {
+    "communication": [
+      "Enhanced technical understanding",
+      "Improved market positioning",
+      "Clear value proposition",
+      "Effective knowledge transfer"
+    ],
+    "business": [
+      "Strengthened market presence",
+      "Improved technical credibility",
+      "Enhanced customer engagement",
+      "Better product understanding"
+    ]
+  },
+  "related_entries": ["ACT013", "ACT003"]
+}

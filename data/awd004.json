@@ -1,0 +1,67 @@
+{
+  "id": "AWD004",
+  "core": "Received recognition from leading technology companies and industry organizations for technical excellence and leadership potential",
+  "dates": {
+    "start": "2012",
+    "end": "2014"
+  },
+  "category": "industry_awards",
+  "awards": [
+    {
+      "name": "Analog Devices Outstanding Student Designer Award",
+      "year": "2014",
+      "organization": "Analog Devices",
+      "category": "Technical Excellence",
+      "significance": [
+        "Recognition of design capabilities",
+        "Technical innovation",
+        "Practical application skills",
+        "Industry relevance"
+      ]
+    },
+    {
+      "name": "Lockheed Martin Excellent Participation Award",
+      "year": "2012",
+      "organization": "Lockheed Martin",
+      "category": "Professional Excellence",
+      "significance": [
+        "Recognition of contributions",
+        "Professional engagement",
+        "Technical capability",
+        "Project impact"
+      ]
+    },
+    {
+      "name": "National Instruments Leaders Symposium",
+      "year": "2013",
+      "organization": "National Instruments",
+      "category": "Leadership Development",
+      "significance": [
+        "Selected participant",
+        "Leadership potential",
+        "Industry networking",
+        "Professional development"
+      ]
+    }
+  ],
+  "impact": {
+    "professional": [
+      "Industry recognition",
+      "Technical validation",
+      "Professional network development",
+      "Career advancement"
+    ],
+    "technical": [
+      "Design expertise validation",
+      "Innovation recognition",
+      "Technical skill acknowledgment",
+      "Industry relevance"
+    ],
+    "leadership": [
+      "Leadership potential recognition",
+      "Professional development",
+      "Network building",
+      "Career opportunities"
+    ]
+  }
+}

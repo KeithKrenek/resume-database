@@ -1,0 +1,54 @@
+{
+  "id": "ACT010",
+  "core": "Volunteered with Dancing to Heal program, supporting therapeutic movement initiatives and community health engagement",
+  "dates": {
+    "start": "2018-01",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "category": "health_outreach",
+  "organization": "Dancing to Heal",
+  "roles": {
+    "primary": "Program Volunteer",
+    "responsibilities": [
+      "Supported therapeutic movement sessions",
+      "Assisted program coordination",
+      "Facilitated participant engagement",
+      "Contributed to event organization"
+    ]
+  },
+  "program_impact": {
+    "community": [
+      "Enhanced health awareness",
+      "Improved accessibility to therapy",
+      "Community engagement",
+      "Wellness promotion"
+    ],
+    "individual": [
+      "Participant support",
+      "Movement guidance",
+      "Emotional support",
+      "Social interaction"
+    ]
+  },
+  "skills_developed": {
+    "interpersonal": [
+      "Patient interaction",
+      "Empathetic communication",
+      "Group facilitation",
+      "Community engagement"
+    ],
+    "program": [
+      "Event coordination",
+      "Activity planning",
+      "Safety awareness",
+      "Program support"
+    ]
+  },
+  "contribution_areas": [
+    "Health and wellness promotion",
+    "Community service",
+    "Therapeutic support",
+    "Program development"
+  ]
+}

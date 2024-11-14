@@ -1,0 +1,80 @@
+{
+  "id": "ACT009",
+  "core": "Supervised and mentored students and interns in academic and research settings, providing guidance and support for professional development",
+  "dates": {
+    "start": "2016-05",
+    "end": "2019-08",
+    "status": "completed"
+  },
+  "category": "academic_leadership",
+  "roles": [
+    {
+      "title": "Summer Intern Supervisor",
+      "organization": "Harvard School of Engineering",
+      "dates": "Summer 2018",
+      "responsibilities": [
+        "Guided research projects",
+        "Provided technical mentoring",
+        "Evaluated performance",
+        "Facilitated professional development"
+      ],
+      "impact": [
+        "Enhanced intern capabilities",
+        "Advanced research goals",
+        "Developed future talent",
+        "Strengthened program effectiveness"
+      ]
+    },
+    {
+      "title": "Graduate Student Mentor",
+      "organization": "Harvard University",
+      "dates": "2016-2019",
+      "responsibilities": [
+        "Advised on research methodology",
+        "Provided technical guidance",
+        "Supported professional development",
+        "Facilitated lab integration"
+      ],
+      "impact": [
+        "Enhanced research quality",
+        "Improved student success",
+        "Strengthened lab community",
+        "Advanced research goals"
+      ]
+    }
+  ],
+  "skills_applied": {
+    "mentorship": [
+      "Individual guidance",
+      "Career development",
+      "Technical training",
+      "Professional advice"
+    ],
+    "leadership": [
+      "Program management",
+      "Performance evaluation",
+      "Goal setting",
+      "Team building"
+    ],
+    "technical": [
+      "Research guidance",
+      "Project management",
+      "Technical training",
+      "Quality assurance"
+    ]
+  },
+  "outcomes": {
+    "student_success": [
+      "Research achievements",
+      "Skill development",
+      "Career advancement",
+      "Professional growth"
+    ],
+    "program_impact": [
+      "Enhanced program quality",
+      "Improved retention",
+      "Stronger outcomes",
+      "Better preparation"
+    ]
+  }
+}

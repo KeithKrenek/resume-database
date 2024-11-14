@@ -1,0 +1,163 @@
+{
+  "template_instructions": {
+    "identifier_format": {
+      "pattern": "three-letter-category + three-digit-number",
+      "categories": {
+        "AGI": "AI/ML achievements",
+        "BIO": "Biological/biotech work",
+        "SYS": "System development",
+        "DAT": "Data analysis/software",
+        "FAB": "Fabrication/manufacturing",
+        "LED": "Leadership/management",
+        "PHT": "Photonics/optics",
+        "RAD": "Radiation/testing",
+        "SEN": "Sensor development",
+        "TST": "Testing/validation",
+        "WEB": "Web development",
+        "BIZ": "Business achievements",
+        "EDU": "Education",
+        "AWD": "Awards/honors",
+        "ACT": "Activities/service"
+      },
+      "example": "AGI001, BIO002, etc."
+    },
+    "title_format": "Concise, descriptive title highlighting main achievement"
+  },
+  
+  "id": "XXX000",
+  "core": "One-sentence summary of the achievement or experience, highlighting key impact and significance",
+  
+  "dates": {
+    "start": "YYYY-MM",
+    "end": "YYYY-MM",
+    "status": ["completed", "ongoing"],
+    "optional_fields": {
+      "awarded": "For awards/honors",
+      "duration": "For specific program lengths",
+      "graduation": "For education entries"
+    }
+  },
+
+  "company": "Organization name",
+  "related_entries": [
+    "List of related entry IDs",
+    "Example: AGI001, BIO002"
+  ],
+  "relationship_type": "Nature of connection to other entries",
+
+  "variations": {
+    "role_type_1": {
+      "short": "One-line description",
+      "medium": "Two-line description",
+      "detailed": "Comprehensive description"
+    },
+    "role_type_2": {
+      "short": "Alternative perspective",
+      "medium": "More detail",
+      "detailed": "Full context"
+    }
+  },
+
+  "metrics": [
+    {
+      "value": "Quantifiable result",
+      "context": "Where/how measured",
+      "verified": true,
+      "category": "Type of metric",
+      "timeframe": "When measured",
+      "impact_area": "Area affected"
+    }
+  ],
+
+  "technical_details": [
+    {
+      "category": "Technical area",
+      "detail": "Specific skill/knowledge",
+      "proficiency": ["expert", "advanced", "intermediate"]
+    }
+  ],
+
+  "impact": [
+    "List of concrete outcomes",
+    "Changes implemented",
+    "Improvements made",
+    "Value delivered"
+  ],
+
+  "skills": [
+    "Relevant skills developed/applied",
+    "Technical capabilities",
+    "Soft skills",
+    "Tools/technologies used"
+  ],
+
+  "tags": [
+    "Keywords for searching",
+    "Technical areas",
+    "Domains",
+    "Technologies"
+  ],
+
+  "methodology": [
+    "Approaches used",
+    "Processes followed",
+    "Frameworks applied",
+    "Best practices implemented"
+  ],
+
+  "optional_sections": {
+    "education_specific": {
+      "degree_details": {
+        "type": "Degree type",
+        "field": "Area of study",
+        "gpa": "Academic performance",
+        "thesis": "Research focus"
+      },
+      "coursework": ["Relevant courses"],
+      "research": ["Research projects"]
+    },
+    "award_specific": {
+      "significance": ["Award importance"],
+      "selection_criteria": ["Requirements met"],
+      "competition_level": "Scope of award"
+    },
+    "activity_specific": {
+      "role_details": {
+        "position": "Role title",
+        "responsibilities": ["Key duties"],
+        "achievements": ["Specific accomplishments"]
+      },
+      "program_impact": {
+        "immediate": ["Short-term results"],
+        "long_term": ["Lasting effects"]
+      }
+    },
+    "project_specific": {
+      "technical_components": {
+        "tools": ["Technologies used"],
+        "methods": ["Approaches taken"],
+        "outputs": ["Deliverables"]
+      },
+      "development_process": {
+        "phases": ["Project stages"],
+        "challenges": ["Problems solved"],
+        "solutions": ["Approaches taken"]
+      }
+    }
+  },
+
+  "usage_notes": {
+    "general": [
+      "Include quantifiable metrics when possible",
+      "Link to related entries",
+      "Use consistent terminology",
+      "Be specific and concrete"
+    ],
+    "best_practices": [
+      "Focus on impact and outcomes",
+      "Highlight transferable skills",
+      "Include technical details",
+      "Document methodologies"
+    ]
+  }
+}

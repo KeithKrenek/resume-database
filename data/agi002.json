@@ -1,0 +1,151 @@
+{
+    "id": "AGI002",
+    "core": "Led development and implementation of physics-based generative design tools for photonic integrated circuits, transforming traditional design processes into automated, AI-driven workflows",
+    "dates": {
+      "start": "2022-06",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "technical_lead": {
+        "short": "Led AI-driven photonics design project",
+        "medium": "Directed development of generative design tools for photonics",
+        "detailed": "Led cross-functional team implementing AI-powered generative design workflows for photonic integrated circuits, achieving orders of magnitude improvement in design efficiency"
+      },
+      "project_manager": {
+        "short": "Managed generative design implementation",
+        "medium": "Led research planning and stakeholder management for AI tools",
+        "detailed": "Managed comprehensive research plan including budget allocation, team building, and stakeholder alignment across design, security, and facilities teams"
+      },
+      "ai_specialist": {
+        "short": "Developed AI-powered design tools",
+        "medium": "Created generative design algorithms for photonics",
+        "detailed": "Architected proof-of-concept algorithms enabling automated design of high-performance optical grating couplers, surpassing traditional design methods"
+      },
+      "research_strategist": {
+        "short": "Defined research strategy for design automation",
+        "medium": "Created strategic plan for photonics design innovation",
+        "detailed": "Developed comprehensive research strategy incorporating literature review, expert consultation, and iterative stakeholder feedback to advance photonics design capabilities"
+      }
+    },
+    "metrics": [
+      {
+        "value": "orders of magnitude",
+        "context": "improvement in design efficiency",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "per design cycle",
+        "impact_area": "productivity"
+      },
+      {
+        "value": "multiple",
+        "context": "stakeholder teams aligned",
+        "verified": true,
+        "category": "collaboration",
+        "timeframe": "project duration",
+        "impact_area": "organizational"
+      },
+      {
+        "value": "significant",
+        "context": "reduction in computational resources",
+        "verified": true,
+        "category": "efficiency",
+        "timeframe": "per design",
+        "impact_area": "resource_utilization"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "ai",
+        "detail": "Generative design algorithms",
+        "proficiency": "expert"
+      },
+      {
+        "category": "photonics",
+        "detail": "Integrated circuit design",
+        "proficiency": "expert"
+      },
+      {
+        "category": "software",
+        "detail": "Research infrastructure development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "management",
+        "detail": "Cross-functional team leadership",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Transformed traditional design process",
+      "Enabled rapid design iteration",
+      "Reduced computational resource needs",
+      "Enhanced design team capabilities",
+      "Created scalable design infrastructure",
+      "Improved service offerings",
+      "Established new design methodology",
+      "Advanced internal expertise"
+    ],
+    "skills": [
+      "Research Leadership",
+      "AI/ML Development",
+      "Stakeholder Management",
+      "Project Planning",
+      "Team Building",
+      "Technical Architecture",
+      "Process Innovation",
+      "Requirements Gathering",
+      "Strategic Planning",
+      "Change Management"
+    ],
+    "tags": [
+      "AI/ML",
+      "Photonics",
+      "Generative Design",
+      "Research",
+      "Innovation",
+      "Leadership",
+      "Software"
+    ],
+    "methodology": [
+      "Agile Development",
+      "Iterative Design",
+      "Stakeholder-Driven Development",
+      "Rapid Prototyping",
+      "User-Centered Design"
+    ],
+    "domain_impact": [
+      "Photonic Design",
+      "AI Applications",
+      "Research Infrastructure",
+      "Professional Services"
+    ],
+    "tech_stack": [
+      "AI/ML Frameworks",
+      "Photonics Design Software",
+      "Simulation Tools",
+      "Development Infrastructure"
+    ],
+    "research_management": {
+      "planning": [
+        "Defined research objectives and timeline",
+        "Allocated resources and budget",
+        "Built cross-functional team",
+        "Established success metrics"
+      ],
+      "execution": [
+        "Coordinated multiple stakeholder groups",
+        "Managed evolving requirements",
+        "Implemented adaptive project management",
+        "Maintained alignment with business goals"
+      ],
+      "stakeholders": [
+        "Photonics designers",
+        "Program managers",
+        "Security teams",
+        "Facilities teams",
+        "External experts"
+      ]
+    }
+  }

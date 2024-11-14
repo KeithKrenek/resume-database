@@ -1,0 +1,123 @@
+{
+  "id": "BIO007",
+  "core": "Established comprehensive wet biology laboratory for neuronal network studies, implementing complete facilities for culturing rodent and human-derived neurons on silicon chips",
+  "dates": {
+    "start": "2015-09",
+    "end": "2016-08",
+    "status": "completed"
+  },
+  "company": "Harvard University",
+  "related_entries": ["DAT002", "SEN002", "FAB003", "FAB004", "BIO008", "BIZ004"],
+  "relationship_type": "infrastructure_development",
+  "variations": {
+    "lab_manager": {
+      "short": "Built neurobiology lab",
+      "medium": "Established research facility",
+      "detailed": "Created comprehensive wet biology laboratory specializing in neuronal network research"
+    },
+    "research_scientist": {
+      "short": "Developed neural culture systems",
+      "medium": "Implemented neuron culture protocols",
+      "detailed": "Established protocols for culturing multiple neuronal cell types on silicon substrates"
+    },
+    "facility_developer": {
+      "short": "Created research infrastructure",
+      "medium": "Built specialized research facility",
+      "detailed": "Developed complete laboratory infrastructure for advanced neurobiology research"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "cell types cultured",
+      "verified": true,
+      "category": "capability",
+      "timeframe": "continuous",
+      "impact_area": "research"
+    },
+    {
+      "value": "complete",
+      "context": "laboratory setup",
+      "verified": true,
+      "category": "infrastructure",
+      "timeframe": "development",
+      "impact_area": "facility"
+    },
+    {
+      "value": "successful",
+      "context": "silicon chip integration",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "ongoing",
+      "impact_area": "technology"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "biology",
+      "detail": "Cell culture protocols",
+      "proficiency": "expert"
+    },
+    {
+      "category": "infrastructure",
+      "detail": "Laboratory setup",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "Bio-electronic interfaces",
+      "proficiency": "expert"
+    },
+    {
+      "category": "safety",
+      "detail": "Laboratory protocols",
+      "proficiency": "expert"
+    }
+  ],
+  "laboratory_components": {
+    "facilities": [
+      "Cell culture room",
+      "Sterile workspace",
+      "Equipment installation",
+      "Safety systems"
+    ],
+    "protocols": [
+      "Cell culture procedures",
+      "Sterile techniques",
+      "Quality control",
+      "Safety guidelines"
+    ],
+    "equipment": [
+      "Incubators",
+      "Microscopes",
+      "Safety cabinets",
+      "Monitoring systems"
+    ],
+    "integration": [
+      "Chip preparation",
+      "Surface modification",
+      "Cell plating",
+      "Environmental control"
+    ]
+  },
+  "research_capabilities": {
+    "biological": [
+      "Multiple cell types",
+      "Long-term culture",
+      "Cell monitoring",
+      "Viability assessment"
+    ],
+    "technical": [
+      "Silicon integration",
+      "Surface preparation",
+      "Environmental control",
+      "Data collection"
+    ],
+    "safety": [
+      "Containment protocols",
+      "Waste management",
+      "Emergency procedures",
+      "Training requirements"
+    ]
+  }
+}

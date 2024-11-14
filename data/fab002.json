@@ -1,0 +1,154 @@
+{
+  "id": "FAB002",
+  "core": "Developed automated microfabrication systems and processes for producing photon counting arrays for deep space communications, creating closed-loop control systems for reliable production",
+  "dates": {
+    "start": "2016-06",
+    "end": "2018-05",
+    "status": "completed"
+  },
+  "company": "MIT Lincoln Lab",
+  "related_entries": ["SYS004", "PHT002", "SYS005", "LED005"],
+  "relationship_type": "fabrication_development",
+  "variations": {
+    "process_engineer": {
+      "short": "Built array fabrication systems",
+      "medium": "Developed photon array production",
+      "detailed": "Created automated microfabrication systems for producing advanced photon counting arrays"
+    },
+    "automation_engineer": {
+      "short": "Automated fabrication process",
+      "medium": "Developed closed-loop production",
+      "detailed": "Engineered automated, closed-loop control systems for reliable array fabrication"
+    },
+    "test_engineer": {
+      "short": "Validated array performance",
+      "medium": "Conducted array testing",
+      "detailed": "Performed comprehensive testing of fabricated photon counting arrays for space applications"
+    }
+  },
+  "metrics": [
+    {
+      "value": "automated",
+      "context": "fabrication process",
+      "verified": true,
+      "category": "automation",
+      "timeframe": "continuous",
+      "impact_area": "production"
+    },
+    {
+      "value": "closed-loop",
+      "context": "control implementation",
+      "verified": true,
+      "category": "control",
+      "timeframe": "operation",
+      "impact_area": "reliability"
+    },
+    {
+      "value": "space-grade",
+      "context": "quality achievement",
+      "verified": true,
+      "category": "quality",
+      "timeframe": "delivery",
+      "impact_area": "performance"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "fabrication",
+      "detail": "Microfabrication systems",
+      "proficiency": "expert"
+    },
+    {
+      "category": "automation",
+      "detail": "Process control",
+      "proficiency": "expert"
+    },
+    {
+      "category": "testing",
+      "detail": "Performance validation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "System development",
+      "proficiency": "expert"
+    }
+  ],
+  "impact": [
+    "Enabled reliable production",
+    "Enhanced fabrication control",
+    "Improved yield rates",
+    "Ensured space-grade quality",
+    "Reduced manual intervention",
+    "Increased process stability",
+    "Advanced manufacturing capability",
+    "Supported space missions"
+  ],
+  "skills": [
+    "Microfabrication",
+    "Process Automation",
+    "Control Systems",
+    "Testing Protocols",
+    "System Integration",
+    "Quality Control",
+    "Performance Analysis",
+    "Documentation",
+    "Technical Leadership",
+    "Project Management"
+  ],
+  "tags": [
+    "Fabrication",
+    "Automation",
+    "Space Technology",
+    "Photonics",
+    "Control Systems",
+    "Testing",
+    "Manufacturing"
+  ],
+  "fabrication_system": {
+    "process_control": [
+      "Automated sequencing",
+      "Parameter monitoring",
+      "Real-time adjustments",
+      "Quality verification"
+    ],
+    "automation": [
+      "Closed-loop control",
+      "Error detection",
+      "Process optimization",
+      "System monitoring"
+    ],
+    "testing": [
+      "In-line validation",
+      "Performance checks",
+      "Quality assurance",
+      "Specification verification"
+    ],
+    "integration": [
+      "System coordination",
+      "Data collection",
+      "Process synchronization",
+      "Environmental control"
+    ]
+  },
+  "production_aspects": {
+    "quality": [
+      "Space-grade standards",
+      "Performance metrics",
+      "Reliability testing",
+      "Documentation requirements"
+    ],
+    "efficiency": [
+      "Process optimization",
+      "Yield improvement",
+      "Resource utilization",
+      "Time management"
+    ],
+    "control": [
+      "Parameter adjustment",
+      "Process monitoring",
+      "Feedback implementation",
+      "Error handling"
+    ]
+  }
+}

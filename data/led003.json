@@ -1,0 +1,171 @@
+{
+    "id": "LED003",
+    "core": "Led radiation testing and analysis of first-of-its-kind phase change memory device intended for harsh environment applications, establishing performance characteristics and validation protocols",
+    "dates": {
+      "start": "2021-08",
+      "end": "2022-12",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "test_lead": {
+        "short": "Led novel memory radiation testing",
+        "medium": "Directed radiation validation of new memory",
+        "detailed": "Led comprehensive radiation testing program for first-of-its-kind phase change memory technology, establishing performance boundaries for harsh environments"
+      },
+      "validation_engineer": {
+        "short": "Validated harsh environment performance",
+        "medium": "Conducted novel device radiation testing",
+        "detailed": "Developed and executed validation protocols for innovative memory technology under various radiation conditions"
+      },
+      "research_lead": {
+        "short": "Characterized new memory technology",
+        "medium": "Led novel memory performance analysis",
+        "detailed": "Directed characterization of phase change memory behavior under radiation exposure, defining operational limits and reliability metrics"
+      }
+    },
+    "metrics": [
+      {
+        "value": "first",
+        "context": "radiation characterization of technology",
+        "verified": true,
+        "category": "innovation",
+        "timeframe": "industry",
+        "impact_area": "technology"
+      },
+      {
+        "value": "comprehensive",
+        "context": "radiation response characterization",
+        "verified": true,
+        "category": "testing",
+        "timeframe": "project duration",
+        "impact_area": "validation"
+      },
+      {
+        "value": "established",
+        "context": "performance boundaries",
+        "verified": true,
+        "category": "outcome",
+        "timeframe": "completion",
+        "impact_area": "application"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "radiation",
+        "detail": "Test design and execution",
+        "proficiency": "expert"
+      },
+      {
+        "category": "memory",
+        "detail": "Device characterization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "validation",
+        "detail": "Protocol development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "analysis",
+        "detail": "Performance assessment",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Established test protocols",
+      "Defined performance limits",
+      "Advanced technology readiness",
+      "Created validation framework",
+      "Enabled new applications",
+      "Supported qualification process",
+      "Enhanced understanding",
+      "Guided design improvements"
+    ],
+    "skills": [
+      "Test Leadership",
+      "Radiation Testing",
+      "Protocol Development",
+      "Data Analysis",
+      "Performance Validation",
+      "Technical Documentation",
+      "Risk Assessment",
+      "Experimental Design",
+      "Results Analysis",
+      "Technology Assessment"
+    ],
+    "tags": [
+      "Radiation",
+      "Memory",
+      "Testing",
+      "Validation",
+      "Research",
+      "Hardware",
+      "Innovation"
+    ],
+    "methodology": [
+      "Systematic Testing",
+      "Data Collection",
+      "Performance Analysis",
+      "Protocol Development",
+      "Risk Management"
+    ],
+    "domain_impact": [
+      "Memory Technology",
+      "Radiation Effects",
+      "Harsh Environments",
+      "Device Qualification"
+    ],
+    "tech_stack": [
+      "Test Equipment",
+      "Analysis Tools",
+      "Data Collection Systems",
+      "Measurement Instruments"
+    ],
+    "test_program": {
+      "protocols": [
+        "Test condition definition",
+        "Measurement procedures",
+        "Data collection methods",
+        "Safety requirements"
+      ],
+      "parameters": [
+        "Radiation types",
+        "Dose rates",
+        "Environmental conditions",
+        "Performance metrics"
+      ],
+      "analysis": [
+        "Data processing",
+        "Performance assessment",
+        "Failure analysis",
+        "Results interpretation"
+      ],
+      "validation": [
+        "Method verification",
+        "Result confirmation",
+        "Error analysis",
+        "Uncertainty quantification"
+      ]
+    },
+    "performance_aspects": {
+      "functional": [
+        "Memory operation",
+        "Data retention",
+        "Write/read capability",
+        "Error rates"
+      ],
+      "environmental": [
+        "Radiation tolerance",
+        "Temperature effects",
+        "Recovery behavior",
+        "Lifetime prediction"
+      ],
+      "reliability": [
+        "Failure modes",
+        "Performance degradation",
+        "Operating limits",
+        "Stability assessment"
+      ]
+    }
+  }

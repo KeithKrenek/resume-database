@@ -1,0 +1,177 @@
+{
+    "id": "SYS003",
+    "core": "Performed system-level navigation accuracy simulation of fiber optic gyroscope to define program requirements, establishing performance specifications and testing criteria",
+    "dates": {
+      "start": "2021-08",
+      "end": "2022-06",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "systems_engineer": {
+        "short": "Defined gyroscope requirements",
+        "medium": "Simulated navigation system performance",
+        "detailed": "Conducted comprehensive navigation accuracy analysis to establish fiber optic gyroscope system requirements and specifications"
+      },
+      "requirements_engineer": {
+        "short": "Established performance criteria",
+        "medium": "Developed system specifications",
+        "detailed": "Translated simulation results into actionable requirements and specifications for gyroscope development program"
+      },
+      "analysis_lead": {
+        "short": "Led navigation accuracy study",
+        "medium": "Directed system performance analysis",
+        "detailed": "Led system-level simulation effort to determine critical performance parameters and requirements for navigation system"
+      }
+    },
+    "metrics": [
+      {
+        "value": "defined",
+        "context": "system requirements established",
+        "verified": true,
+        "category": "outcome",
+        "timeframe": "project completion",
+        "impact_area": "development"
+      },
+      {
+        "value": "comprehensive",
+        "context": "navigation accuracy analysis",
+        "verified": true,
+        "category": "analysis",
+        "timeframe": "project duration",
+        "impact_area": "performance"
+      },
+      {
+        "value": "validated",
+        "context": "performance specifications",
+        "verified": true,
+        "category": "requirements",
+        "timeframe": "completion",
+        "impact_area": "design"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "simulation",
+        "detail": "Navigation system modeling",
+        "proficiency": "expert"
+      },
+      {
+        "category": "analysis",
+        "detail": "Performance evaluation",
+        "proficiency": "expert"
+      },
+      {
+        "category": "requirements",
+        "detail": "Specification development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "systems",
+        "detail": "System integration",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Defined development requirements",
+      "Established performance targets",
+      "Guided design decisions",
+      "Created test criteria",
+      "Enabled program planning",
+      "Reduced technical risk",
+      "Supported design validation",
+      "Informed resource allocation"
+    ],
+    "skills": [
+      "Systems Engineering",
+      "Requirements Analysis",
+      "Performance Simulation",
+      "Navigation Systems",
+      "Technical Analysis",
+      "Specification Development",
+      "System Integration",
+      "Performance Modeling",
+      "Documentation",
+      "Risk Assessment"
+    ],
+    "tags": [
+      "Navigation",
+      "Requirements",
+      "Simulation",
+      "Analysis",
+      "Gyroscope",
+      "Performance",
+      "Systems"
+    ],
+    "methodology": [
+      "System Modeling",
+      "Performance Analysis",
+      "Requirements Development",
+      "Specification Generation",
+      "Validation Planning"
+    ],
+    "domain_impact": [
+      "Navigation Systems",
+      "Inertial Sensors",
+      "System Development",
+      "Performance Validation"
+    ],
+    "tech_stack": [
+      "Simulation Software",
+      "Analysis Tools",
+      "Requirements Management",
+      "Documentation Systems"
+    ],
+    "simulation_aspects": {
+      "performance": [
+        "Navigation accuracy",
+        "Drift characteristics",
+        "Response time",
+        "Error propagation"
+      ],
+      "environmental": [
+        "Temperature effects",
+        "Vibration impact",
+        "External disturbances",
+        "Operating conditions"
+      ],
+      "operational": [
+        "Mission profiles",
+        "Use scenarios",
+        "Duty cycles",
+        "Integration factors"
+      ],
+      "integration": [
+        "System interfaces",
+        "Data flow",
+        "Power requirements",
+        "Physical constraints"
+      ]
+    },
+    "requirements_development": {
+      "technical": [
+        "Performance specifications",
+        "Accuracy requirements",
+        "Environmental limits",
+        "Interface definitions"
+      ],
+      "validation": [
+        "Test criteria",
+        "Acceptance standards",
+        "Verification methods",
+        "Quality metrics"
+      ],
+      "documentation": [
+        "Specification formats",
+        "Requirement traceability",
+        "Change management",
+        "Review processes"
+      ],
+      "implementation": [
+        "Design constraints",
+        "Manufacturing considerations",
+        "Integration guidelines",
+        "Maintenance factors"
+      ]
+    }
+  }

@@ -1,0 +1,123 @@
+{
+  "id": "PHT002",
+  "core": "Designed and executed radiation testing program for avalanche photodiodes, quantifying effects for deep-space communications applications and establishing performance characteristics",
+  "dates": {
+    "start": "2017-01",
+    "end": "2018-05",
+    "status": "completed"
+  },
+  "company": "MIT Lincoln Lab",
+  "related_entries": ["FAB002", "SYS004", "SYS005", "LED005"],
+  "relationship_type": "performance_validation",
+  "variations": {
+    "test_engineer": {
+      "short": "Led radiation testing",
+      "medium": "Conducted radiation effects study",
+      "detailed": "Designed and executed comprehensive radiation testing program for space-grade photodiodes"
+    },
+    "physics_researcher": {
+      "short": "Analyzed radiation effects",
+      "medium": "Quantified radiation impacts",
+      "detailed": "Performed detailed analysis of radiation effects on photodiode performance for space applications"
+    },
+    "validation_engineer": {
+      "short": "Validated space performance",
+      "medium": "Characterized radiation tolerance",
+      "detailed": "Established performance characteristics and limitations under space radiation conditions"
+    }
+  },
+  "metrics": [
+    {
+      "value": "comprehensive",
+      "context": "radiation effects characterized",
+      "verified": true,
+      "category": "analysis",
+      "timeframe": "project duration",
+      "impact_area": "understanding"
+    },
+    {
+      "value": "validated",
+      "context": "space application requirements",
+      "verified": true,
+      "category": "qualification",
+      "timeframe": "completion",
+      "impact_area": "deployment"
+    },
+    {
+      "value": "quantified",
+      "context": "performance parameters",
+      "verified": true,
+      "category": "measurement",
+      "timeframe": "testing",
+      "impact_area": "specifications"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "radiation",
+      "detail": "Test design and execution",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Effects quantification",
+      "proficiency": "expert"
+    },
+    {
+      "category": "physics",
+      "detail": "Performance modeling",
+      "proficiency": "expert"
+    },
+    {
+      "category": "validation",
+      "detail": "Space qualification",
+      "proficiency": "expert"
+    }
+  ],
+  "test_program": {
+    "design": [
+      "Test conditions",
+      "Exposure protocols",
+      "Measurement methods",
+      "Control procedures"
+    ],
+    "execution": [
+      "Radiation exposure",
+      "Performance monitoring",
+      "Data collection",
+      "Safety protocols"
+    ],
+    "analysis": [
+      "Effects quantification",
+      "Performance impact",
+      "Degradation modeling",
+      "Lifetime prediction"
+    ],
+    "validation": [
+      "Requirements verification",
+      "Specification compliance",
+      "Performance bounds",
+      "Qualification criteria"
+    ]
+  },
+  "radiation_effects": {
+    "performance": [
+      "Sensitivity changes",
+      "Dark current",
+      "Response time",
+      "Quantum efficiency"
+    ],
+    "degradation": [
+      "Damage mechanisms",
+      "Recovery behavior",
+      "Lifetime impact",
+      "Failure modes"
+    ],
+    "mitigation": [
+      "Design improvements",
+      "Operating constraints",
+      "Protection methods",
+      "Recovery procedures"
+    ]
+  }
+}

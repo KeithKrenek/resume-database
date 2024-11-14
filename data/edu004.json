@@ -1,0 +1,66 @@
+{
+  "id": "EDU004",
+  "core": "Participated in select professional development and leadership programs, enhancing technical and leadership capabilities",
+  "dates": {
+    "start": "2013",
+    "end": "2019"
+  },
+  "category": "professional_development",
+  "programs": [
+    {
+      "name": "National Instruments Leaders Symposium",
+      "organization": "National Instruments",
+      "date": "2013",
+      "focus_areas": [
+        "Technical leadership",
+        "Industry trends",
+        "Professional development",
+        "Innovation strategies"
+      ],
+      "impact": [
+        "Leadership skill development",
+        "Industry network expansion",
+        "Technical knowledge enhancement",
+        "Career path development"
+      ]
+    },
+    {
+      "name": "Derek Bok Center for Teaching and Learning Conference",
+      "organization": "Harvard University",
+      "date": "2017",
+      "focus_areas": [
+        "Pedagogical innovation",
+        "Teaching effectiveness",
+        "Student engagement",
+        "Educational technology"
+      ],
+      "impact": [
+        "Enhanced teaching methods",
+        "Improved student engagement",
+        "Technology integration skills",
+        "Assessment strategies"
+      ]
+    }
+  ],
+  "skills_developed": {
+    "leadership": [
+      "Strategic thinking",
+      "Team development",
+      "Project management",
+      "Decision making"
+    ],
+    "technical": [
+      "Industry best practices",
+      "Technology integration",
+      "Innovation management",
+      "System optimization"
+    ],
+    "teaching": [
+      "Course design",
+      "Student engagement",
+      "Assessment methods",
+      "Technology integration"
+    ]
+  },
+  "related_entries": ["AWD002", "ACT008", "ACT009"]
+}

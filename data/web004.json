@@ -1,0 +1,123 @@
+{
+  "id": "WEB004",
+  "core": "Developed and implemented SharePoint site for employee collaboration and resource management, resulting in significant reduction in overhead costs through improved efficiency",
+  "dates": {
+    "start": "2012-03",
+    "end": "2012-09",
+    "status": "completed"
+  },
+  "company": "Mustang Engineering",
+  "related_entries": ["WEB003", "LED006", "LED007"],
+  "relationship_type": "collaboration_platform",
+  "variations": {
+    "sharepoint_developer": {
+      "short": "Built SharePoint platform",
+      "medium": "Implemented collaboration solution",
+      "detailed": "Created comprehensive SharePoint environment for enterprise-wide collaboration and cost reduction"
+    },
+    "solution_architect": {
+      "short": "Designed collaboration system",
+      "medium": "Architected efficiency platform",
+      "detailed": "Designed cost-effective SharePoint solution for streamlining organizational processes"
+    },
+    "efficiency_specialist": {
+      "short": "Optimized operational costs",
+      "medium": "Reduced overhead through automation",
+      "detailed": "Implemented digital solutions to minimize operational overhead and improve efficiency"
+    }
+  },
+  "metrics": [
+    {
+      "value": "reduced",
+      "context": "overhead costs",
+      "verified": true,
+      "category": "efficiency",
+      "timeframe": "continuous",
+      "impact_area": "operations"
+    },
+    {
+      "value": "enterprise",
+      "context": "platform deployment",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "implementation",
+      "impact_area": "collaboration"
+    },
+    {
+      "value": "improved",
+      "context": "operational efficiency",
+      "verified": true,
+      "category": "performance",
+      "timeframe": "ongoing",
+      "impact_area": "productivity"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "sharepoint",
+      "detail": "Platform development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "automation",
+      "detail": "Process optimization",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "System implementation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "efficiency",
+      "detail": "Cost reduction",
+      "proficiency": "expert"
+    }
+  ],
+  "platform_features": {
+    "collaboration": [
+      "Document sharing",
+      "Team workspaces",
+      "Communication tools",
+      "Resource management"
+    ],
+    "automation": [
+      "Workflow automation",
+      "Process streamlining",
+      "Task management",
+      "Notification systems"
+    ],
+    "management": [
+      "Version control",
+      "Access management",
+      "Content organization",
+      "Resource tracking"
+    ],
+    "efficiency": [
+      "Cost tracking",
+      "Process optimization",
+      "Resource utilization",
+      "Performance monitoring"
+    ]
+  },
+  "cost_reduction": {
+    "operational": [
+      "Process automation",
+      "Resource consolidation",
+      "Time savings",
+      "Workflow optimization"
+    ],
+    "organizational": [
+      "Improved collaboration",
+      "Reduced redundancy",
+      "Enhanced productivity",
+      "Streamlined communication"
+    ],
+    "maintenance": [
+      "System updates",
+      "User support",
+      "Platform optimization",
+      "Resource management"
+    ]
+  }
+}

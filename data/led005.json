@@ -1,0 +1,123 @@
+{
+  "id": "LED005",
+  "core": "Facilitated effective communication and collaboration between physicists, engineers, and technicians, ensuring clear understanding and alignment across technical disciplines",
+  "dates": {
+    "start": "2016-06",
+    "end": "2018-05",
+    "status": "completed"
+  },
+  "company": "MIT Lincoln Lab",
+  "related_entries": ["FAB002", "SYS004", "PHT002", "SYS005"],
+  "relationship_type": "team_coordination",
+  "variations": {
+    "technical_liaison": {
+      "short": "Coordinated technical teams",
+      "medium": "Facilitated cross-discipline communication",
+      "detailed": "Led communication efforts between diverse technical teams ensuring project alignment"
+    },
+    "project_coordinator": {
+      "short": "Managed team interactions",
+      "medium": "Coordinated technical collaboration",
+      "detailed": "Orchestrated effective collaboration between multiple technical disciplines"
+    },
+    "communication_lead": {
+      "short": "Led technical dialogue",
+      "medium": "Managed technical information flow",
+      "detailed": "Ensured clear and effective technical communication across different specialties"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "technical disciplines bridged",
+      "verified": true,
+      "category": "coordination",
+      "timeframe": "continuous",
+      "impact_area": "collaboration"
+    },
+    {
+      "value": "effective",
+      "context": "cross-functional communication",
+      "verified": true,
+      "category": "communication",
+      "timeframe": "ongoing",
+      "impact_area": "teamwork"
+    },
+    {
+      "value": "aligned",
+      "context": "team objectives and understanding",
+      "verified": true,
+      "category": "leadership",
+      "timeframe": "project duration",
+      "impact_area": "execution"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "communication",
+      "detail": "Technical translation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "coordination",
+      "detail": "Team alignment",
+      "proficiency": "expert"
+    },
+    {
+      "category": "documentation",
+      "detail": "Information management",
+      "proficiency": "expert"
+    },
+    {
+      "category": "facilitation",
+      "detail": "Meeting management",
+      "proficiency": "expert"
+    }
+  ],
+  "communication_strategies": {
+    "technical": [
+      "Concept translation",
+      "Terminology alignment",
+      "Process explanation",
+      "Requirements clarification"
+    ],
+    "coordination": [
+      "Meeting facilitation",
+      "Information flow",
+      "Progress tracking",
+      "Issue resolution"
+    ],
+    "documentation": [
+      "Technical writing",
+      "Process documentation",
+      "Knowledge sharing",
+      "Record keeping"
+    ],
+    "collaboration": [
+      "Team alignment",
+      "Goal setting",
+      "Conflict resolution",
+      "Progress reporting"
+    ]
+  },
+  "impact_areas": {
+    "project": [
+      "Timeline adherence",
+      "Quality assurance",
+      "Resource optimization",
+      "Risk management"
+    ],
+    "team": [
+      "Knowledge transfer",
+      "Skill development",
+      "Morale maintenance",
+      "Collaboration enhancement"
+    ],
+    "organization": [
+      "Process improvement",
+      "Best practices",
+      "Knowledge management",
+      "Cultural integration"
+    ]
+  }
+}

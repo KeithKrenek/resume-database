@@ -1,0 +1,146 @@
+{
+    "id": "BIO001",
+    "core": "Developed automated 3D tracking system for blood cells and nanoparticles in microfluidic devices, combining computer vision with machine learning to quantify acoustic manipulation effects",
+    "dates": {
+      "start": "2021-03",
+      "end": "2022-09",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "computer_vision_engineer": {
+        "short": "Built 3D particle tracking system",
+        "medium": "Developed CV software for microfluidic analysis",
+        "detailed": "Created computer vision system converting 2D microscope imagery into 3D particle trajectories, enabling quantitative analysis of acoustic forces in microfluidic devices"
+      },
+      "algorithm_developer": {
+        "short": "Coded particle tracking algorithms",
+        "medium": "Implemented ML-enhanced tracking software",
+        "detailed": "Developed learning algorithms to reconstruct 3D trajectories from 2D image sequences, incorporating physics-based constraints for improved accuracy"
+      },
+      "research_scientist": {
+        "short": "Quantified acoustic manipulation effects",
+        "medium": "Analyzed particle behavior in acoustic fields",
+        "detailed": "Created comprehensive analysis pipeline for studying acoustic force effects on blood cells and nanoparticles in microfluidic environments"
+      }
+    },
+    "metrics": [
+      {
+        "value": "3D",
+        "context": "trajectory reconstruction from 2D data",
+        "verified": true,
+        "category": "capability",
+        "timeframe": "real-time",
+        "impact_area": "analysis"
+      },
+      {
+        "value": "multiple",
+        "context": "particle types tracked simultaneously",
+        "verified": true,
+        "category": "versatility",
+        "timeframe": "per experiment",
+        "impact_area": "research"
+      },
+      {
+        "value": "automated",
+        "context": "tracking and analysis pipeline",
+        "verified": true,
+        "category": "efficiency",
+        "timeframe": "continuous",
+        "impact_area": "workflow"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "vision",
+        "detail": "Computer vision algorithm development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "ml",
+        "detail": "Machine learning for trajectory reconstruction",
+        "proficiency": "expert"
+      },
+      {
+        "category": "analysis",
+        "detail": "Scientific data processing",
+        "proficiency": "expert"
+      },
+      {
+        "category": "physics",
+        "detail": "Acoustic force analysis",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enabled quantitative force analysis",
+      "Automated experimental analysis",
+      "Enhanced understanding of device physics",
+      "Improved device optimization process",
+      "Created reusable analysis tools",
+      "Accelerated development cycles",
+      "Enabled new research capabilities",
+      "Supported device validation"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Algorithm Development",
+      "Data Analysis",
+      "Scientific Computing",
+      "Machine Learning",
+      "Image Processing",
+      "Physics Modeling",
+      "Software Development",
+      "Experimental Analysis",
+      "Technical Documentation"
+    ],
+    "tags": [
+      "Computer Vision",
+      "Machine Learning",
+      "Microfluidics",
+      "Biotech",
+      "Automation",
+      "Analysis",
+      "Research"
+    ],
+    "methodology": [
+      "Iterative Development",
+      "Physics-Based Modeling",
+      "Experimental Validation",
+      "Automated Analysis",
+      "Data-Driven Optimization"
+    ],
+    "domain_impact": [
+      "Biomedical Research",
+      "Microfluidic Development",
+      "Process Automation",
+      "Experimental Analysis"
+    ],
+    "tech_stack": [
+      "Python",
+      "OpenCV",
+      "Scientific Computing Libraries",
+      "Machine Learning Frameworks",
+      "Image Processing Tools"
+    ],
+    "analysis_capabilities": {
+      "tracking": [
+        "Blood cell trajectories",
+        "Nanoparticle movements",
+        "Multi-particle tracking",
+        "Real-time analysis"
+      ],
+      "measurements": [
+        "3D position reconstruction",
+        "Velocity profiles",
+        "Force calculations",
+        "Particle size effects"
+      ],
+      "automation": [
+        "Automated detection",
+        "Trajectory reconstruction",
+        "Data processing",
+        "Results visualization"
+      ]
+    }
+  }

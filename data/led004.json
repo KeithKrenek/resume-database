@@ -1,0 +1,165 @@
+{
+    "id": "LED004",
+    "core": "Served as long-term mentor for four teammates since inception of Mentor Program, providing technical guidance, career development support, and professional growth opportunities",
+    "dates": {
+      "start": "2020-01",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "mentor": {
+        "short": "Led technical mentorship program",
+        "medium": "Provided comprehensive professional mentoring",
+        "detailed": "Delivered sustained technical and professional mentorship to multiple teammates, fostering career growth and technical excellence"
+      },
+      "career_advisor": {
+        "short": "Guided professional development",
+        "medium": "Facilitated career advancement strategies",
+        "detailed": "Provided strategic career guidance and professional development support across multiple technical domains and career stages"
+      },
+      "technical_coach": {
+        "short": "Coached technical skill development",
+        "medium": "Led technical capability enhancement",
+        "detailed": "Guided development of technical skills and competencies through hands-on coaching and structured learning opportunities"
+      }
+    },
+    "metrics": [
+      {
+        "value": "4+",
+        "context": "teammates mentored",
+        "verified": true,
+        "category": "impact",
+        "timeframe": "program duration",
+        "impact_area": "development"
+      },
+      {
+        "value": "long-term",
+        "context": "sustained mentorship relationships",
+        "verified": true,
+        "category": "engagement",
+        "timeframe": "ongoing",
+        "impact_area": "professional_growth"
+      },
+      {
+        "value": "founding",
+        "context": "program participation",
+        "verified": true,
+        "category": "involvement",
+        "timeframe": "since inception",
+        "impact_area": "program_development"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "mentorship",
+        "detail": "Technical guidance",
+        "proficiency": "expert"
+      },
+      {
+        "category": "development",
+        "detail": "Career planning",
+        "proficiency": "expert"
+      },
+      {
+        "category": "leadership",
+        "detail": "Professional coaching",
+        "proficiency": "expert"
+      },
+      {
+        "category": "training",
+        "detail": "Skill development",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enhanced team capabilities",
+      "Accelerated professional growth",
+      "Improved technical skills",
+      "Strengthened team relationships",
+      "Supported career advancement",
+      "Created development pathways",
+      "Built organizational knowledge",
+      "Fostered innovation culture"
+    ],
+    "skills": [
+      "Technical Mentorship",
+      "Career Development",
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Strategic Planning",
+      "Professional Development",
+      "Knowledge Transfer",
+      "Relationship Building",
+      "Performance Coaching"
+    ],
+    "tags": [
+      "Mentorship",
+      "Leadership",
+      "Development",
+      "Training",
+      "Coaching",
+      "Professional Growth",
+      "Technical Development"
+    ],
+    "methodology": [
+      "One-on-One Coaching",
+      "Goal Setting",
+      "Progress Tracking",
+      "Skill Development",
+      "Career Planning"
+    ],
+    "domain_impact": [
+      "Professional Development",
+      "Technical Excellence",
+      "Career Growth",
+      "Organizational Development"
+    ],
+    "mentorship_areas": {
+      "technical": [
+        "Technical skill development",
+        "Problem-solving approaches",
+        "Domain expertise building",
+        "Technology understanding"
+      ],
+      "professional": [
+        "Career planning",
+        "Goal setting",
+        "Leadership development",
+        "Communication skills"
+      ],
+      "organizational": [
+        "Team dynamics",
+        "Cross-functional collaboration",
+        "Project management",
+        "Process improvement"
+      ],
+      "personal": [
+        "Work-life balance",
+        "Time management",
+        "Stress management",
+        "Personal effectiveness"
+      ]
+    },
+    "development_strategies": {
+      "guidance": [
+        "Regular check-ins",
+        "Progress reviews",
+        "Feedback sessions",
+        "Goal alignment"
+      ],
+      "opportunities": [
+        "Project involvement",
+        "Skill application",
+        "Learning experiences",
+        "Network building"
+      ],
+      "support": [
+        "Resource access",
+        "Problem resolution",
+        "Career advocacy",
+        "Professional networking"
+      ]
+    }
+  }

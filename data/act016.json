@@ -1,0 +1,85 @@
+{
+  "id": "ACT016",
+  "core": "Led and participated in multiple STEM outreach programs across educational levels and institutions",
+  "dates": {
+    "start": "2013",
+    "end": "2019"
+  },
+  "category": "educational_outreach",
+  "programs": [
+    {
+      "name": "Cambridge Science and Engineering Showcase",
+      "role": "Volunteer",
+      "focus": "Middle school STEM engagement",
+      "impact": [
+        "Hands-on science demonstrations",
+        "Engineering concept introduction",
+        "Student mentoring",
+        "Project guidance"
+      ]
+    },
+    {
+      "name": "Harvard Public School Partnerships",
+      "role": "Science Education Volunteer",
+      "focus": "K-12 STEM education",
+      "impact": [
+        "Curriculum development",
+        "Interactive demonstrations",
+        "Teacher support",
+        "Resource development"
+      ]
+    },
+    {
+      "name": "Gifted and Talented Showcase",
+      "role": "Robotics Mentor",
+      "focus": "Advanced student development",
+      "impact": [
+        "Technical mentoring",
+        "Project supervision",
+        "Competition preparation",
+        "Skill development"
+      ]
+    }
+  ],
+  "impact_areas": {
+    "student_engagement": [
+      "Increased STEM interest",
+      "Enhanced understanding",
+      "Skill development",
+      "Career awareness"
+    ],
+    "educational_support": [
+      "Resource provision",
+      "Teaching assistance",
+      "Program enhancement",
+      "Curriculum development"
+    ],
+    "community_impact": [
+      "Educational access",
+      "Resource distribution",
+      "Knowledge sharing",
+      "Opportunity creation"
+    ]
+  },
+  "skills_applied": {
+    "technical": [
+      "STEM concept translation",
+      "Demonstration development",
+      "Project design",
+      "Technical instruction"
+    ],
+    "educational": [
+      "Curriculum development",
+      "Student engagement",
+      "Teaching methods",
+      "Assessment strategies"
+    ],
+    "leadership": [
+      "Program coordination",
+      "Team management",
+      "Resource allocation",
+      "Stakeholder engagement"
+    ]
+  },
+  "related_entries": ["ACT008", "ACT009", "EDU004"]
+}

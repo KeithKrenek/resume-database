@@ -1,0 +1,123 @@
+{
+  "id": "LED008",
+  "core": "Provided comprehensive mentoring and training to new employees in electrical product assembly, ensuring quality standards and efficient production",
+  "dates": {
+    "start": "2008-05",
+    "end": "2008-08",
+    "status": "completed"
+  },
+  "company": "Zarlec",
+  "related_entries": ["FAB006"],
+  "relationship_type": "training_leadership",
+  "variations": {
+    "training_lead": {
+      "short": "Mentored new employees",
+      "medium": "Led assembly training",
+      "detailed": "Provided comprehensive assembly training and mentoring to new staff"
+    },
+    "technical_mentor": {
+      "short": "Guided product assembly",
+      "medium": "Taught assembly processes",
+      "detailed": "Mentored new employees in electrical product assembly techniques"
+    },
+    "quality_trainer": {
+      "short": "Trained assembly staff",
+      "medium": "Led quality assurance training",
+      "detailed": "Trained new employees in quality-focused assembly procedures"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "employees trained",
+      "verified": true,
+      "category": "training",
+      "timeframe": "program duration",
+      "impact_area": "capability"
+    },
+    {
+      "value": "comprehensive",
+      "context": "assembly training",
+      "verified": true,
+      "category": "education",
+      "timeframe": "per employee",
+      "impact_area": "skills"
+    },
+    {
+      "value": "maintained",
+      "context": "quality standards",
+      "verified": true,
+      "category": "performance",
+      "timeframe": "continuous",
+      "impact_area": "production"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "training",
+      "detail": "Assembly instruction",
+      "proficiency": "expert"
+    },
+    {
+      "category": "mentoring",
+      "detail": "Skill development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "quality",
+      "detail": "Standards education",
+      "proficiency": "expert"
+    },
+    {
+      "category": "documentation",
+      "detail": "Process training",
+      "proficiency": "expert"
+    }
+  ],
+  "training_components": {
+    "technical": [
+      "Assembly procedures",
+      "Quality standards",
+      "Safety protocols",
+      "Tool usage"
+    ],
+    "practical": [
+      "Hands-on training",
+      "Skill development",
+      "Process practice",
+      "Performance feedback"
+    ],
+    "quality": [
+      "Standards compliance",
+      "Inspection methods",
+      "Error prevention",
+      "Quality verification"
+    ],
+    "safety": [
+      "Safety procedures",
+      "Equipment handling",
+      "Emergency protocols",
+      "Workplace safety"
+    ]
+  },
+  "mentoring_approach": {
+    "instruction": [
+      "Process demonstration",
+      "Guided practice",
+      "Skill assessment",
+      "Performance review"
+    ],
+    "development": [
+      "Skill building",
+      "Knowledge transfer",
+      "Progress monitoring",
+      "Capability enhancement"
+    ],
+    "support": [
+      "Ongoing guidance",
+      "Problem solving",
+      "Performance feedback",
+      "Continuous improvement"
+    ]
+  }
+}

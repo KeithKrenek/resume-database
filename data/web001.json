@@ -1,0 +1,141 @@
+{
+  "id": "WEB001",
+  "core": "Led development of two professional websites using Webflow, implementing content management systems and responsive design principles for industry-specific solutions",
+  "dates": {
+    "start": "2023-04",
+    "end": "2023-12",
+    "status": "completed"
+  },
+  "company": "Elementsist",
+  "related_entries": ["WEB002", "BIZ001", "BIZ002", "BIZ003"],
+  "relationship_type": "digital_presence",
+  "variations": {
+    "web_developer": {
+      "short": "Built professional Webflow sites",
+      "medium": "Developed industry-specific websites",
+      "detailed": "Created comprehensive professional websites using Webflow, incorporating responsive design and content management systems"
+    },
+    "cms_developer": {
+      "short": "Implemented content management",
+      "medium": "Developed optimized CMS solutions",
+      "detailed": "Built custom content management systems for efficient campaign updates and product showcases"
+    },
+    "ux_designer": {
+      "short": "Created responsive designs",
+      "medium": "Implemented cross-platform solutions",
+      "detailed": "Designed and implemented responsive interfaces ensuring seamless experience across mobile and desktop platforms"
+    }
+  },
+  "metrics": [
+    {
+      "value": "2",
+      "context": "professional websites delivered",
+      "verified": true,
+      "category": "development",
+      "timeframe": "project duration",
+      "impact_area": "delivery"
+    },
+    {
+      "value": "100%",
+      "context": "responsive design implementation",
+      "verified": true,
+      "category": "design",
+      "timeframe": "continuous",
+      "impact_area": "accessibility"
+    },
+    {
+      "value": "optimized",
+      "context": "content management workflow",
+      "verified": true,
+      "category": "efficiency",
+      "timeframe": "ongoing",
+      "impact_area": "operations"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "webflow",
+      "detail": "Platform development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "cms",
+      "detail": "Content management systems",
+      "proficiency": "expert"
+    },
+    {
+      "category": "responsive",
+      "detail": "Cross-platform design",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Performance tuning",
+      "proficiency": "expert"
+    }
+  ],
+  "impact": [
+    "Enhanced digital presence",
+    "Improved content management",
+    "Enabled mobile accessibility",
+    "Streamlined updates",
+    "Increased user engagement",
+    "Optimized performance",
+    "Enhanced brand presentation",
+    "Improved user experience"
+  ],
+  "skills": [
+    "Webflow Development",
+    "CMS Implementation",
+    "Responsive Design",
+    "UX/UI Design",
+    "Performance Optimization",
+    "Content Strategy",
+    "Web Standards",
+    "Cross-Platform Testing",
+    "Project Management",
+    "Client Communication"
+  ],
+  "tags": [
+    "Webflow",
+    "CMS",
+    "Web Development",
+    "Responsive",
+    "UX/UI",
+    "No-Code",
+    "Design"
+  ],
+  "methodology": [
+    "Iterative Development",
+    "Client-Centered Design",
+    "Mobile-First Approach",
+    "Performance Optimization",
+    "Content Strategy"
+  ],
+  "site_features": {
+    "design": [
+      "Responsive layouts",
+      "Mobile optimization",
+      "Brand consistency",
+      "Visual hierarchy"
+    ],
+    "cms": [
+      "Content organization",
+      "Update workflows",
+      "Media management",
+      "Version control"
+    ],
+    "functionality": [
+      "Performance optimization",
+      "SEO implementation",
+      "Analytics integration",
+      "Form handling"
+    ],
+    "management": [
+      "Client training",
+      "Documentation",
+      "Maintenance plans",
+      "Update procedures"
+    ]
+  }
+}

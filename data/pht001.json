@@ -1,0 +1,185 @@
+{
+    "id": "PHT001",
+    "core": "Led development of internal best practices and standardized protocols for environmental testing of photonic sensors, establishing comprehensive guidelines for performance validation and reliability assessment",
+    "dates": {
+      "start": "2022-03",
+      "end": "2023-08",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "standards_lead": {
+        "short": "Established photonics test standards",
+        "medium": "Developed environmental testing protocols",
+        "detailed": "Created comprehensive testing standards and best practices for environmental validation of photonic sensor systems"
+      },
+      "validation_engineer": {
+        "short": "Defined validation procedures",
+        "medium": "Created testing methodology framework",
+        "detailed": "Developed systematic approach for validating photonic sensor performance under various environmental conditions"
+      },
+      "quality_engineer": {
+        "short": "Established quality standards",
+        "medium": "Created testing quality framework",
+        "detailed": "Implemented standardized quality assurance protocols for environmental testing of photonic devices"
+      }
+    },
+    "metrics": [
+      {
+        "value": "standardized",
+        "context": "testing protocols established",
+        "verified": true,
+        "category": "achievement",
+        "timeframe": "project completion",
+        "impact_area": "quality"
+      },
+      {
+        "value": "comprehensive",
+        "context": "environmental conditions covered",
+        "verified": true,
+        "category": "scope",
+        "timeframe": "continuous",
+        "impact_area": "validation"
+      },
+      {
+        "value": "internal",
+        "context": "best practices documented",
+        "verified": true,
+        "category": "documentation",
+        "timeframe": "ongoing",
+        "impact_area": "processes"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "testing",
+        "detail": "Environmental validation",
+        "proficiency": "expert"
+      },
+      {
+        "category": "standards",
+        "detail": "Protocol development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "photonics",
+        "detail": "Device characterization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "quality",
+        "detail": "Process standardization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Standardized testing processes",
+      "Improved result consistency",
+      "Enhanced quality assurance",
+      "Established best practices",
+      "Reduced testing variability",
+      "Created reference standards",
+      "Streamlined validation",
+      "Enabled cross-program consistency"
+    ],
+    "skills": [
+      "Standards Development",
+      "Process Definition",
+      "Technical Writing",
+      "Quality Assurance",
+      "Test Planning",
+      "Requirements Analysis",
+      "Documentation",
+      "Procedure Development",
+      "Validation Planning",
+      "Process Implementation"
+    ],
+    "tags": [
+      "Standards",
+      "Testing",
+      "Photonics",
+      "Quality",
+      "Validation",
+      "Documentation",
+      "Procedures"
+    ],
+    "methodology": [
+      "Standards Development",
+      "Process Documentation",
+      "Quality Control",
+      "Validation Planning",
+      "Best Practice Implementation"
+    ],
+    "domain_impact": [
+      "Photonic Sensors",
+      "Environmental Testing",
+      "Quality Assurance",
+      "Process Standardization"
+    ],
+    "test_conditions": {
+      "environmental": [
+        "Temperature cycling",
+        "Humidity exposure",
+        "Vibration testing",
+        "Shock testing"
+      ],
+      "operational": [
+        "Power cycling",
+        "Performance verification",
+        "Stability assessment",
+        "Reliability testing"
+      ],
+      "specialized": [
+        "Radiation exposure",
+        "Vacuum operation",
+        "Pressure variation",
+        "EMI/EMC testing"
+      ]
+    },
+    "protocol_elements": {
+      "procedures": [
+        "Test setup requirements",
+        "Measurement methods",
+        "Data collection protocols",
+        "Analysis procedures"
+      ],
+      "documentation": [
+        "Test plans",
+        "Results reporting",
+        "Deviation handling",
+        "Quality records"
+      ],
+      "validation": [
+        "Equipment calibration",
+        "Process verification",
+        "Result certification",
+        "Standards compliance"
+      ],
+      "quality_control": [
+        "Review processes",
+        "Acceptance criteria",
+        "Control measures",
+        "Corrective actions"
+      ]
+    },
+    "standardization_areas": {
+      "methods": [
+        "Test procedures",
+        "Measurement techniques",
+        "Analysis approaches",
+        "Validation methods"
+      ],
+      "equipment": [
+        "Calibration requirements",
+        "Setup configurations",
+        "Maintenance procedures",
+        "Operation guidelines"
+      ],
+      "reporting": [
+        "Data formats",
+        "Result presentation",
+        "Documentation standards",
+        "Review processes"
+      ]
+    }
+  }

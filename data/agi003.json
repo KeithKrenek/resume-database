@@ -1,0 +1,154 @@
+{
+  "id": "AGI003",
+  "core": "Developed customized chatbots for engineering and campaign websites, creating tailored AI interactions for specific industry needs and user engagement",
+  "dates": {
+    "start": "2023-08",
+    "end": "2024-02",
+    "status": "completed"
+  },
+  "company": "Elementsist",
+  "related_entries": ["AGI004", "WEB001", "WEB002"],
+  "relationship_type": "ai_implementation",
+  "variations": {
+    "ai_developer": {
+      "short": "Built custom chatbots",
+      "medium": "Developed industry-specific AI assistants",
+      "detailed": "Created tailored AI chatbot solutions for specialized industry applications and customer engagement"
+    },
+    "conversational_ai_engineer": {
+      "short": "Engineered AI interactions",
+      "medium": "Designed conversational interfaces",
+      "detailed": "Developed sophisticated conversational AI systems adapted to specific industry contexts and user needs"
+    },
+    "integration_specialist": {
+      "short": "Implemented chatbot solutions",
+      "medium": "Deployed AI communication systems",
+      "detailed": "Integrated customized chatbot solutions into existing websites and platforms for enhanced user engagement"
+    }
+  },
+  "metrics": [
+    {
+      "value": "multiple",
+      "context": "industry-specific implementations",
+      "verified": true,
+      "category": "deployment",
+      "timeframe": "project duration",
+      "impact_area": "functionality"
+    },
+    {
+      "value": "customized",
+      "context": "conversation flows",
+      "verified": true,
+      "category": "development",
+      "timeframe": "per implementation",
+      "impact_area": "user_experience"
+    },
+    {
+      "value": "integrated",
+      "context": "website deployments",
+      "verified": true,
+      "category": "integration",
+      "timeframe": "completion",
+      "impact_area": "accessibility"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "ai",
+      "detail": "Chatbot development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "nlp",
+      "detail": "Conversation design",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "Website implementation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "customization",
+      "detail": "Industry adaptation",
+      "proficiency": "expert"
+    }
+  ],
+  "impact": [
+    "Enhanced user engagement",
+    "Improved customer service",
+    "Reduced response time",
+    "Increased accessibility",
+    "Streamlined communication",
+    "Provided 24/7 support",
+    "Enhanced user experience",
+    "Automated customer interaction"
+  ],
+  "skills": [
+    "AI Development",
+    "NLP Engineering",
+    "Conversation Design",
+    "Web Integration",
+    "User Experience",
+    "Industry Analysis",
+    "System Architecture",
+    "Requirements Analysis",
+    "Testing and Validation",
+    "Performance Optimization"
+  ],
+  "tags": [
+    "AI",
+    "Chatbots",
+    "NLP",
+    "Integration",
+    "Automation",
+    "Customer Service",
+    "Web Development"
+  ],
+  "chatbot_features": {
+    "conversation": [
+      "Natural language processing",
+      "Context awareness",
+      "Response generation",
+      "User intent recognition"
+    ],
+    "customization": [
+      "Industry-specific knowledge",
+      "Domain adaptation",
+      "Terminology handling",
+      "Custom workflows"
+    ],
+    "integration": [
+      "Website embedding",
+      "API connectivity",
+      "Data handling",
+      "Security measures"
+    ],
+    "management": [
+      "Performance monitoring",
+      "Usage analytics",
+      "Content updates",
+      "System maintenance"
+    ]
+  },
+  "implementation_aspects": {
+    "technical": [
+      "API integration",
+      "Response handling",
+      "Error management",
+      "Performance optimization"
+    ],
+    "user_experience": [
+      "Interface design",
+      "Interaction flows",
+      "Response timing",
+      "Visual feedback"
+    ],
+    "industry_specific": [
+      "Domain knowledge",
+      "Special requirements",
+      "Use case handling",
+      "Compliance considerations"
+    ]
+  }
+}

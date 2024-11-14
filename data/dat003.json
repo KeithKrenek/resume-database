@@ -1,0 +1,123 @@
+{
+  "id": "DAT003",
+  "core": "Developed pattern recognition software to automate testing of integrated circuit chip-to-chip interconnects, enabling efficient validation of complex connections",
+  "dates": {
+    "start": "2012-08",
+    "end": "2014-05",
+    "status": "completed"
+  },
+  "company": "Analog & Mixed Signal Group",
+  "related_entries": ["BIO012"],
+  "relationship_type": "test_automation",
+  "variations": {
+    "software_engineer": {
+      "short": "Built IC test automation",
+      "medium": "Developed interconnect testing system",
+      "detailed": "Created automated pattern recognition system for IC interconnect validation"
+    },
+    "test_engineer": {
+      "short": "Automated IC testing",
+      "medium": "Implemented test automation",
+      "detailed": "Developed automated validation system for chip-to-chip connections"
+    },
+    "automation_specialist": {
+      "short": "Created testing software",
+      "medium": "Built validation automation",
+      "detailed": "Engineered automated testing solution for complex IC interconnects"
+    }
+  },
+  "metrics": [
+    {
+      "value": "automated",
+      "context": "testing process",
+      "verified": true,
+      "category": "automation",
+      "timeframe": "continuous",
+      "impact_area": "validation"
+    },
+    {
+      "value": "efficient",
+      "context": "interconnect validation",
+      "verified": true,
+      "category": "performance",
+      "timeframe": "per test",
+      "impact_area": "testing"
+    },
+    {
+      "value": "comprehensive",
+      "context": "pattern recognition",
+      "verified": true,
+      "category": "capability",
+      "timeframe": "implementation",
+      "impact_area": "analysis"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "software",
+      "detail": "Pattern recognition",
+      "proficiency": "expert"
+    },
+    {
+      "category": "testing",
+      "detail": "IC validation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "automation",
+      "detail": "Test execution",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Results processing",
+      "proficiency": "expert"
+    }
+  ],
+  "software_features": {
+    "recognition": [
+      "Pattern identification",
+      "Feature extraction",
+      "Connection mapping",
+      "Error detection"
+    ],
+    "automation": [
+      "Test sequencing",
+      "Data collection",
+      "Result validation",
+      "Report generation"
+    ],
+    "analysis": [
+      "Performance metrics",
+      "Quality assessment",
+      "Trend analysis",
+      "Failure detection"
+    ],
+    "validation": [
+      "Connection verification",
+      "Signal integrity",
+      "Performance validation",
+      "Error logging"
+    ]
+  },
+  "testing_capabilities": {
+    "technical": [
+      "Pattern matching",
+      "Signal analysis",
+      "Performance verification",
+      "Error identification"
+    ],
+    "automation": [
+      "Test execution",
+      "Data collection",
+      "Result processing",
+      "Documentation"
+    ],
+    "reporting": [
+      "Results compilation",
+      "Performance metrics",
+      "Quality indicators",
+      "Trend analysis"
+    ]
+  }
+}

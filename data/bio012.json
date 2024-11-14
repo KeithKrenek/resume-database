@@ -1,0 +1,123 @@
+{
+  "id": "BIO012",
+  "core": "Integrated microfluidic systems with CMOS technology to create comprehensive protein interaction analysis platform",
+  "dates": {
+    "start": "2012-08",
+    "end": "2014-05",
+    "status": "completed"
+  },
+  "company": "Analog & Mixed Signal Group",
+  "related_entries": ["DAT003"],
+  "relationship_type": "system_integration",
+  "variations": {
+    "integration_engineer": {
+      "short": "Integrated bio-electronic systems",
+      "medium": "Created protein analysis platform",
+      "detailed": "Developed integrated CMOS-microfluidic system for protein studies"
+    },
+    "systems_engineer": {
+      "short": "Built analysis platform",
+      "medium": "Developed bio-analysis system",
+      "detailed": "Created hybrid bio-electronic platform for protein interaction studies"
+    },
+    "research_engineer": {
+      "short": "Developed protein analysis tools",
+      "medium": "Created integrated biosensor system",
+      "detailed": "Engineered combined microfluidic-CMOS platform for protein research"
+    }
+  },
+  "metrics": [
+    {
+      "value": "integrated",
+      "context": "system development",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "completion",
+      "impact_area": "technology"
+    },
+    {
+      "value": "comprehensive",
+      "context": "protein analysis capability",
+      "verified": true,
+      "category": "functionality",
+      "timeframe": "implementation",
+      "impact_area": "research"
+    },
+    {
+      "value": "hybrid",
+      "context": "technology integration",
+      "verified": true,
+      "category": "innovation",
+      "timeframe": "development",
+      "impact_area": "capability"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "integration",
+      "detail": "System development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "microfluidics",
+      "detail": "Flow control",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electronics",
+      "detail": "CMOS integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "biosensing",
+      "detail": "Protein analysis",
+      "proficiency": "expert"
+    }
+  ],
+  "system_features": {
+    "microfluidics": [
+      "Flow control",
+      "Sample handling",
+      "Reagent delivery",
+      "Waste management"
+    ],
+    "electronics": [
+      "Signal processing",
+      "Data acquisition",
+      "Control systems",
+      "Interface management"
+    ],
+    "integration": [
+      "System packaging",
+      "Interface design",
+      "Performance optimization",
+      "Reliability assurance"
+    ],
+    "analysis": [
+      "Protein detection",
+      "Interaction monitoring",
+      "Data processing",
+      "Result generation"
+    ]
+  },
+  "research_capabilities": {
+    "biological": [
+      "Protein analysis",
+      "Interaction studies",
+      "Sample handling",
+      "Environmental control"
+    ],
+    "technical": [
+      "Real-time monitoring",
+      "Data collection",
+      "System control",
+      "Result analysis"
+    ],
+    "integration": [
+      "Platform compatibility",
+      "System reliability",
+      "Performance optimization",
+      "User interface"
+    ]
+  }
+}

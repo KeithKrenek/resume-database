@@ -1,0 +1,123 @@
+{
+  "id": "BIO009",
+  "core": "Developed automated software system for cell morphology analysis, achieving 10x improvement in experimental throughput for cell aging studies through automated size quantification",
+  "dates": {
+    "start": "2013-08",
+    "end": "2014-12",
+    "status": "completed"
+  },
+  "company": "NanoBio Systems Lab",
+  "related_entries": ["BIO010", "BIO011"],
+  "relationship_type": "automation_development",
+  "variations": {
+    "software_engineer": {
+      "short": "Built cell analysis system",
+      "medium": "Developed automated biology tools",
+      "detailed": "Created automated software system for high-throughput cell morphology analysis"
+    },
+    "automation_specialist": {
+      "short": "Automated cell measurements",
+      "medium": "Implemented analysis automation",
+      "detailed": "Developed automated quantification system for cell size measurements"
+    },
+    "research_developer": {
+      "short": "Enhanced research efficiency",
+      "medium": "Accelerated experimental analysis",
+      "detailed": "Created software tools enabling rapid analysis of cell aging experiments"
+    }
+  },
+  "metrics": [
+    {
+      "value": "10x",
+      "context": "throughput improvement",
+      "verified": true,
+      "category": "efficiency",
+      "timeframe": "per analysis",
+      "impact_area": "productivity"
+    },
+    {
+      "value": "automated",
+      "context": "size quantification",
+      "verified": true,
+      "category": "capability",
+      "timeframe": "continuous",
+      "impact_area": "analysis"
+    },
+    {
+      "value": "enhanced",
+      "context": "research capabilities",
+      "verified": true,
+      "category": "impact",
+      "timeframe": "project completion",
+      "impact_area": "research"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "software",
+      "detail": "Analysis automation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "imaging",
+      "detail": "Cell morphology analysis",
+      "proficiency": "expert"
+    },
+    {
+      "category": "algorithms",
+      "detail": "Image processing",
+      "proficiency": "expert"
+    },
+    {
+      "category": "automation",
+      "detail": "Workflow optimization",
+      "proficiency": "expert"
+    }
+  ],
+  "software_features": {
+    "analysis": [
+      "Size measurement",
+      "Shape characterization",
+      "Time-series tracking",
+      "Population statistics"
+    ],
+    "automation": [
+      "Batch processing",
+      "Data organization",
+      "Result validation",
+      "Error handling"
+    ],
+    "visualization": [
+      "Data plotting",
+      "Trend analysis",
+      "Result presentation",
+      "Export capabilities"
+    ],
+    "integration": [
+      "Workflow automation",
+      "Data management",
+      "Quality control",
+      "Report generation"
+    ]
+  },
+  "research_impact": {
+    "efficiency": [
+      "Time savings",
+      "Resource optimization",
+      "Increased throughput",
+      "Reduced manual effort"
+    ],
+    "quality": [
+      "Consistency improvement",
+      "Error reduction",
+      "Data reliability",
+      "Result validation"
+    ],
+    "capabilities": [
+      "Extended analysis",
+      "Enhanced tracking",
+      "Deeper insights",
+      "Broader experiments"
+    ]
+  }
+}

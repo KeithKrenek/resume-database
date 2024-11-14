@@ -1,0 +1,165 @@
+{
+    "id": "LED001",
+    "core": "Led strategic hiring initiative that doubled group size through structured candidate evaluation and strategic position creation, strengthening team capabilities and technical diversity",
+    "dates": {
+      "start": "2021-09",
+      "end": "2023-03",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "technical_lead": {
+        "short": "Led technical team expansion",
+        "medium": "Directed strategic team growth initiative",
+        "detailed": "Led comprehensive hiring initiative to double team size while maintaining technical excellence and cultural fit"
+      },
+      "hiring_manager": {
+        "short": "Managed recruitment process",
+        "medium": "Orchestrated strategic hiring campaign",
+        "detailed": "Developed and executed strategic hiring plan, including position definition, candidate evaluation, and team integration"
+      },
+      "group_leader": {
+        "short": "Expanded technical group",
+        "medium": "Built diverse technical team",
+        "detailed": "Strategically expanded technical group while ensuring balanced skill distribution and effective team dynamics"
+      }
+    },
+    "metrics": [
+      {
+        "value": "2x",
+        "context": "increase in team size",
+        "verified": true,
+        "category": "growth",
+        "timeframe": "project duration",
+        "impact_area": "team_size"
+      },
+      {
+        "value": "multiple",
+        "context": "technical roles filled",
+        "verified": true,
+        "category": "recruitment",
+        "timeframe": "project duration",
+        "impact_area": "capabilities"
+      },
+      {
+        "value": "enhanced",
+        "context": "team skill diversity",
+        "verified": true,
+        "category": "impact",
+        "timeframe": "post-hiring",
+        "impact_area": "expertise"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "leadership",
+        "detail": "Team development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "recruitment",
+        "detail": "Technical hiring",
+        "proficiency": "expert"
+      },
+      {
+        "category": "evaluation",
+        "detail": "Candidate assessment",
+        "proficiency": "expert"
+      },
+      {
+        "category": "strategy",
+        "detail": "Growth planning",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Expanded team capabilities",
+      "Enhanced technical diversity",
+      "Improved project coverage",
+      "Strengthened team structure",
+      "Increased operational capacity",
+      "Created growth opportunities",
+      "Established hiring process",
+      "Enhanced team dynamics"
+    ],
+    "skills": [
+      "Leadership",
+      "Strategic Planning",
+      "Technical Recruitment",
+      "Team Building",
+      "Candidate Evaluation",
+      "Position Development",
+      "Process Creation",
+      "Change Management",
+      "Resource Planning",
+      "Organizational Development"
+    ],
+    "tags": [
+      "Leadership",
+      "Recruitment",
+      "Team Building",
+      "Strategy",
+      "Growth",
+      "Management",
+      "Development"
+    ],
+    "methodology": [
+      "Strategic Planning",
+      "Structured Evaluation",
+      "Position Definition",
+      "Team Integration",
+      "Culture Building"
+    ],
+    "domain_impact": [
+      "Team Development",
+      "Technical Capability",
+      "Organizational Growth",
+      "Project Execution"
+    ],
+    "growth_strategy": {
+      "planning": [
+        "Needs assessment",
+        "Role definition",
+        "Timeline development",
+        "Resource allocation"
+      ],
+      "recruitment": [
+        "Position marketing",
+        "Candidate sourcing",
+        "Interview process",
+        "Selection criteria"
+      ],
+      "evaluation": [
+        "Technical assessment",
+        "Cultural fit",
+        "Growth potential",
+        "Team dynamics"
+      ],
+      "integration": [
+        "Onboarding process",
+        "Role transition",
+        "Team alignment",
+        "Performance monitoring"
+      ]
+    },
+    "success_factors": {
+      "technical": [
+        "Skill diversity",
+        "Expertise balance",
+        "Capability gaps filled",
+        "Knowledge transfer"
+      ],
+      "organizational": [
+        "Team structure",
+        "Communication channels",
+        "Reporting relationships",
+        "Resource allocation"
+      ],
+      "cultural": [
+        "Value alignment",
+        "Team cohesion",
+        "Collaboration effectiveness",
+        "Innovation culture"
+      ]
+    }
+  }

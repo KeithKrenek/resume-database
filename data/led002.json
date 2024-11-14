@@ -1,0 +1,171 @@
+{
+    "id": "LED002",
+    "core": "Led comprehensive investigation into unexpected radiation performance of optical components, utilizing first principles analysis to resolve complex test results and establish improved performance prediction capabilities",
+    "dates": {
+      "start": "2022-06",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "research_lead": {
+        "short": "Led radiation physics investigation",
+        "medium": "Directed first-principles radiation analysis",
+        "detailed": "Led comprehensive investigation combining quantum mechanics, materials science, and experimental validation to resolve unexpected radiation effects in optical systems"
+      },
+      "physics_investigator": {
+        "short": "Analyzed radiation-material interactions",
+        "medium": "Investigated complex radiation phenomena",
+        "detailed": "Conducted detailed analysis of radiation-induced changes in optical materials, linking fundamental physics to observed performance impacts"
+      },
+      "technical_lead": {
+        "short": "Resolved radiation performance issues",
+        "medium": "Led resolution of radiation test anomalies",
+        "detailed": "Directed multi-disciplinary effort to understand and resolve unexpected radiation test results through fundamental physics analysis"
+      }
+    },
+    "metrics": [
+      {
+        "value": "resolved",
+        "context": "complex radiation phenomena",
+        "verified": true,
+        "category": "achievement",
+        "timeframe": "project duration",
+        "impact_area": "understanding"
+      },
+      {
+        "value": "multiple",
+        "context": "physics domains integrated",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "analysis phase",
+        "impact_area": "investigation"
+      },
+      {
+        "value": "improved",
+        "context": "performance prediction capability",
+        "verified": true,
+        "category": "outcome",
+        "timeframe": "ongoing",
+        "impact_area": "development"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "physics",
+        "detail": "Radiation physics analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "materials",
+        "detail": "Material response modeling",
+        "proficiency": "expert"
+      },
+      {
+        "category": "optics",
+        "detail": "Optical performance analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "investigation",
+        "detail": "Root cause analysis",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Resolved performance anomalies",
+      "Enhanced understanding",
+      "Improved prediction capability",
+      "Established analysis framework",
+      "Advanced technical knowledge",
+      "Enabled design improvements",
+      "Created investigation methodology",
+      "Supported product development"
+    ],
+    "skills": [
+      "Physics Analysis",
+      "Research Leadership",
+      "Technical Investigation",
+      "Problem Solving",
+      "Materials Science",
+      "Radiation Physics",
+      "Data Analysis",
+      "Theory Development",
+      "Experimental Design",
+      "Scientific Communication"
+    ],
+    "tags": [
+      "Physics",
+      "Radiation",
+      "Investigation",
+      "Research",
+      "Analysis",
+      "Optics",
+      "Materials"
+    ],
+    "methodology": [
+      "First Principles Analysis",
+      "Experimental Validation",
+      "Theory Development",
+      "Systematic Investigation",
+      "Data Correlation"
+    ],
+    "domain_impact": [
+      "Radiation Effects",
+      "Optical Systems",
+      "Materials Performance",
+      "Design Improvement"
+    ],
+    "tech_stack": [
+      "Physics Simulation Tools",
+      "Analysis Software",
+      "Data Processing Tools",
+      "Visualization Platforms"
+    ],
+    "physics_analysis": {
+      "quantum_mechanics": [
+        "Energy level transitions",
+        "Particle interactions",
+        "Wave propagation",
+        "State changes"
+      ],
+      "radiation_physics": [
+        "Energy deposition",
+        "Scattering processes",
+        "Dose effects",
+        "Material damage"
+      ],
+      "materials_science": [
+        "Structural changes",
+        "Property modifications",
+        "Defect formation",
+        "Recovery processes"
+      ],
+      "optics": [
+        "Transmission effects",
+        "Refractive changes",
+        "Performance degradation",
+        "Recovery characteristics"
+      ]
+    },
+    "investigation_process": {
+      "analysis": [
+        "Theory development",
+        "Model creation",
+        "Data correlation",
+        "Hypothesis testing"
+      ],
+      "validation": [
+        "Experimental design",
+        "Data collection",
+        "Result verification",
+        "Theory refinement"
+      ],
+      "implementation": [
+        "Design recommendations",
+        "Performance predictions",
+        "Mitigation strategies",
+        "Process improvements"
+      ]
+    }
+  }

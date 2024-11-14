@@ -1,0 +1,123 @@
+{
+  "id": "TST001",
+  "core": "Conducted comprehensive characterization of 15+ large military radar antennas through onsite testing, validating performance and specifications",
+  "dates": {
+    "start": "2012-06",
+    "end": "2012-08",
+    "status": "completed"
+  },
+  "company": "Lockheed Martin Space Systems",
+  "related_entries": ["WEB005", "FAB005"],
+  "relationship_type": "field_testing",
+  "variations": {
+    "test_engineer": {
+      "short": "Tested radar systems",
+      "medium": "Characterized radar antennas",
+      "detailed": "Performed comprehensive testing of military-grade radar antenna systems"
+    },
+    "field_engineer": {
+      "short": "Conducted onsite testing",
+      "medium": "Led field characterization",
+      "detailed": "Executed onsite performance validation of large radar installations"
+    },
+    "validation_specialist": {
+      "short": "Validated radar performance",
+      "medium": "Verified antenna specifications",
+      "detailed": "Conducted thorough validation of radar system performance metrics"
+    }
+  },
+  "metrics": [
+    {
+      "value": "15+",
+      "context": "antennas characterized",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "project duration",
+      "impact_area": "validation"
+    },
+    {
+      "value": "onsite",
+      "context": "field testing completed",
+      "verified": true,
+      "category": "execution",
+      "timeframe": "per system",
+      "impact_area": "testing"
+    },
+    {
+      "value": "comprehensive",
+      "context": "performance validation",
+      "verified": true,
+      "category": "quality",
+      "timeframe": "per antenna",
+      "impact_area": "verification"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "testing",
+      "detail": "RF system validation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "measurement",
+      "detail": "Field characterization",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Performance assessment",
+      "proficiency": "expert"
+    },
+    {
+      "category": "validation",
+      "detail": "Specification verification",
+      "proficiency": "expert"
+    }
+  ],
+  "testing_procedures": {
+    "measurement": [
+      "Pattern assessment",
+      "Gain measurement",
+      "Phase validation",
+      "Power verification"
+    ],
+    "validation": [
+      "Specification compliance",
+      "Performance verification",
+      "System calibration",
+      "Error analysis"
+    ],
+    "documentation": [
+      "Test procedures",
+      "Results recording",
+      "Performance reports",
+      "Compliance verification"
+    ],
+    "field_operations": [
+      "Site preparation",
+      "Equipment setup",
+      "Safety protocols",
+      "Environmental considerations"
+    ]
+  },
+  "performance_metrics": {
+    "rf_parameters": [
+      "Radiation patterns",
+      "Gain characteristics",
+      "Phase response",
+      "Power handling"
+    ],
+    "system_aspects": [
+      "Operational stability",
+      "Environmental response",
+      "Long-term reliability",
+      "System integration"
+    ],
+    "validation_criteria": [
+      "Performance standards",
+      "Military specifications",
+      "Quality requirements",
+      "Operational limits"
+    ]
+  }
+}

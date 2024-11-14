@@ -1,0 +1,66 @@
+{
+  "id": "ACT011",
+  "core": "Served as editor for Harvard Science in the News, translating complex scientific research for public understanding",
+  "dates": {
+    "start": "2017-09",
+    "end": "2019-05",
+    "status": "completed"
+  },
+  "category": "science_communication",
+  "organization": "Harvard Science in the News",
+  "role_details": {
+    "position": "Editor",
+    "responsibilities": [
+      "Reviewed scientific articles",
+      "Edited technical content",
+      "Ensured accuracy",
+      "Managed content quality"
+    ],
+    "focus_areas": [
+      "Research translation",
+      "Public communication",
+      "Technical accuracy",
+      "Accessibility"
+    ]
+  },
+  "editorial_work": {
+    "content_types": [
+      "Research summaries",
+      "Scientific explanations",
+      "Technical articles",
+      "Educational content"
+    ],
+    "topics_covered": [
+      "Biotechnology",
+      "Physics",
+      "Engineering advances",
+      "Medical research"
+    ],
+    "audience": [
+      "General public",
+      "Students",
+      "Educators",
+      "Science enthusiasts"
+    ]
+  },
+  "impact": {
+    "communication": [
+      "Enhanced public understanding",
+      "Improved science accessibility",
+      "Technical clarity",
+      "Knowledge dissemination"
+    ],
+    "professional": [
+      "Editorial experience",
+      "Communication skills",
+      "Technical writing",
+      "Content management"
+    ]
+  },
+  "skills_developed": [
+    "Scientific writing",
+    "Editorial review",
+    "Content management",
+    "Public communication"
+  ]
+}

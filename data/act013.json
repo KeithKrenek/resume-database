@@ -1,0 +1,86 @@
+{
+  "id": "ACT013",
+  "core": "Led technical content creation for Very's IoT development initiatives, translating complex technological concepts into accessible documentation and marketing materials",
+  "dates": {
+    "start": "2023-01",
+    "end": "2024-03",
+    "status": "ongoing"
+  },
+  "category": "technical_communication",
+  "organization": "Very (IoT development company)",
+  "role_details": {
+    "position": "Tech Blog Writer/Editor",
+    "focus_areas": [
+      "IoT technology",
+      "Development practices",
+      "System architecture",
+      "Implementation strategies"
+    ]
+  },
+  "content_development": {
+    "types": [
+      {
+        "format": "Technical Blog Posts",
+        "topics": [
+          "IoT architecture",
+          "Development methodologies",
+          "Security practices",
+          "System integration"
+        ]
+      },
+      {
+        "format": "White Papers",
+        "topics": [
+          "Technology adoption",
+          "Implementation strategies",
+          "Industry trends",
+          "Best practices"
+        ]
+      },
+      {
+        "format": "Technical Documentation",
+        "topics": [
+          "System specifications",
+          "Integration guides",
+          "Development procedures",
+          "Security protocols"
+        ]
+      }
+    ],
+    "technical_areas": [
+      "IoT platforms",
+      "Embedded systems",
+      "Cloud integration",
+      "Security architecture"
+    ]
+  },
+  "impact": {
+    "readership": [
+      "Technical professionals",
+      "Development teams",
+      "Business stakeholders",
+      "Industry practitioners"
+    ],
+    "knowledge_transfer": [
+      "Best practices dissemination",
+      "Technical guidance",
+      "Industry insights",
+      "Implementation strategies"
+    ]
+  },
+  "skills_applied": {
+    "technical": [
+      "IoT architecture understanding",
+      "System integration knowledge",
+      "Security awareness",
+      "Development methodologies"
+    ],
+    "communication": [
+      "Technical writing",
+      "Content strategy",
+      "Audience adaptation",
+      "Complex concept translation"
+    ]
+  },
+  "related_entries": ["AGI001", "AGI002", "ACT003"]
+}

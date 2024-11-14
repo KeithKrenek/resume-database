@@ -1,0 +1,177 @@
+{
+    "id": "SYS001",
+    "core": "Developed hardware-in-the-loop test platform for evaluating cameras and algorithms for terrain-relative vision-based navigation on the moon, integrating mechanical design, imaging systems, and software interfaces",
+    "dates": {
+      "start": "2022-02",
+      "end": "2023-07",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "systems_engineer": {
+        "short": "Built lunar navigation test platform",
+        "medium": "Developed HWIL navigation testing system",
+        "detailed": "Created comprehensive hardware-in-the-loop platform for testing vision-based lunar navigation systems, including mechanical, optical, and software components"
+      },
+      "test_engineer": {
+        "short": "Designed navigation validation system",
+        "medium": "Created vision system test platform",
+        "detailed": "Engineered test environment for evaluating camera performance and algorithm effectiveness in simulated lunar navigation scenarios"
+      },
+      "integration_lead": {
+        "short": "Led platform integration effort",
+        "medium": "Managed test system development",
+        "detailed": "Directed integration of mechanical, optical, and software components into cohesive test platform for lunar navigation validation"
+      }
+    },
+    "metrics": [
+      {
+        "value": "integrated",
+        "context": "multi-domain test platform",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "development",
+        "impact_area": "testing"
+      },
+      {
+        "value": "successful",
+        "context": "algorithm validation capability",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "continuous",
+        "impact_area": "evaluation"
+      },
+      {
+        "value": "adaptive",
+        "context": "test configuration flexibility",
+        "verified": true,
+        "category": "capability",
+        "timeframe": "operation",
+        "impact_area": "versatility"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "mechanical",
+        "detail": "Test fixture design",
+        "proficiency": "expert"
+      },
+      {
+        "category": "imaging",
+        "detail": "Camera system integration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "software",
+        "detail": "Interface development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "systems",
+        "detail": "Platform integration",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enabled algorithm validation",
+      "Accelerated development cycles",
+      "Improved testing capability",
+      "Enhanced evaluation methods",
+      "Created validation framework",
+      "Supported mission planning",
+      "Reduced development risk",
+      "Enabled rapid iteration"
+    ],
+    "skills": [
+      "Systems Integration",
+      "Test Development",
+      "Hardware Design",
+      "Software Integration",
+      "Requirements Analysis",
+      "Performance Validation",
+      "Project Management",
+      "Technical Leadership",
+      "Mechanical Design",
+      "Interface Development"
+    ],
+    "tags": [
+      "Navigation",
+      "Testing",
+      "Hardware",
+      "Integration",
+      "Lunar",
+      "Vision Systems",
+      "Validation"
+    ],
+    "methodology": [
+      "Systems Engineering",
+      "Iterative Development",
+      "Integration Testing",
+      "Performance Validation",
+      "Requirements Management"
+    ],
+    "domain_impact": [
+      "Lunar Navigation",
+      "Vision Systems",
+      "Algorithm Development",
+      "Space Technology"
+    ],
+    "tech_stack": [
+      "CAD Software",
+      "Imaging Systems",
+      "Integration Software",
+      "Test Equipment"
+    ],
+    "platform_components": {
+      "mechanical": [
+        "Test fixture design",
+        "Motion control",
+        "Environmental isolation",
+        "Mounting systems"
+      ],
+      "optical": [
+        "Camera integration",
+        "Lighting control",
+        "Scene simulation",
+        "Image capture"
+      ],
+      "software": [
+        "Control interfaces",
+        "Data collection",
+        "Algorithm integration",
+        "Analysis tools"
+      ],
+      "integration": [
+        "System synchronization",
+        "Data flow management",
+        "Performance monitoring",
+        "Error handling"
+      ]
+    },
+    "test_capabilities": {
+      "scenarios": [
+        "Terrain navigation",
+        "Feature recognition",
+        "Motion tracking",
+        "Environmental variation"
+      ],
+      "validation": [
+        "Algorithm performance",
+        "Camera evaluation",
+        "System response",
+        "Error analysis"
+      ],
+      "configuration": [
+        "Test setup flexibility",
+        "Parameter adjustment",
+        "Condition simulation",
+        "Real-time modification"
+      ],
+      "analysis": [
+        "Data collection",
+        "Performance metrics",
+        "Result visualization",
+        "Report generation"
+      ]
+    }
+  }

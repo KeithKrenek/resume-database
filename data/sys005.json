@@ -1,0 +1,123 @@
+{
+  "id": "SYS005",
+  "core": "Led comprehensive electrical and optical performance characterization of new imaging system, establishing baseline performance metrics and operational parameters",
+  "dates": {
+    "start": "2017-06",
+    "end": "2018-05",
+    "status": "completed"
+  },
+  "company": "MIT Lincoln Lab",
+  "related_entries": ["FAB002", "SYS004", "PHT002", "LED005"],
+  "relationship_type": "performance_analysis",
+  "variations": {
+    "test_engineer": {
+      "short": "Characterized imager performance",
+      "medium": "Led imaging system evaluation",
+      "detailed": "Conducted comprehensive performance characterization of novel imaging system"
+    },
+    "systems_engineer": {
+      "short": "Analyzed system parameters",
+      "medium": "Evaluated system characteristics",
+      "detailed": "Performed detailed electrical and optical performance analysis of new imaging technology"
+    },
+    "validation_engineer": {
+      "short": "Validated system performance",
+      "medium": "Established performance metrics",
+      "detailed": "Developed and implemented comprehensive performance validation protocols"
+    }
+  },
+  "metrics": [
+    {
+      "value": "comprehensive",
+      "context": "performance parameters characterized",
+      "verified": true,
+      "category": "analysis",
+      "timeframe": "project duration",
+      "impact_area": "validation"
+    },
+    {
+      "value": "dual-domain",
+      "context": "electrical and optical testing",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "testing phase",
+      "impact_area": "characterization"
+    },
+    {
+      "value": "baseline",
+      "context": "performance metrics established",
+      "verified": true,
+      "category": "achievement",
+      "timeframe": "completion",
+      "impact_area": "specifications"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "electrical",
+      "detail": "Performance testing",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optical",
+      "detail": "System characterization",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Data evaluation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "validation",
+      "detail": "Performance verification",
+      "proficiency": "expert"
+    }
+  ],
+  "characterization_areas": {
+    "electrical": [
+      "Power consumption",
+      "Signal integrity",
+      "Noise characteristics",
+      "Response time"
+    ],
+    "optical": [
+      "Sensitivity",
+      "Resolution",
+      "Dynamic range",
+      "Spectral response"
+    ],
+    "system": [
+      "Operating parameters",
+      "Performance limits",
+      "Stability metrics",
+      "Environmental response"
+    ],
+    "validation": [
+      "Test procedures",
+      "Performance criteria",
+      "Data analysis",
+      "Documentation"
+    ]
+  },
+  "performance_metrics": {
+    "measurement": [
+      "Parameter identification",
+      "Data collection",
+      "Statistical analysis",
+      "Error assessment"
+    ],
+    "analysis": [
+      "Performance modeling",
+      "Trend identification",
+      "Limitation analysis",
+      "Optimization opportunities"
+    ],
+    "documentation": [
+      "Results compilation",
+      "Specification development",
+      "Report generation",
+      "Recommendation formulation"
+    ]
+  }
+}

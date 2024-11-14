@@ -1,0 +1,123 @@
+{
+  "id": "LED006",
+  "core": "Developed and established comprehensive company policies for electrical design practices, creating standardized guidelines for engineering teams",
+  "dates": {
+    "start": "2012-01",
+    "end": "2012-12",
+    "status": "completed"
+  },
+  "company": "Mustang Engineering",
+  "related_entries": ["WEB003", "WEB004", "LED007"],
+  "relationship_type": "standards_development",
+  "variations": {
+    "standards_engineer": {
+      "short": "Developed design standards",
+      "medium": "Created electrical design policies",
+      "detailed": "Established comprehensive electrical design standards and practices for company-wide implementation"
+    },
+    "policy_developer": {
+      "short": "Created design guidelines",
+      "medium": "Established engineering standards",
+      "detailed": "Developed standardized electrical design practices and implementation guidelines"
+    },
+    "technical_lead": {
+      "short": "Led standards development",
+      "medium": "Directed practice standardization",
+      "detailed": "Led development and implementation of standardized electrical design practices"
+    }
+  },
+  "metrics": [
+    {
+      "value": "company-wide",
+      "context": "policy implementation",
+      "verified": true,
+      "category": "scope",
+      "timeframe": "ongoing",
+      "impact_area": "standardization"
+    },
+    {
+      "value": "comprehensive",
+      "context": "design practices covered",
+      "verified": true,
+      "category": "coverage",
+      "timeframe": "development",
+      "impact_area": "guidelines"
+    },
+    {
+      "value": "standardized",
+      "context": "engineering procedures",
+      "verified": true,
+      "category": "implementation",
+      "timeframe": "continuous",
+      "impact_area": "consistency"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "standards",
+      "detail": "Policy development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "electrical",
+      "detail": "Design practices",
+      "proficiency": "expert"
+    },
+    {
+      "category": "documentation",
+      "detail": "Guidelines creation",
+      "proficiency": "expert"
+    },
+    {
+      "category": "implementation",
+      "detail": "Process standardization",
+      "proficiency": "expert"
+    }
+  ],
+  "policy_components": {
+    "technical": [
+      "Design specifications",
+      "Safety requirements",
+      "Quality standards",
+      "Testing protocols"
+    ],
+    "procedural": [
+      "Workflow guidelines",
+      "Review processes",
+      "Documentation requirements",
+      "Change management"
+    ],
+    "compliance": [
+      "Industry standards",
+      "Regulatory requirements",
+      "Best practices",
+      "Safety regulations"
+    ],
+    "implementation": [
+      "Training requirements",
+      "Verification procedures",
+      "Quality control",
+      "Continuous improvement"
+    ]
+  },
+  "impact_areas": {
+    "engineering": [
+      "Design consistency",
+      "Quality improvement",
+      "Efficiency increase",
+      "Error reduction"
+    ],
+    "organizational": [
+      "Process standardization",
+      "Knowledge transfer",
+      "Risk management",
+      "Resource optimization"
+    ],
+    "operational": [
+      "Project execution",
+      "Team coordination",
+      "Documentation control",
+      "Performance monitoring"
+    ]
+  }
+}

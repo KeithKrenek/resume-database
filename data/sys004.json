@@ -1,0 +1,123 @@
+{
+  "id": "SYS004",
+  "core": "Developed comprehensive automated testing platform for avalanche photodiodes, integrating precision electrical probing, optical imaging, and robust feature detection with sophisticated error handling",
+  "dates": {
+    "start": "2016-08",
+    "end": "2018-03",
+    "status": "completed"
+  },
+  "company": "MIT Lincoln Lab",
+  "related_entries": ["FAB002", "PHT002", "SYS005", "LED005"],
+  "relationship_type": "testing_automation",
+  "variations": {
+    "automation_engineer": {
+      "short": "Built automated test platform",
+      "medium": "Developed photodiode testing system",
+      "detailed": "Created comprehensive automated testing platform integrating multiple detection and measurement systems"
+    },
+    "vision_systems_engineer": {
+      "short": "Implemented optical detection",
+      "medium": "Developed feature detection system",
+      "detailed": "Engineered robust optical imaging and feature detection system for precise contact identification"
+    },
+    "controls_engineer": {
+      "short": "Created precision controls",
+      "medium": "Developed sub-micron positioning",
+      "detailed": "Implemented high-precision control system achieving sub-micron spatial resolution for electrical probing"
+    }
+  },
+  "metrics": [
+    {
+      "value": "sub-µm",
+      "context": "spatial resolution achieved",
+      "verified": true,
+      "category": "precision",
+      "timeframe": "continuous",
+      "impact_area": "testing"
+    },
+    {
+      "value": "hours",
+      "context": "continuous autopilot operation",
+      "verified": true,
+      "category": "automation",
+      "timeframe": "per session",
+      "impact_area": "efficiency"
+    },
+    {
+      "value": "zero",
+      "context": "damage incidents under automation",
+      "verified": true,
+      "category": "reliability",
+      "timeframe": "operation",
+      "impact_area": "quality"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "automation",
+      "detail": "Test system integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "vision",
+      "detail": "Feature detection",
+      "proficiency": "expert"
+    },
+    {
+      "category": "controls",
+      "detail": "Precision positioning",
+      "proficiency": "expert"
+    },
+    {
+      "category": "software",
+      "detail": "Error handling",
+      "proficiency": "expert"
+    }
+  ],
+  "system_features": {
+    "automation": [
+      "Continuous operation",
+      "Process monitoring",
+      "Adaptive control",
+      "Data logging"
+    ],
+    "vision": [
+      "Contact identification",
+      "Feature matching",
+      "Position verification",
+      "Quality inspection"
+    ],
+    "control": [
+      "Sub-micron positioning",
+      "Precision movement",
+      "Force control",
+      "Coordinate mapping"
+    ],
+    "safety": [
+      "Error detection",
+      "Damage prevention",
+      "Emergency stopping",
+      "System protection"
+    ]
+  },
+  "error_handling": {
+    "detection": [
+      "Position verification",
+      "Contact validation",
+      "Process monitoring",
+      "Anomaly detection"
+    ],
+    "prevention": [
+      "Pre-check routines",
+      "Safety constraints",
+      "Parameter validation",
+      "Operation limits"
+    ],
+    "recovery": [
+      "Error correction",
+      "Position recovery",
+      "Process restoration",
+      "System reset"
+    ]
+  }
+}

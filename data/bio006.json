@@ -1,0 +1,157 @@
+{
+    "id": "BIO006",
+    "core": "Developed comprehensive multiphysics simulations for a commercial acoustofluidic biomanufacturing platform, integrating electrical, piezoelectric, mechanical, fluidic, and thermal physics domains",
+    "dates": {
+      "start": "2021-04",
+      "end": "2023-10",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "simulation_engineer": {
+        "short": "Led multiphysics modeling efforts",
+        "medium": "Developed comprehensive physics-based simulations",
+        "detailed": "Created integrated multiphysics simulations incorporating five distinct physical domains to optimize acoustofluidic device performance"
+      },
+      "research_scientist": {
+        "short": "Analyzed complex physical interactions",
+        "medium": "Investigated coupled physics phenomena",
+        "detailed": "Conducted detailed analysis of coupled physical phenomena in acoustofluidic systems to predict and optimize device behavior"
+      },
+      "design_engineer": {
+        "short": "Optimized device performance",
+        "medium": "Led simulation-driven design optimization",
+        "detailed": "Utilized multiphysics simulations to guide design decisions and optimize device performance for commercial implementation"
+      }
+    },
+    "metrics": [
+      {
+        "value": "5+",
+        "context": "physics domains integrated",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "project duration",
+        "impact_area": "simulation"
+      },
+      {
+        "value": "commercial",
+        "context": "implementation achieved",
+        "verified": true,
+        "category": "impact",
+        "timeframe": "project completion",
+        "impact_area": "development"
+      },
+      {
+        "value": "comprehensive",
+        "context": "system behavior prediction",
+        "verified": true,
+        "category": "capability",
+        "timeframe": "continuous",
+        "impact_area": "design"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "simulation",
+        "detail": "Multiphysics modeling",
+        "proficiency": "expert"
+      },
+      {
+        "category": "physics",
+        "detail": "Coupled phenomena analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "thermal",
+        "detail": "Heat transfer modeling",
+        "proficiency": "expert"
+      },
+      {
+        "category": "fluids",
+        "detail": "Computational fluid dynamics",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enabled predictive design",
+      "Optimized device performance",
+      "Reduced development cycles",
+      "Informed manufacturing process",
+      "Enhanced understanding",
+      "Validated design choices",
+      "Supported commercialization",
+      "Established simulation framework"
+    ],
+    "skills": [
+      "Multiphysics Simulation",
+      "Scientific Computing",
+      "Physics Modeling",
+      "Performance Analysis",
+      "Thermal Analysis",
+      "Fluid Dynamics",
+      "Electromechanics",
+      "Model Validation",
+      "Technical Documentation",
+      "Design Optimization"
+    ],
+    "tags": [
+      "Simulation",
+      "Physics",
+      "Biotech",
+      "Commercial",
+      "Optimization",
+      "Analysis",
+      "Development"
+    ],
+    "methodology": [
+      "Physics-Based Modeling",
+      "Numerical Analysis",
+      "Model Validation",
+      "Design Iteration",
+      "Performance Optimization"
+    ],
+    "domain_impact": [
+      "Biomanufacturing",
+      "Device Development",
+      "Process Optimization",
+      "Commercial Production"
+    ],
+    "tech_stack": [
+      "COMSOL Multiphysics",
+      "Scientific Computing Tools",
+      "Analysis Software",
+      "Visualization Platforms"
+    ],
+    "physics_domains": {
+      "electrical": [
+        "Circuit analysis",
+        "Signal propagation",
+        "Power delivery",
+        "Component modeling"
+      ],
+      "mechanical": [
+        "Structural mechanics",
+        "Vibration analysis",
+        "Material response",
+        "Acoustic waves"
+      ],
+      "fluidic": [
+        "Flow dynamics",
+        "Particle transport",
+        "Acoustic streaming",
+        "Interface phenomena"
+      ],
+      "thermal": [
+        "Heat generation",
+        "Thermal dissipation",
+        "Temperature distribution",
+        "Cooling effects"
+      ],
+      "piezoelectric": [
+        "Electromechanical coupling",
+        "Material response",
+        "Energy conversion",
+        "Frequency effects"
+      ]
+    }
+  }

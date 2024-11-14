@@ -1,0 +1,145 @@
+{
+    "id": "BIO004",
+    "core": "Developed an automated calibration system that learns optimal operating parameters for an acoustofluidic cell manipulation platform, enhancing usability and performance consistency",
+    "dates": {
+      "start": "2022-03",
+      "end": "2023-08",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "automation_engineer": {
+        "short": "Built automated calibration system",
+        "medium": "Developed self-learning calibration platform",
+        "detailed": "Created intelligent calibration system that automatically determines optimal operating parameters for acoustofluidic cell manipulation, reducing manual intervention"
+      },
+      "software_developer": {
+        "short": "Programmed learning algorithms",
+        "medium": "Implemented adaptive parameter optimization",
+        "detailed": "Designed and implemented algorithms that learn from system responses to automatically optimize operational settings for consistent performance"
+      },
+      "systems_engineer": {
+        "short": "Enhanced system usability",
+        "medium": "Improved platform reliability and ease-of-use",
+        "detailed": "Integrated automated calibration capabilities into existing platform, significantly improving system usability and performance consistency"
+      }
+    },
+    "metrics": [
+      {
+        "value": "automated",
+        "context": "parameter optimization process",
+        "verified": true,
+        "category": "automation",
+        "timeframe": "per setup",
+        "impact_area": "usability"
+      },
+      {
+        "value": "improved",
+        "context": "operation consistency",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "continuous",
+        "impact_area": "reliability"
+      },
+      {
+        "value": "reduced",
+        "context": "manual intervention requirements",
+        "verified": true,
+        "category": "efficiency",
+        "timeframe": "per run",
+        "impact_area": "operation"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "automation",
+        "detail": "Self-learning calibration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "software",
+        "detail": "Algorithm development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "integration",
+        "detail": "System integration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "optimization",
+        "detail": "Parameter optimization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Automated setup process",
+      "Enhanced system reliability",
+      "Improved user experience",
+      "Reduced operator training needs",
+      "Increased throughput",
+      "Standardized operation",
+      "Enabled consistent results",
+      "Simplified troubleshooting"
+    ],
+    "skills": [
+      "Automation Development",
+      "Algorithm Design",
+      "System Integration",
+      "Parameter Optimization",
+      "Software Development",
+      "User Experience Design",
+      "Performance Analysis",
+      "Technical Documentation",
+      "Requirements Analysis",
+      "Testing and Validation"
+    ],
+    "tags": [
+      "Automation",
+      "Machine Learning",
+      "Biotech",
+      "Software",
+      "Optimization",
+      "Integration",
+      "Usability"
+    ],
+    "methodology": [
+      "Iterative Development",
+      "User-Centered Design",
+      "Automated Testing",
+      "Performance Validation",
+      "System Integration"
+    ],
+    "domain_impact": [
+      "Cell Manipulation",
+      "Laboratory Automation",
+      "Process Control",
+      "User Experience"
+    ],
+    "tech_stack": [
+      "Python",
+      "Control Systems",
+      "Automation Framework",
+      "Integration Tools"
+    ],
+    "calibration_features": {
+      "learning": [
+        "Parameter space exploration",
+        "Response optimization",
+        "Adaptive algorithms",
+        "Performance monitoring"
+      ],
+      "automation": [
+        "Setup automation",
+        "Parameter adjustment",
+        "Performance verification",
+        "Error handling"
+      ],
+      "user_interface": [
+        "Simplified controls",
+        "Status monitoring",
+        "Progress tracking",
+        "Error reporting"
+      ]
+    }
+  }

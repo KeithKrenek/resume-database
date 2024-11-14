@@ -1,0 +1,36 @@
+{
+  "id": "EDU001",
+  "core": "Doctor of Philosophy (Ph.D.) in Applied Physics",
+  "dates": {
+    "start": "2015-09",
+    "end": "2019-07",
+    "graduation": "2019-07"
+  },
+  "institution": "Harvard University",
+  "location": "Cambridge, MA",
+  "details": {
+    "degree": "Ph.D.",
+    "field": "Applied Physics",
+    "gpa": "3.57",
+    "thesis": "Leveraging CMOS technologies in neuronal studies",
+    "advisor": "Prof. Donhee Ham"
+  },
+  "key_coursework": [
+    "Applications of Modern Optics",
+    "Intro to Soft Matter",
+    "Special Topics in Applied Physics",
+    "Statistical Mechanics",
+    "Advanced Innovation in Science and Engineering"
+  ],
+  "research_areas": [
+    "Neuroelectronics",
+    "CMOS Integration",
+    "Bioelectronics",
+    "Microfluidics"
+  ],
+  "achievements": [
+    "Harvard Distinction in Teaching Award",
+    "Harvard Kao Fellowship"
+  ],
+  "related_entries": ["BIO007", "DAT002", "SEN002", "FAB003", "FAB004"]
+}

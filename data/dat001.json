@@ -1,0 +1,151 @@
+{
+    "id": "DAT001",
+    "core": "Developed OCR-based analysis tools to enable processing of large image datasets that were previously infeasible to analyze manually, automating data extraction and analysis workflows",
+    "dates": {
+      "start": "2022-01",
+      "end": "2022-08",
+      "status": "completed"
+    },
+    "company": "Draper",
+    "variations": {
+      "software_engineer": {
+        "short": "Built OCR analysis system",
+        "medium": "Developed automated image processing pipeline",
+        "detailed": "Created comprehensive OCR-based analysis system for processing large-scale image datasets, enabling previously infeasible data extraction"
+      },
+      "data_scientist": {
+        "short": "Automated image data extraction",
+        "medium": "Implemented scalable data processing",
+        "detailed": "Designed and implemented scalable data processing pipeline for automated extraction and analysis of text from large image collections"
+      },
+      "automation_engineer": {
+        "short": "Automated analysis workflow",
+        "medium": "Created automated data processing system",
+        "detailed": "Developed automated workflow to transform previously unmanageable image datasets into structured, analyzable data"
+      }
+    },
+    "metrics": [
+      {
+        "value": "automated",
+        "context": "previously manual analysis process",
+        "verified": true,
+        "category": "efficiency",
+        "timeframe": "continuous",
+        "impact_area": "productivity"
+      },
+      {
+        "value": "large-scale",
+        "context": "image dataset processing",
+        "verified": true,
+        "category": "capability",
+        "timeframe": "per analysis",
+        "impact_area": "data_processing"
+      },
+      {
+        "value": "enabled",
+        "context": "previously infeasible analysis",
+        "verified": true,
+        "category": "impact",
+        "timeframe": "project completion",
+        "impact_area": "research"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "ocr",
+        "detail": "Text recognition implementation",
+        "proficiency": "expert"
+      },
+      {
+        "category": "image",
+        "detail": "Image processing",
+        "proficiency": "expert"
+      },
+      {
+        "category": "pipeline",
+        "detail": "Data pipeline development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "automation",
+        "detail": "Workflow automation",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enabled new analysis capabilities",
+      "Automated manual processes",
+      "Increased data processing scale",
+      "Improved analysis efficiency",
+      "Reduced processing time",
+      "Enhanced data accessibility",
+      "Created reusable tools",
+      "Established scalable workflow"
+    ],
+    "skills": [
+      "OCR Development",
+      "Image Processing",
+      "Pipeline Development",
+      "Workflow Automation",
+      "Data Analysis",
+      "Software Engineering",
+      "Process Optimization",
+      "System Design",
+      "Error Handling",
+      "Performance Optimization"
+    ],
+    "tags": [
+      "OCR",
+      "Automation",
+      "Data Analysis",
+      "Image Processing",
+      "Pipeline",
+      "Software",
+      "Research"
+    ],
+    "methodology": [
+      "Automated Processing",
+      "Batch Analysis",
+      "Error Detection",
+      "Data Validation",
+      "Performance Optimization"
+    ],
+    "domain_impact": [
+      "Data Analysis",
+      "Research Automation",
+      "Process Optimization",
+      "Information Extraction"
+    ],
+    "tech_stack": [
+      "Python",
+      "OCR Libraries",
+      "Image Processing Tools",
+      "Data Processing Frameworks"
+    ],
+    "processing_features": {
+      "image_handling": [
+        "Batch processing",
+        "Format conversion",
+        "Quality assessment",
+        "Pre-processing optimization"
+      ],
+      "text_extraction": [
+        "Character recognition",
+        "Layout analysis",
+        "Error correction",
+        "Confidence scoring"
+      ],
+      "data_pipeline": [
+        "Automated workflow",
+        "Progress tracking",
+        "Error handling",
+        "Results validation"
+      ],
+      "output_processing": [
+        "Data structuring",
+        "Format conversion",
+        "Analysis preparation",
+        "Results visualization"
+      ]
+    }
+  }

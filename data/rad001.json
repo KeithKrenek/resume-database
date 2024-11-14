@@ -1,0 +1,171 @@
+{
+    "id": "RAD001",
+    "core": "Leading research and development of next-generation radiation-hardened optical fiber for mission-critical sensors, advancing both fundamental understanding and practical implementation",
+    "dates": {
+      "start": "2022-09",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "research_lead": {
+        "short": "Led rad-hard fiber development",
+        "medium": "Directed radiation-hardened fiber R&D",
+        "detailed": "Leading comprehensive development of next-generation radiation-hardened optical fiber technology, from materials research through system implementation"
+      },
+      "technical_lead": {
+        "short": "Led fiber technology advancement",
+        "medium": "Directed optical fiber innovation program",
+        "detailed": "Spearheading development of advanced optical fiber technology combining radiation hardening with mission-critical performance requirements"
+      },
+      "project_manager": {
+        "short": "Managed fiber development program",
+        "medium": "Led strategic technology development",
+        "detailed": "Directing multi-phase development program for radiation-hardened fiber, coordinating research, testing, and implementation efforts"
+      }
+    },
+    "metrics": [
+      {
+        "value": "next-gen",
+        "context": "technology development",
+        "verified": true,
+        "category": "innovation",
+        "timeframe": "ongoing",
+        "impact_area": "technology"
+      },
+      {
+        "value": "mission-critical",
+        "context": "application requirements met",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "continuous",
+        "impact_area": "reliability"
+      },
+      {
+        "value": "comprehensive",
+        "context": "development program",
+        "verified": true,
+        "category": "scope",
+        "timeframe": "project duration",
+        "impact_area": "development"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "radiation",
+        "detail": "Radiation hardening techniques",
+        "proficiency": "expert"
+      },
+      {
+        "category": "materials",
+        "detail": "Fiber materials development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "optics",
+        "detail": "Optical performance optimization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "testing",
+        "detail": "Validation and characterization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Advanced fiber technology",
+      "Enhanced radiation tolerance",
+      "Improved sensor reliability",
+      "Enabled new applications",
+      "Created design guidelines",
+      "Established test protocols",
+      "Advanced understanding",
+      "Supported mission success"
+    ],
+    "skills": [
+      "Research Leadership",
+      "Technology Development",
+      "Materials Science",
+      "Radiation Physics",
+      "Project Management",
+      "Requirements Analysis",
+      "Test Planning",
+      "Performance Optimization",
+      "Systems Engineering",
+      "Technical Leadership"
+    ],
+    "tags": [
+      "Radiation",
+      "Fiber Optics",
+      "Development",
+      "Research",
+      "Innovation",
+      "Materials",
+      "Sensors"
+    ],
+    "methodology": [
+      "Systematic Development",
+      "Iterative Testing",
+      "Performance Validation",
+      "Requirements Management",
+      "Risk Mitigation"
+    ],
+    "domain_impact": [
+      "Radiation Environments",
+      "Sensor Systems",
+      "Mission-Critical Applications",
+      "Space Technology"
+    ],
+    "tech_stack": [
+      "Testing Equipment",
+      "Analysis Tools",
+      "Simulation Software",
+      "Characterization Systems"
+    ],
+    "development_areas": {
+      "materials": [
+        "Composition optimization",
+        "Dopant selection",
+        "Structure design",
+        "Processing methods"
+      ],
+      "radiation": [
+        "Hardening mechanisms",
+        "Damage mitigation",
+        "Recovery processes",
+        "Lifetime prediction"
+      ],
+      "performance": [
+        "Signal transmission",
+        "Loss characteristics",
+        "Stability assessment",
+        "Environmental response"
+      ],
+      "implementation": [
+        "Integration methods",
+        "System compatibility",
+        "Installation procedures",
+        "Maintenance requirements"
+      ]
+    },
+    "research_elements": {
+      "fundamental": [
+        "Radiation effects",
+        "Material properties",
+        "Physical mechanisms",
+        "Performance limits"
+      ],
+      "applied": [
+        "Design optimization",
+        "Process development",
+        "Testing methods",
+        "Performance validation"
+      ],
+      "validation": [
+        "Characterization protocols",
+        "Quality assurance",
+        "Reliability testing",
+        "Certification processes"
+      ]
+    }
+  }

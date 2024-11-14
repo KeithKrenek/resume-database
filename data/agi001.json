@@ -1,0 +1,132 @@
+{
+    "id": "AGI001",
+    "core": "Applied machine learning to accelerate root cause analysis and boost production yield of radiation-exposed optical fiber for navigation gyroscopes, spanning from first principles investigation to production optimization",
+    "dates": {
+      "start": "2020-01",
+      "end": "2024-03",
+      "status": "ongoing"
+    },
+    "company": "Draper",
+    "variations": {
+      "ml_engineer": {
+        "short": "Built predictive ML models to optimize optical fiber production",
+        "medium": "Developed ML pipeline for analyzing high-dimensional manufacturing data",
+        "detailed": "Created end-to-end ML system for predicting optical fiber performance, incorporating multiple data sources and enabling weekly decision-making for production optimization"
+      },
+      "data_scientist": {
+        "short": "Led data-driven root cause investigation of optical components",
+        "medium": "Built data pipeline analyzing complex radiation test results",
+        "detailed": "Engineered comprehensive data pipeline integrating manufacturing data, test results, and physics-based simulations to identify root causes of unexpected radiation performance"
+      },
+      "research_lead": {
+        "short": "Led investigation into radiation effects on optical components",
+        "medium": "Directed multidisciplinary investigation of radiation-material interactions",
+        "detailed": "Spearheaded investigation combining physics principles, experimental data, and machine learning to optimize radiation performance of optical components"
+      },
+      "technical_lead": {
+        "short": "Led ML-driven manufacturing optimization project",
+        "medium": "Directed implementation of ML-based production improvements",
+        "detailed": "Led end-to-end development of ML tools that transformed manufacturing data into actionable insights for production optimization"
+      }
+    },
+    "metrics": [
+      {
+        "value": "4+",
+        "context": "years of continuous model deployment",
+        "verified": true,
+        "category": "longevity",
+        "timeframe": "ongoing",
+        "impact_area": "production"
+      },
+      {
+        "value": "weekly",
+        "context": "production decision support",
+        "verified": true,
+        "category": "utilization",
+        "timeframe": "continuous",
+        "impact_area": "manufacturing"
+      },
+      {
+        "value": "multiple",
+        "context": "data sources integrated",
+        "verified": true,
+        "category": "complexity",
+        "timeframe": "project duration",
+        "impact_area": "data_engineering"
+      }
+    ],
+    "technical_details": [
+      {
+        "category": "ml",
+        "detail": "Custom ML model development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "data",
+        "detail": "High-dimensional data pipeline",
+        "proficiency": "expert"
+      },
+      {
+        "category": "physics",
+        "detail": "Radiation-material interactions",
+        "proficiency": "expert"
+      },
+      {
+        "category": "manufacturing",
+        "detail": "Production process optimization",
+        "proficiency": "expert"
+      }
+    ],
+    "impact": [
+      "Enabled data-driven production decisions",
+      "Maintained program schedule and budget",
+      "Established new analysis methodology",
+      "Improved manufacturing yield",
+      "Created reusable ML infrastructure",
+      "Enhanced process understanding",
+      "Accelerated root cause analysis",
+      "Enabled weekly optimization cycles"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Pipeline Development",
+      "Root Cause Analysis",
+      "Physics Modeling",
+      "Production Optimization",
+      "Cross-functional Leadership",
+      "Statistical Analysis",
+      "Process Improvement",
+      "Technical Communication",
+      "Manufacturing Analysis"
+    ],
+    "tags": [
+      "AI/ML",
+      "Manufacturing",
+      "Optimization",
+      "Data Science",
+      "Physics",
+      "Production",
+      "Root Cause Analysis"
+    ],
+    "methodology": [
+      "Agile Development",
+      "Data-Driven Decision Making",
+      "Iterative Modeling",
+      "Physics-Based Analysis",
+      "Production Integration"
+    ],
+    "domain_impact": [
+      "Navigation Systems",
+      "Manufacturing Optimization",
+      "Process Control",
+      "Quality Assurance"
+    ],
+    "tech_stack": [
+      "Python",
+      "Matlab",
+      "ML Libraries",
+      "Data Analysis Tools",
+      "Manufacturing Systems",
+      "Physics Simulation Software"
+    ]
+  }

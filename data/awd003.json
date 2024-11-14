@@ -1,0 +1,73 @@
+{
+  "id": "AWD003",
+  "core": "Received multiple academic honors and scholarships recognizing exceptional academic performance and research contributions at Texas A&M University",
+  "dates": {
+    "start": "2010-09",
+    "end": "2015-05"
+  },
+  "category": "university_awards",
+  "institution": "Texas A&M University",
+  "academic_honors": [
+    {
+      "name": "Summa Cum Laude",
+      "year": "2014",
+      "type": "Graduation Honor",
+      "details": "Graduated with highest academic distinction",
+      "significance": "Top 1% of graduating class"
+    },
+    {
+      "name": "University Honors",
+      "duration": "2010-2014",
+      "type": "Academic Program",
+      "details": "Participation in enhanced academic curriculum",
+      "requirements": [
+        "Maintained high GPA",
+        "Completed honors coursework",
+        "Conducted independent research",
+        "Participated in scholarly activities"
+      ]
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Leroy Fouraker Graduate Fellowship",
+      "year": "2014-2015",
+      "type": "Graduate Support",
+      "focus": "Engineering Excellence"
+    },
+    {
+      "name": "Nicole Corser Memorial Scholarship",
+      "year": "2013-2014",
+      "type": "Merit Scholarship",
+      "focus": "Academic Achievement"
+    }
+  ],
+  "academic_recognition": [
+    {
+      "name": "Physics Mechanics Scholar",
+      "year": "2011",
+      "type": "Academic Excellence",
+      "details": "Recognition for outstanding performance in physics"
+    },
+    {
+      "name": "Undergraduate Research Awards Program",
+      "year": "2013",
+      "type": "Research Excellence",
+      "details": "Support for undergraduate research initiatives"
+    }
+  ],
+  "impact": {
+    "academic": [
+      "Recognition of academic excellence",
+      "Research support and opportunities",
+      "Enhanced learning experiences",
+      "Scholarly development"
+    ],
+    "career": [
+      "Strong academic foundation",
+      "Research experience",
+      "Professional preparation",
+      "Leadership development"
+    ]
+  }
+}
