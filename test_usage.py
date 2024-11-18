@@ -12,4 +12,8 @@ ai_entries = db.query_entries(
     companies=["Draper"]
 )
 
-print(ai_entries)
+# Process results
+for entry in ai_entries:
+    print(f"\nProject: {entry['core']}")
+    print(f"Company: {entry.get('company', 'N/A')}")
+    print(f"Skills: {', '.join(entry.get('skills', []))}")
