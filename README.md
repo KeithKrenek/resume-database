@@ -2,45 +2,61 @@
 
 A sophisticated Python-based system for managing, querying, and generating role-specific content from structured professional experience entries. This system provides a robust foundation for maintaining and leveraging career accomplishments effectively.
 
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+## Overview
+
+The Resume Database System helps professionals maintain and leverage their career accomplishments through:
+- 📝 Structured storage of professional experiences
+- 🎯 Role-specific content generation
+- 🔍 Advanced searching and filtering
+- 📊 Experience analytics and insights
+- 📄 Multiple export formats (JSON, Markdown, PDF)
+- ✅ Comprehensive data validation
+
 ## Features
 
 ### Core Functionality
-- 📝 JSON-based storage with individual entry files
-- 🔍 Flexible and powerful querying capabilities
-- 🎯 Role-specific content generation
-- ✅ Comprehensive data validation
-- 🔄 Automatic indexing for efficient searches
-- 💾 Backup and recovery functionality
+- **Structured Data Storage**: Individual JSON files for each entry with comprehensive schema validation
+- **Advanced Querying**: Multi-criteria search with boolean logic and relevance scoring
+- **Role-Specific Content**: Generate tailored content for different roles and contexts
+- **Data Validation**: Comprehensive validation system with multiple validation levels
+- **Version Control**: Track changes and maintain entry history
+- **Export System**: Generate resumes in multiple formats (PDF, Markdown, JSON)
 
-### Data Management
-- Individual JSON files for each entry
-- Structured data validation using JSON Schema
-- Automated entry indexing for quick searches
-- Date range filtering and validation
-- Skills and category-based organization
+### Advanced Features
+- **Intelligent Search**
+  - Full-text search with relevance scoring
+  - Skills and technology matching
+  - Date range filtering
+  - Company and category filtering
+  - Tag-based searching
+  - Complex boolean queries
 
-### Query Capabilities
-- Multi-criteria search functionality
-- Date range filtering
-- Skills and technology matching
-- Company and category filtering
-- Tag-based searching
-- Complex boolean queries
+- **Content Generation**
+  - Role-specific variations
+  - Multiple detail levels
+  - Automatic formatting
+  - Context-aware content selection
+  - Metric highlighting
 
-### Data Validation
-- JSON Schema validation
-- Date format verification
-- Required field checking
-- Data type validation
-- Cross-reference validation
+- **Data Analytics**
+  - Skill progression tracking
+  - Experience timeline analysis
+  - Impact measurement
+  - Career trajectory visualization
+  - Competency mapping
 
 ## Installation
 
-### Requirements
+### Prerequisites
 - Python 3.7 or higher
 - pip package manager
+- Git (for cloning the repository)
 
-### Setup
+### Basic Installation
 
 1. Clone the repository:
 ```bash
@@ -50,37 +66,43 @@ cd resume-database
 
 2. Create and activate a virtual environment:
 ```bash
-# On Windows
+# Windows
 python -m venv venv
 venv\Scripts\activate
 
-# On macOS/Linux
+# macOS/Linux
 python -m venv venv
 source venv/bin/activate
 ```
 
-3. Install the package and dependencies:
+3. Install the package:
 ```bash
-# For basic installation
+# Basic installation
 pip install -e .
 
-# For development installation (includes testing tools)
+# With development tools
 pip install -e ".[dev]"
+
+# With PDF export support
+pip install -e ".[pdf]"
+
+# Full installation (all features)
+pip install -e ".[dev,pdf]"
 ```
 
 ## Usage
 
-### Basic Usage
+### Quick Start
 
 ```python
 from resume_database import ResumeDatabase
 from pathlib import Path
 
-# Initialize the database
+# Initialize database
 db = ResumeDatabase(Path("data/entries"))
 
-# Add a new entry
-entry_data = {
+# Add an entry
+entry = {
     "core": "Led development of machine learning system",
     "dates": {
         "start": "2024-01",
@@ -89,22 +111,27 @@ entry_data = {
     },
     "category": "technical_projects",
     "company": "Tech Corp",
-    "skills": ["Python", "Machine Learning", "Project Management"]
+    "skills": ["Python", "Machine Learning"],
+    "metrics": [
+        {
+            "value": "25%",
+            "context": "improvement in model accuracy",
+            "verified": True,
+            "category": "performance",
+            "timeframe": "3 months",
+            "impact_area": "ml_systems"
+        }
+    ]
 }
 
-db.add_entry("PROJ001", entry_data)
-
-# Query entries
-ml_projects = db.query_entries(
-    skills=["Machine Learning"],
-    date_range=("2023-01", "2024-12")
-)
+db.add_entry("PROJ001", entry)
 ```
 
-### Advanced Querying
+### Advanced Usage
 
+#### Complex Queries
 ```python
-# Multiple criteria query
+# Search with multiple criteria
 results = db.query_entries(
     skills=["Python", "Machine Learning"],
     categories=["technical_projects"],
@@ -113,47 +140,38 @@ results = db.query_entries(
     date_range=("2020-01", "2024-12")
 )
 
-# Process results
-for entry in results:
-    print(f"\nProject: {entry['core']}")
-    print(f"Company: {entry.get('company', 'N/A')}")
-    print(f"Skills: {', '.join(entry.get('skills', []))}")
+# Generate role-specific content
+ml_engineer_resume = db.generate_content(
+    role="ml_engineer",
+    required_skills=["Python", "Machine Learning"],
+    detail_level="detailed"
+)
+
+# Export as PDF
+db.export_pdf(
+    output_path="resume.pdf",
+    role="ml_engineer",
+    include_metrics=True
+)
 ```
 
-### Backup and Recovery
-
+#### Data Analytics
 ```python
-# Create a backup
-db.backup_entries(Path("backups/2024-03"))
+# Analyze skill progression
+skill_analysis = db.analyze_skills()
+print(f"Top skills: {skill_analysis['top_skills']}")
+print(f"Skill growth: {skill_analysis['skill_growth']}")
 
-# Initialize from backup
-backup_db = ResumeDatabase(Path("backups/2024-03"))
+# Generate experience timeline
+timeline = db.generate_timeline(
+    group_by="company",
+    include_metrics=True
+)
 ```
 
-## Project Structure
+## Data Structure
 
-```
-resume-database/
-├── data/
-│   └── entries/          # Individual JSON entry files
-├── src/
-│   ├── __init__.py
-│   ├── database.py       # Main database implementation
-│   ├── models.py         # Data models
-│   ├── validators.py     # Data validation
-│   └── utils.py         # Utility functions
-├── tests/
-│   ├── __init__.py
-│   ├── test_database.py
-│   └── test_models.py
-├── setup.py
-└── README.md
-```
-
-## Entry Format
-
-Each entry is stored as a JSON file with the following structure:
-
+### Entry Format
 ```json
 {
     "id": "PROJ001",
@@ -165,75 +183,130 @@ Each entry is stored as a JSON file with the following structure:
     },
     "category": "technical_projects",
     "company": "Company Name",
-    "skills": ["Skill1", "Skill2"],
+    "variations": {
+        "ml_engineer": {
+            "short": "Brief ML focus",
+            "medium": "More detailed ML perspective",
+            "detailed": "Complete ML narrative"
+        }
+    },
+    "skills": ["Python", "Machine Learning"],
     "metrics": [
         {
-            "value": "50%",
-            "context": "improvement in efficiency",
+            "value": "25%",
+            "context": "improvement in accuracy",
             "verified": true,
             "category": "performance",
             "timeframe": "3 months",
-            "impact_area": "productivity"
+            "impact_area": "ml_systems"
         }
     ],
     "technical_details": [
         {
-            "category": "backend",
-            "detail": "Python development",
+            "category": "ml",
+            "detail": "Custom model development",
             "proficiency": "expert"
         }
     ],
-    "tags": ["Backend", "Python", "Automation"]
+    "tags": ["AI/ML", "Python", "Data Science"]
 }
 ```
 
 ## Development
 
 ### Running Tests
-
 ```bash
 # Run all tests
 pytest
 
-# Run with coverage report
+# Run with coverage
 pytest --cov=src tests/
 
 # Run specific test file
 pytest tests/test_database.py
+
+# Generate coverage report
+pytest --cov=src --cov-report=html tests/
 ```
 
-### Code Style
-
-This project uses:
-- Black for code formatting
-- Flake8 for style guide enforcement
-
+### Code Quality
 ```bash
 # Format code
 black src/ tests/
 
-# Check style
-flake8 src/ tests/
+# Check types
+mypy src/
+
+# Lint code
+pylint src/
+
+# Run all quality checks
+make lint
+```
+
+### Documentation
+```bash
+# Generate documentation
+make docs
+
+# View documentation locally
+make docs-serve
+```
+
+## Project Structure
+```
+resume-database/
+├── data/                  # Data storage
+│   └── entries/          # Individual JSON entries
+├── src/                  # Source code
+│   ├── database.py      # Database operations
+│   ├── models.py        # Data models
+│   ├── validators.py    # Validation logic
+│   ├── pdf_generator.py # PDF generation
+│   └── utils.py         # Utility functions
+├── tests/                # Test suite
+├── docs/                 # Documentation
+└── examples/             # Usage examples
 ```
 
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m 'Add AmazingFeature'
+   ```
+4. Push to your fork:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
 5. Open a Pull Request
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+- Documentation: [Link to docs]
+- Issues: [GitHub Issues]
+- Email: [your.email@example.com]
 
 ## Acknowledgments
 
 - JSON Schema for data validation
-- Python's pathlib for file operations
+- ReportLab for PDF generation
+- Python pathlib for file operations
 - pytest for testing framework
 
-## Support
+## Roadmap
 
-For support, please open an issue in the GitHub repository or contact [your.email@example.com](mailto:your.email@example.com).
+- [ ] GraphQL API
+- [ ] Web interface
+- [ ] Interactive visualization
+- [ ] AI-powered content suggestions
+- [ ] Multiple language support

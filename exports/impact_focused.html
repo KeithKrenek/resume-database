@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Professional Resume</title>
+        <style>
+            :root {
+                --primary-color: #2563eb;
+                --text-color: #1f2937;
+                --secondary-color: #6b7280;
+                --border-color: #e5e7eb;
+                --background-color: #ffffff;
+                --section-bg: #f9fafb;
+            }
+            
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                line-height: 1.6;
+                color: var(--text-color);
+                max-width: 900px;
+                margin: 0 auto;
+                padding: 2rem;
+                background: var(--background-color);
+            }
+            
+            h1, h2, h3 {
+                color: var(--primary-color);
+                margin-top: 1.5em;
+                margin-bottom: 0.5em;
+            }
+            
+            h1 {
+                font-size: 2.2em;
+                border-bottom: 2px solid var(--primary-color);
+                padding-bottom: 0.3em;
+            }
+            
+            h2 {
+                font-size: 1.8em;
+            }
+            
+            h3 {
+                font-size: 1.4em;
+                color: var(--text-color);
+            }
+            
+            .role-target {
+                color: var(--secondary-color);
+                font-style: italic;
+                margin-bottom: 2em;
+            }
+            
+            .experience-entry {
+                background: var(--section-bg);
+                padding: 1.5em;
+                border-radius: 8px;
+                margin-bottom: 2em;
+                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            }
+            
+            .company-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: baseline;
+                margin-bottom: 1em;
+            }
+            
+            .company-name {
+                font-size: 1.4em;
+                font-weight: bold;
+                color: var(--primary-color);
+            }
+            
+            .date-range {
+                color: var(--secondary-color);
+                font-style: italic;
+            }
+            
+            .description {
+                margin-bottom: 1em;
+            }
+            
+            .metrics {
+                margin: 1em 0;
+            }
+            
+            .metrics h4 {
+                color: var(--text-color);
+                margin-bottom: 0.5em;
+            }
+            
+            .metrics ul {
+                list-style-type: none;
+                padding-left: 0;
+            }
+            
+            .metrics li {
+                margin-bottom: 0.5em;
+                padding-left: 1.5em;
+                position: relative;
+            }
+            
+            .metrics li:before {
+                content: "•";
+                color: var(--primary-color);
+                font-weight: bold;
+                position: absolute;
+                left: 0;
+            }
+            
+            .skills {
+                margin-top: 1em;
+                color: var(--secondary-color);
+            }
+            
+            .skills-list {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 0.5em;
+                margin-top: 0.5em;
+            }
+            
+            .skill-tag {
+                background: var(--primary-color);
+                color: white;
+                padding: 0.2em 0.8em;
+                border-radius: 15px;
+                font-size: 0.9em;
+            }
+            
+            .required-skills, .preferred-skills {
+                margin: 1em 0;
+            }
+            
+            .skill-check {
+                color: #059669;
+                margin-right: 0.5em;
+            }
+            
+            .skill-missing {
+                color: #dc2626;
+                margin-right: 0.5em;
+            }
+            
+            .skill-optional {
+                color: #9ca3af;
+                margin-right: 0.5em;
+            }
+            
+            .meta-info {
+                color: var(--secondary-color);
+                font-size: 0.9em;
+                text-align: right;
+                margin-top: 2em;
+                padding-top: 1em;
+                border-top: 1px solid var(--border-color);
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <h1>Professional Experience</h1>
+            <h2>Experience</h2>
+<div class="experience-entry">
+<div class="company-header">
+<span class="company-name">Data Corp</span>
+<span class="date-range">Jun 2023 - Dec 2023</span>
+</div>
+<div class="description">Developed data analytics platform for customer insights</div>
+<div class="metrics">
+<h4>Key Achievements</h4>
+<ul>
+<li>40% increase in customer engagement</li>
+</ul>
+</div>
+<div class="skills">
+<div class="skills-list">
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Data Analysis</span>
+<span class="skill-tag">Visualization</span>
+</div>
+</div>
+</div>
+<div class="experience-entry">
+<div class="company-header">
+<span class="company-name">Tech Corp</span>
+<span class="date-range">Jan 2024 - Mar 2024</span>
+</div>
+<div class="description">Led development of machine learning system for manufacturing optimization</div>
+<div class="metrics">
+<h4>Key Achievements</h4>
+<ul>
+<li>25% efficiency improvement</li>
+</ul>
+</div>
+<div class="skills">
+<div class="skills-list">
+<span class="skill-tag">Python</span>
+<span class="skill-tag">Machine Learning</span>
+<span class="skill-tag">TensorFlow</span>
+<span class="skill-tag">Data Science</span>
+</div>
+</div>
+</div>
+            <div class="meta-info">
+                Generated on November 19, 2024
+            </div>
+        </main>
+    </body>
+    </html>

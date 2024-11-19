@@ -1,6 +1,10 @@
 # tests/test_database.py
-import pytest
+
+import sys
 from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
+
+import pytest
 from src.database import ResumeDatabase
 from datetime import datetime
 

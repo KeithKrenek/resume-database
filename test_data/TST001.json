@@ -1,0 +1,49 @@
+{
+  "id": "TST001",
+  "core": "Led development of machine learning system for manufacturing optimization",
+  "dates": {
+    "start": "2024-01",
+    "end": "2024-03",
+    "status": "completed"
+  },
+  "company": "Tech Corp",
+  "category": "technical_projects",
+  "variations": {
+    "ml_engineer": {
+      "short": "Built ML pipeline for manufacturing",
+      "medium": "Developed ML system for process optimization",
+      "detailed": "Led development of machine learning pipeline for manufacturing optimization, resulting in 25% efficiency improvement"
+    }
+  },
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "Data Science"
+  ],
+  "tags": [
+    "AI/ML",
+    "Manufacturing"
+  ],
+  "impact": [
+    "Improved manufacturing efficiency by 25%",
+    "Reduced process variance by 40%",
+    "Implemented automated decision system"
+  ],
+  "metrics": [
+    {
+      "value": "25%",
+      "context": "efficiency improvement",
+      "category": "performance",
+      "timeframe": "3 months",
+      "impact_area": "manufacturing"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "ml",
+      "detail": "Machine learning pipeline development",
+      "proficiency": "expert"
+    }
+  ]
+}

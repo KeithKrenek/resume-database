@@ -1,0 +1,38 @@
+{
+  "format": "by_company",
+  "generated_at": "2024-11-18T17:55:01.089323",
+  "companies": {
+    "Tech Corp": [
+      {
+        "core": "Led development of machine learning system for manufacturing optimization",
+        "dates": {
+          "start": "2024-01",
+          "end": "2024-03",
+          "status": "completed"
+        },
+        "category": "technical_projects",
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "Data Science"
+        ]
+      }
+    ],
+    "Data Corp": [
+      {
+        "core": "Developed data analytics platform for customer insights",
+        "dates": {
+          "start": "2023-06",
+          "end": "2023-12",
+          "status": "completed"
+        },
+        "category": "data_analysis",
+        "skills": [
+          "Python",
+          "SQL",
+          "Data Analysis"
+        ]
+      }
+    ]
+  }
+}

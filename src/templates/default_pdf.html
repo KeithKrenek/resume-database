@@ -1,0 +1,194 @@
+<!-- templates/default_pdf.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Resume</title>
+    <style>
+        /* Reset */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        /* Base */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.4;
+            color: #333;
+            padding: 20px;
+            font-size: 12px;
+        }
+        
+        /* Headers */
+        h1 {
+            color: #2563eb;
+            font-size: 24px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #2563eb;
+            padding-bottom: 10px;
+        }
+        
+        h2 {
+            color: #2563eb;
+            font-size: 18px;
+            margin: 20px 0 10px 0;
+        }
+        
+        h3 {
+            font-size: 14px;
+            margin: 15px 0 5px 0;
+        }
+        
+        /* Role Target */
+        .role-target {
+            font-style: italic;
+            color: #666;
+            margin: 15px 0;
+        }
+        
+        /* Skills */
+        .skills-section {
+            margin: 20px 0;
+        }
+        
+        .skills-section ul {
+            list-style: none;
+            margin: 10px 0;
+        }
+        
+        .skills-section li {
+            margin: 5px 0;
+        }
+        
+        /* Experience Entry */
+        .experience-entry {
+            margin: 25px 0;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        
+        .company-header {
+            margin-bottom: 10px;
+            overflow: hidden;
+        }
+        
+        .company-name {
+            font-weight: bold;
+            float: left;
+        }
+        
+        .date-range {
+            float: right;
+            color: #666;
+        }
+        
+        .description {
+            clear: both;
+            margin: 10px 0;
+        }
+        
+        /* Metrics */
+        .metrics {
+            margin: 10px 0;
+        }
+        
+        .metrics ul {
+            list-style: disc;
+            margin-left: 20px;
+        }
+        
+        .metrics li {
+            margin: 5px 0;
+        }
+        
+        /* Skills Tags */
+        .skills-tags {
+            margin: 10px 0;
+        }
+        
+        .skill-tag {
+            display: inline-block;
+            background: #f3f4f6;
+            padding: 3px 8px;
+            margin: 2px;
+            border-radius: 3px;
+            font-size: 11px;
+        }
+        
+        /* Footer */
+        .meta-info {
+            margin-top: 30px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+            color: #666;
+            font-size: 10px;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>Professional Experience</h1>
+    
+    {% if role %}
+    <div class="role-target">Targeted for: {{ role }}</div>
+    {% endif %}
+    
+    {% if required_skills %}
+    <div class="skills-section">
+        <h2>Required Skills</h2>
+        <ul>
+        {% for skill in required_skills %}
+            <li>{% if skill in all_skills %}✓{% else %}✗{% endif %} {{ skill }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    
+    {% if preferred_skills %}
+    <div class="skills-section">
+        <h2>Preferred Skills</h2>
+        <ul>
+        {% for skill in preferred_skills %}
+            <li>{% if skill in all_skills %}✓{% else %}○{% endif %} {{ skill }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+    
+    <h2>Experience</h2>
+    
+    {% for entry in entries %}
+    <div class="experience-entry">
+        <div class="company-header">
+            <div class="company-name">{{ entry.company }}</div>
+            <div class="date-range">{{ entry.date_range }}</div>
+        </div>
+        
+        <div class="description">
+            {{ entry.description }}
+        </div>
+        
+        {% if entry.metrics %}
+        <div class="metrics">
+            <h3>Key Achievements</h3>
+            <ul>
+            {% for metric in entry.metrics %}
+                <li>{{ metric.value }} {{ metric.context }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+        
+        {% if entry.skills %}
+        <div class="skills-tags">
+            {% for skill in entry.skills %}
+            <span class="skill-tag">{{ skill }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+    
+    <div class="meta-info">
+        Generated on {{ generation_date }}
+    </div>
+</body>
+</html>

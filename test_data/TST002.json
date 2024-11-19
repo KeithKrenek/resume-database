@@ -1,0 +1,49 @@
+{
+  "id": "TST002",
+  "core": "Developed data analytics platform for customer insights",
+  "dates": {
+    "start": "2023-06",
+    "end": "2023-12",
+    "status": "completed"
+  },
+  "company": "Data Corp",
+  "category": "data_analysis",
+  "variations": {
+    "data_scientist": {
+      "short": "Built customer analytics platform",
+      "medium": "Developed comprehensive customer insights system",
+      "detailed": "Created end-to-end analytics platform for customer behavior analysis, driving 40% increase in engagement"
+    }
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "Data Analysis",
+    "Visualization"
+  ],
+  "tags": [
+    "Data",
+    "Analytics"
+  ],
+  "impact": [
+    "Increased customer engagement by 40%",
+    "Developed automated reporting system",
+    "Created predictive models for customer behavior"
+  ],
+  "metrics": [
+    {
+      "value": "40%",
+      "context": "increase in customer engagement",
+      "category": "impact",
+      "timeframe": "6 months",
+      "impact_area": "business"
+    }
+  ],
+  "technical_details": [
+    {
+      "category": "data",
+      "detail": "Data pipeline development",
+      "proficiency": "expert"
+    }
+  ]
+}
