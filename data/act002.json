@@ -2,8 +2,8 @@
   "id": "ACT002",
   "core": "Led comprehensive STEM mentoring initiatives across multiple educational levels and institutions",
   "dates": {
-    "start": "2012-09",
-    "end": "2024-03",
+    "start": "Sep 2012",
+    "end": "Dec 2024",
     "status": "ongoing"
   },
   "category": "educational_outreach",
@@ -11,21 +11,21 @@
     {
       "title": "Junior High Tutor",
       "organization": "Cambridge School Volunteers",
-      "dates": "2016-2019",
+      "dates": "Oct 2016 - Jan 2019",
       "impact": "Provided ongoing academic support across multiple subjects",
       "skills_applied": ["Subject expertise", "Teaching", "Patience", "Adaptability"]
     },
     {
       "title": "Graduate Mentor",
       "organization": "Texas A&M Senior Capstone Projects",
-      "dates": "2014-2015",
+      "dates": "Apr 2015",
       "impact": "Guided engineering students through project completion",
       "skills_applied": ["Project guidance", "Technical mentoring", "Design review"]
     },
     {
       "title": "Robotics Mentor",
       "organization": "Waller Junior High Gifted and Talented Showcase",
-      "dates": "2013-2014",
+      "dates": "May 2015",
       "impact": "Introduced students to robotics and engineering principles",
       "skills_applied": ["Robotics", "Engineering fundamentals", "Project management"]
     }

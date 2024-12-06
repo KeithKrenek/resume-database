@@ -2,8 +2,8 @@
   "id": "BIO012",
   "core": "Integrated microfluidic systems with CMOS technology to create comprehensive protein interaction analysis platform",
   "dates": {
-    "start": "2012-08",
-    "end": "2014-05",
+    "start": "Aug 2012",
+    "end": "May 2015",
     "status": "completed"
   },
   "company": "Analog & Mixed Signal Group",
@@ -64,7 +64,7 @@
       "proficiency": "expert"
     },
     {
-      "category": "electronics",
+      "category": "bio-electronics",
       "detail": "CMOS integration",
       "proficiency": "expert"
     },
@@ -82,9 +82,6 @@
       "Waste management"
     ],
     "electronics": [
-      "Signal processing",
-      "Data acquisition",
-      "Control systems",
       "Interface management"
     ],
     "integration": [

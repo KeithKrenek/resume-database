@@ -2,8 +2,8 @@
   "id": "LED007",
   "core": "Developed and delivered comprehensive training seminar on design protocols to 15+ engineers, ensuring consistent understanding and implementation of company standards",
   "dates": {
-    "start": "2012-10",
-    "end": "2012-12",
+    "start": "Dec 2011",
+    "end": "Dec 2012",
     "status": "completed"
   },
   "company": "Mustang Engineering",
@@ -67,11 +67,6 @@
       "category": "protocols",
       "detail": "Standards education",
       "proficiency": "expert"
-    },
-    {
-      "category": "assessment",
-      "detail": "Learning validation",
-      "proficiency": "expert"
     }
   ],
   "training_components": {
@@ -83,7 +78,6 @@
     ],
     "delivery": [
       "Presentation materials",
-      "Interactive exercises",
       "Case studies",
       "Practical examples"
     ],

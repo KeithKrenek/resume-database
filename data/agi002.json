@@ -2,11 +2,11 @@
     "id": "AGI002",
     "core": "Led development and implementation of physics-based generative design tools for photonic integrated circuits, transforming traditional design processes into automated, AI-driven workflows",
     "dates": {
-      "start": "2022-06",
-      "end": "2024-03",
-      "status": "ongoing"
+      "start": "Sep 2022",
+      "end": "May 2023",
+      "status": "completed"
     },
-    "company": "Draper",
+    "company": "Draper Lab",
     "variations": {
       "technical_lead": {
         "short": "Led AI-driven photonics design project",
@@ -39,7 +39,7 @@
         "impact_area": "productivity"
       },
       {
-        "value": "multiple",
+        "value": "5+",
         "context": "stakeholder teams aligned",
         "verified": true,
         "category": "collaboration",
@@ -59,12 +59,12 @@
       {
         "category": "ai",
         "detail": "Generative design algorithms",
-        "proficiency": "expert"
+        "proficiency": "skilled"
       },
       {
         "category": "photonics",
         "detail": "Integrated circuit design",
-        "proficiency": "expert"
+        "proficiency": "skilled"
       },
       {
         "category": "software",
@@ -78,34 +78,57 @@
       }
     ],
     "impact": [
-      "Transformed traditional design process",
-      "Enabled rapid design iteration",
-      "Reduced computational resource needs",
-      "Enhanced design team capabilities",
-      "Created scalable design infrastructure",
-      "Improved service offerings",
-      "Established new design methodology",
-      "Advanced internal expertise"
+      "Created New Technical Capabilities",
+      "Advanced State-of-the-Art",
+      "Enabled New Applications",
+      "Enabled Rapid Design Iteration",
+      "Accelerated Development Cycles",
+      "Created Scalable Design Infrastructure",
+      "Enhanced Technical Integration",
+      "Improved Process Efficiency",
+      "Reduced Development Costs",
+      "Advanced Field Knowledge",
+      "Established New Methodologies",
+      "Enhanced Design Team Capabilities",
+      "Created Competitive Advantages",
+      "Reduced Computational Resource Needs",
+      "Improved Service Offerings",
+      "Transformed Traditional Design Process",
+      "Advanced Internal Expertise"
     ],
     "skills": [
-      "Research Leadership",
       "AI/ML Development",
-      "Stakeholder Management",
-      "Project Planning",
-      "Team Building",
-      "Technical Architecture",
-      "Process Innovation",
-      "Requirements Gathering",
       "Strategic Planning",
-      "Change Management"
+      "Technical Leadership",
+      "Research Leadership",
+      "Stakeholder Management",
+      "Change Management",
+      "Innovation Management",
+      "Process Innovation",
+      "Technology Assessment",
+      "Program Development",
+      "Technical Architecture",
+      "Team Building",
+      "Project Planning",
+      "Risk Management",
+      "Requirements Gathering",
+      "Stakeholder Engagement",
+      "Research Direction",
+      "Cross-domain Integration",
+      "Future Planning"
     ],
     "tags": [
       "AI/ML",
       "Photonics",
       "Generative Design",
-      "Research",
       "Innovation",
+      "Strategy",
+      "Research",
+      "Development",
+      "Integration",
       "Leadership",
+      "Technical Direction",
+      "Future Systems",
       "Software"
     ],
     "methodology": [
@@ -113,7 +136,8 @@
       "Iterative Design",
       "Stakeholder-Driven Development",
       "Rapid Prototyping",
-      "User-Centered Design"
+      "User-Centered Design",
+      "Future state analysis"
     ],
     "domain_impact": [
       "Photonic Design",

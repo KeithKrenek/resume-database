@@ -2,9 +2,9 @@
   "id": "ACT013",
   "core": "Led technical content creation for Very's IoT development initiatives, translating complex technological concepts into accessible documentation and marketing materials",
   "dates": {
-    "start": "2023-01",
-    "end": "2024-03",
-    "status": "ongoing"
+    "start": "Feb 2022",
+    "end": "May 2022",
+    "status": "completed"
   },
   "category": "technical_communication",
   "organization": "Very (IoT development company)",
@@ -35,15 +35,6 @@
           "Implementation strategies",
           "Industry trends",
           "Best practices"
-        ]
-      },
-      {
-        "format": "Technical Documentation",
-        "topics": [
-          "System specifications",
-          "Integration guides",
-          "Development procedures",
-          "Security protocols"
         ]
       }
     ],

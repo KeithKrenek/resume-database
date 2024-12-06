@@ -2,9 +2,9 @@
     "id": "DAT001",
     "core": "Developed OCR-based analysis tools to enable processing of large image datasets that were previously infeasible to analyze manually, automating data extraction and analysis workflows",
     "dates": {
-      "start": "2022-01",
-      "end": "2022-08",
-      "status": "completed"
+      "start": "Oct 2019",
+      "end": "Dec 2024",
+      "status": "ongoing"
     },
     "company": "Draper",
     "variations": {
@@ -57,6 +57,11 @@
         "proficiency": "expert"
       },
       {
+        "category": "computer vision",
+        "detail": "Image processing",
+        "proficiency": "expert"
+      },
+      {
         "category": "image",
         "detail": "Image processing",
         "proficiency": "expert"
@@ -97,6 +102,7 @@
     "tags": [
       "OCR",
       "Automation",
+      "Computer Vision",
       "Data Analysis",
       "Image Processing",
       "Pipeline",
@@ -118,6 +124,7 @@
     ],
     "tech_stack": [
       "Python",
+      "MATLAB",
       "OCR Libraries",
       "Image Processing Tools",
       "Data Processing Frameworks"

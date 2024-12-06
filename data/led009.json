@@ -1,0 +1,211 @@
+{
+    "id": "LED009",
+    "core": "Led diverse cross-functional teams in delivering complex technical projects across biotech, defense, and commercial sectors, consistently meeting challenging objectives while managing multiple stakeholders",
+    "dates": {
+      "start": "Sep 2015",
+      "end": "Dec 2024",
+      "status": "ongoing"
+    },
+    "company": "Multiple (Draper, Harvard, MIT Lincoln Lab)",
+    "variations": {
+        "project_lead": {
+            "short": "Led complex technical projects",
+            "medium": "Directed cross-functional project teams",
+            "detailed": "Led diverse teams in delivering sophisticated technical projects, coordinating between multiple disciplines and stakeholders while maintaining program objectives"
+        },
+        "technical_director": {
+            "short": "Directed technical programs",
+            "medium": "Led multi-disciplinary technical initiatives",
+            "detailed": "Provided technical leadership across multiple disciplines, ensuring alignment between research, engineering, and business objectives"
+        },
+        "integration_manager": {
+            "short": "Managed system integration",
+            "medium": "Led complex system integration efforts",
+            "detailed": "Coordinated integration of multiple subsystems and teams, ensuring successful delivery of complex technical systems"
+        },
+        "stakeholder_manager": {
+            "short": "Led stakeholder engagement",
+            "medium": "Managed diverse stakeholder relationships",
+            "detailed": "Managed relationships with multiple stakeholders including customers, vendors, researchers, and management teams"
+        },
+        "team_leader": {
+            "short": "Built and led technical teams",
+            "medium": "Developed high-performing technical teams",
+            "detailed": "Built and led cross-functional teams, fostering collaboration and driving successful project outcomes"
+        },
+        "program_manager": {
+            "short": "Managed technical programs",
+            "medium": "Directed complex technical programs",
+            "detailed": "Led program execution from conception through delivery, managing resources, timelines, and stakeholder expectations"
+        },
+        "strategy_lead": {
+            "short": "Developed technical strategy",
+            "medium": "Led strategic technical initiatives",
+            "detailed": "Created and implemented technical strategies aligning multiple stakeholder needs with program capabilities"
+        },
+        "customer_liaison": {
+            "short": "Managed customer relationships",
+            "medium": "Led customer-facing initiatives",
+            "detailed": "Managed complex customer relationships, translating requirements into actionable technical objectives"
+        }
+    },
+    "metrics": [
+        {
+            "value": "100%",
+            "context": "on-time program delivery rate",
+            "verified": true,
+            "category": "execution",
+            "timeframe": "cumulative",
+            "impact_area": "project_management"
+        },
+        {
+            "value": "5",
+            "context": "major stakeholder groups aligned",
+            "verified": true,
+            "category": "stakeholder",
+            "timeframe": "per project",
+            "impact_area": "relationship_management"
+        },
+        {
+            "value": "5",
+            "context": "different technical disciplines integrated",
+            "verified": true,
+            "category": "integration",
+            "timeframe": "per project",
+            "impact_area": "technical_leadership"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "leadership",
+            "detail": "Cross-functional team management",
+            "proficiency": "expert"
+        },
+        {
+            "category": "project",
+            "detail": "Complex project execution",
+            "proficiency": "expert"
+        },
+        {
+            "category": "stakeholder",
+            "detail": "Stakeholder management",
+            "proficiency": "expert"
+        },
+        {
+            "category": "strategy",
+            "detail": "Technical strategy development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "System integration management",
+            "proficiency": "expert"
+        },
+        {
+            "category": "communication",
+            "detail": "Technical communication",
+            "proficiency": "expert"
+        },
+        {
+            "category": "risk",
+            "detail": "Risk management",
+            "proficiency": "expert"
+        },
+        {
+            "category": "resource",
+            "detail": "Resource allocation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Delivered complex projects on-time",
+        "Built high-performing teams",
+        "Improved stakeholder satisfaction",
+        "Enhanced team capabilities",
+        "Streamlined project execution",
+        "Advanced technical objectives",
+        "Strengthened customer relationships",
+        "Optimized resource utilization",
+        "Reduced project risks",
+        "Improved cross-team collaboration"
+    ],
+    "skills": [
+        "Project Leadership",
+        "Technical Management",
+        "Stakeholder Engagement",
+        "Team Building",
+        "Risk Management",
+        "Strategic Planning",
+        "Resource Management",
+        "Change Management",
+        "Process Optimization",
+        "Communication",
+        "Conflict Resolution",
+        "Decision Making"
+    ],
+    "tags": [
+        "Leadership",
+        "Project Management",
+        "Integration",
+        "Strategy",
+        "Team Building",
+        "Stakeholder Management",
+        "Technical Direction",
+        "Cross-functional"
+    ],
+    "leadership_approaches": [
+        {
+            "situation": "Changing Requirements",
+            "approach": "Proactive communication and rapid prototyping",
+            "outcome": "Maintained project momentum while meeting evolving needs"
+        },
+        {
+            "situation": "Technical Challenges",
+            "approach": "Data-driven decision making and stakeholder alignment",
+            "outcome": "Successfully navigated complex technical tradeoffs"
+        },
+        {
+            "situation": "Resource Constraints",
+            "approach": "Strategic prioritization and resource sharing",
+            "outcome": "Optimized resource utilization across projects"
+        }
+    ],
+    "stakeholder_types": [
+        "Military/Defense",
+        "Research Scientists",
+        "Engineers",
+        "Manufacturing Teams",
+        "Executive Management",
+        "External Customers",
+        "Vendors/Suppliers",
+        "Regulatory Bodies",
+        "Information Technology",
+        "Government Officials",
+        "Industry Experts"
+    ],
+    "methodology": [
+        "Agile Project Management",
+        "Stage-Gate Process",
+        "Risk-Based Approach",
+        "Quality by Design",
+        "Systems Engineering"
+    ],
+    "challenge_resolution": [
+        {
+            "challenge": "Evolving Customer Requirements",
+            "solution": "Implemented frequent check-ins and rapid prototyping",
+            "result": "Maintained project momentum while meeting customer needs"
+        },
+        {
+            "challenge": "Resource Constraints",
+            "solution": "Developed resource sharing strategies",
+            "result": "Optimized utilization across multiple projects"
+        },
+        {
+            "challenge": "Technical Integration Issues",
+            "solution": "Established cross-team working groups",
+            "result": "Resolved integration challenges efficiently"
+        }
+    ]
+  }
+  

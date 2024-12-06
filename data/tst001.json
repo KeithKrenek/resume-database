@@ -2,8 +2,8 @@
   "id": "TST001",
   "core": "Conducted comprehensive characterization of 15+ large military radar antennas through onsite testing, validating performance and specifications",
   "dates": {
-    "start": "2012-06",
-    "end": "2012-08",
+    "start": "Jun 2012",
+    "end": "Aug 2012",
     "status": "completed"
   },
   "company": "Lockheed Martin Space Systems",
@@ -17,7 +17,7 @@
     },
     "field_engineer": {
       "short": "Conducted onsite testing",
-      "medium": "Led field characterization",
+      "medium": "Supported onsite antenna characterization",
       "detailed": "Executed onsite performance validation of large radar installations"
     },
     "validation_specialist": {

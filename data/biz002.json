@@ -2,8 +2,8 @@
   "id": "BIZ002",
   "core": "Achieved rapid business growth by scaling monthly sales of digital services business from $0 to $85k within 8 months through strategic planning and execution",
   "dates": {
-    "start": "2023-05",
-    "end": "2024-01",
+    "start": "Nov 2021",
+    "end": "Oct 2022",
     "status": "completed"
   },
   "company": "Elementsist",
@@ -36,7 +36,7 @@
       "impact_area": "business_growth"
     },
     {
-      "value": "0 to 85k",
+      "value": "$0 to $85k",
       "context": "revenue increase",
       "verified": true,
       "category": "growth",
@@ -56,17 +56,17 @@
     {
       "category": "strategy",
       "detail": "Growth planning",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "sales",
       "detail": "Revenue optimization",
-      "proficiency": "expert"
+      "proficiency": "competent"
     },
     {
       "category": "operations",
       "detail": "Business scaling",
-      "proficiency": "expert"
+      "proficiency": "competent"
     },
     {
       "category": "analytics",

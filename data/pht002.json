@@ -2,8 +2,8 @@
   "id": "PHT002",
   "core": "Designed and executed radiation testing program for avalanche photodiodes, quantifying effects for deep-space communications applications and establishing performance characteristics",
   "dates": {
-    "start": "2017-01",
-    "end": "2018-05",
+    "start": "Jun 2016",
+    "end": "Jun 2018",
     "status": "completed"
   },
   "company": "MIT Lincoln Lab",
@@ -71,7 +71,7 @@
     {
       "category": "validation",
       "detail": "Space qualification",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     }
   ],
   "test_program": {
@@ -104,6 +104,8 @@
     "performance": [
       "Sensitivity changes",
       "Dark current",
+      "Bias voltage",
+      "Dark count rate",
       "Response time",
       "Quantum efficiency"
     ],

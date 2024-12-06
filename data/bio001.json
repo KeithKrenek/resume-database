@@ -2,8 +2,8 @@
     "id": "BIO001",
     "core": "Developed automated 3D tracking system for blood cells and nanoparticles in microfluidic devices, combining computer vision with machine learning to quantify acoustic manipulation effects",
     "dates": {
-      "start": "2021-03",
-      "end": "2022-09",
+      "start": "Mar 2020",
+      "end": "Feb 2024",
       "status": "completed"
     },
     "company": "Draper",
@@ -17,6 +17,11 @@
         "short": "Coded particle tracking algorithms",
         "medium": "Implemented ML-enhanced tracking software",
         "detailed": "Developed learning algorithms to reconstruct 3D trajectories from 2D image sequences, incorporating physics-based constraints for improved accuracy"
+      },
+      "ml_specialist": {
+          "short": "Implemented ML-based object detection",
+          "medium": "Developed ML vision algorithms",
+          "detailed": "Created machine learning algorithms for robust object detection and tracking in challenging experimental conditions"
       },
       "research_scientist": {
         "short": "Quantified acoustic manipulation effects",
@@ -54,12 +59,12 @@
       {
         "category": "vision",
         "detail": "Computer vision algorithm development",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "ml",
         "detail": "Machine learning for trajectory reconstruction",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "analysis",
@@ -118,6 +123,7 @@
     ],
     "tech_stack": [
       "Python",
+      "Matlab",
       "OpenCV",
       "Scientific Computing Libraries",
       "Machine Learning Frameworks",

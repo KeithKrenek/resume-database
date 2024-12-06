@@ -2,20 +2,20 @@
     "id": "SYS001",
     "core": "Developed hardware-in-the-loop test platform for evaluating cameras and algorithms for terrain-relative vision-based navigation on the moon, integrating mechanical design, imaging systems, and software interfaces",
     "dates": {
-      "start": "2022-02",
-      "end": "2023-07",
+      "start": "Oct 2019",
+      "end": "Jun 2020",
       "status": "completed"
     },
     "company": "Draper",
     "variations": {
       "systems_engineer": {
-        "short": "Built lunar navigation test platform",
+        "short": "Built navigation sensor test platform",
         "medium": "Developed HWIL navigation testing system",
         "detailed": "Created comprehensive hardware-in-the-loop platform for testing vision-based lunar navigation systems, including mechanical, optical, and software components"
       },
       "test_engineer": {
         "short": "Designed navigation validation system",
-        "medium": "Created vision system test platform",
+        "medium": "Created vision-based navigation system test platform",
         "detailed": "Engineered test environment for evaluating camera performance and algorithm effectiveness in simulated lunar navigation scenarios"
       },
       "integration_lead": {
@@ -117,6 +117,13 @@
       "Space Technology"
     ],
     "tech_stack": [
+      "Python",
+      "SolidWorks",
+      "MATLAB",
+      "Rapid Prototyping",
+      "Optical Design",
+      "Computer Vision",
+      "Image Pattern Recognition",
       "CAD Software",
       "Imaging Systems",
       "Integration Software",

@@ -2,8 +2,8 @@
     "id": "BIO005",
     "core": "Accelerated technology readiness of a novel particle manipulation device through iterative hardware-software development cycles, exploring new materials and geometries while validating via experiments and simulations",
     "dates": {
-      "start": "2021-06",
-      "end": "2023-02",
+      "start": "Jan 2021",
+      "end": "May 2021",
       "status": "completed"
     },
     "company": "Draper",
@@ -26,7 +26,7 @@
     },
     "metrics": [
       {
-        "value": "multiple",
+        "value": "dozens",
         "context": "design iterations completed",
         "verified": true,
         "category": "development",
@@ -117,6 +117,18 @@
       "Technology Advancement"
     ],
     "tech_stack": [
+      "RF Amplifier",
+      "Function Generator",
+      "Oscilloscope",
+      "Optical Spectroscopy",
+      "Fluorescence Spectroscopy",
+      "Impedance Matching Network",
+      "COMSOL Multiphysics",
+      "MATLAB",
+      "SolidWorks",
+      "Image Processing",
+      "Video Analysis",
+      "ImageJ",
       "CAD Tools",
       "Simulation Software",
       "Testing Equipment",

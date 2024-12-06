@@ -2,8 +2,8 @@
   "id": "BIO010",
   "core": "Designed and fabricated over 100 customized microfluidic devices to meet specific customer research requirements and experimental needs",
   "dates": {
-    "start": "2013-09",
-    "end": "2015-05",
+    "start": "Aug 2013",
+    "end": "May 2015",
     "status": "completed"
   },
   "company": "NanoBio Systems Lab",
@@ -13,12 +13,12 @@
     "device_engineer": {
       "short": "Created microfluidic devices",
       "medium": "Developed custom microfluidics",
-      "detailed": "Designed and fabricated customized microfluidic research platforms"
+      "detailed": "Designed and fabricated customized microfluidic research devices"
     },
     "fabrication_specialist": {
       "short": "Built research devices",
       "medium": "Produced microfluidic systems",
-      "detailed": "Implemented large-scale fabrication of specialized microfluidic devices"
+      "detailed": "Implemented hands-on fabrication of specialized microfluidic devices"
     },
     "solutions_developer": {
       "short": "Delivered custom solutions",
@@ -60,6 +60,11 @@
     },
     {
       "category": "fabrication",
+      "detail": "Device production",
+      "proficiency": "expert"
+    },
+    {
+      "category": "microfabrication",
       "detail": "Device production",
       "proficiency": "expert"
     },

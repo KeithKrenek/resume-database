@@ -1,9 +1,9 @@
 {
   "id": "FAB005",
-  "core": "Executed comprehensive quality testing across dozens of tests to quantify and validate product performance and reliability",
+  "core": "Executed comprehensive quality assurance across dozens of tests to quantify and validate antenna performance and reliability",
   "dates": {
-    "start": "2012-06",
-    "end": "2012-08",
+    "start": "May 2012",
+    "end": "Aug 2012",
     "status": "completed"
   },
   "company": "Lockheed Martin Space Systems",
@@ -11,19 +11,19 @@
   "relationship_type": "quality_assurance",
   "variations": {
     "quality_engineer": {
-      "short": "Validated product quality",
-      "medium": "Conducted quality testing",
-      "detailed": "Performed comprehensive product quality validation testing"
+      "short": "Validated antenna quality",
+      "medium": "Conducted antenna quality testing",
+      "detailed": "Performed comprehensive antenna quality validation testing"
     },
     "test_engineer": {
-      "short": "Executed product testing",
-      "medium": "Led quality verification",
-      "detailed": "Conducted extensive product performance validation testing"
+      "short": "Executed antenna testing",
+      "medium": "Led antenna quality verification",
+      "detailed": "Conducted extensive antenna performance validation testing"
     },
     "validation_specialist": {
-      "short": "Verified product specs",
-      "medium": "Assessed product quality",
-      "detailed": "Performed thorough product quality assessment and verification"
+      "short": "Verified antenna specs",
+      "medium": "Assessed antenna quality",
+      "detailed": "Performed thorough antenna quality assessment and verification"
     }
   },
   "metrics": [

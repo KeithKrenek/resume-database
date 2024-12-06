@@ -2,9 +2,9 @@
   "id": "EDU001",
   "core": "Doctor of Philosophy (Ph.D.) in Applied Physics",
   "dates": {
-    "start": "2015-09",
-    "end": "2019-07",
-    "graduation": "2019-07"
+    "start": "Sep 2015",
+    "end": "Jul 2019",
+    "graduation": "Nov 2019"
   },
   "institution": "Harvard University",
   "location": "Cambridge, MA",
@@ -20,7 +20,9 @@
     "Intro to Soft Matter",
     "Special Topics in Applied Physics",
     "Statistical Mechanics",
-    "Advanced Innovation in Science and Engineering"
+    "Intro to Solid State Physics",
+    "Advanced Innovation in Science and Engineering",
+    "Statistical Mechanics"
   ],
   "research_areas": [
     "Neuroelectronics",

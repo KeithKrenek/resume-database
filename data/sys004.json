@@ -1,29 +1,44 @@
 {
   "id": "SYS004",
-  "core": "Developed comprehensive automated testing platform for avalanche photodiodes, integrating precision electrical probing, optical imaging, and robust feature detection with sophisticated error handling",
+  "core": "Developed comprehensive automated testing platform for avalanche photodiode arrays, integrating precision electrical probing, optical imaging, and robust feature detection with sophisticated error handling",
   "dates": {
-    "start": "2016-08",
-    "end": "2018-03",
+    "start": "May 2013",
+    "end": "Jun 2018",
     "status": "completed"
   },
   "company": "MIT Lincoln Lab",
   "related_entries": ["FAB002", "PHT002", "SYS005", "LED005"],
   "relationship_type": "testing_automation",
   "variations": {
+    "technical_ic": {
+      "short": "Built automated vision analysis systems",
+      "medium": "Developed computer vision systems for automated testing",
+      "detailed": "Created sophisticated computer vision and automation systems for high-precision testing and analysis, enabling autonomous operation of critical research equipment"
+    },
     "automation_engineer": {
       "short": "Built automated test platform",
-      "medium": "Developed photodiode testing system",
-      "detailed": "Created comprehensive automated testing platform integrating multiple detection and measurement systems"
+      "medium": "Developed automated photodiode testing system",
+      "detailed": "Created comprehensive automated photodiode testing platform integrating multiple detection and measurement systems"
     },
     "vision_systems_engineer": {
       "short": "Implemented optical detection",
       "medium": "Developed feature detection system",
-      "detailed": "Engineered robust optical imaging and feature detection system for precise contact identification"
+      "detailed": "Engineered robust optical imaging and feature detection system for automated electrical probe station"
+    },
+    "systems_engineer": {
+      "short": "Integrated automated test systems",
+      "medium": "Led automated system integration",
+      "detailed": "Led integration of complex automated systems combining mechanical, optical, and software components for autonomous operation"
     },
     "controls_engineer": {
       "short": "Created precision controls",
-      "medium": "Developed sub-micron positioning",
+      "medium": "Developed sub-micron positioning for electrical probe station",
       "detailed": "Implemented high-precision control system achieving sub-micron spatial resolution for electrical probing"
+    },
+    "software_architect": {
+      "short": "Designed automation software",
+      "medium": "Architected automation systems",
+      "detailed": "Created software architecture for robust automated systems with sophisticated error handling and recovery"
     }
   },
   "metrics": [
@@ -36,7 +51,7 @@
       "impact_area": "testing"
     },
     {
-      "value": "hours",
+      "value": "24+ hours",
       "context": "continuous autopilot operation",
       "verified": true,
       "category": "automation",
@@ -72,7 +87,71 @@
       "category": "software",
       "detail": "Error handling",
       "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "Hardware-software integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "imaging",
+      "detail": "High-precision imaging systems",
+      "proficiency": "expert"
+    },
+    {
+      "category": "ml",
+      "detail": "Machine learning for object detection",
+      "proficiency": "expert"
+    },
+    {
+      "category": "robotics",
+      "detail": "Precision motion control",
+      "proficiency": "expert"
     }
+  ],
+  "tech_stack": [
+      "MATLAB",
+      "OpenCV",
+      "Machine Learning Libraries",
+      "Motion Control Systems",
+      "Scientific Imaging",
+      "Data Analysis Tools"
+  ],
+  "impact": [
+      "Enabled 24/7 autonomous operation",
+      "Increased experimental throughput",
+      "Protected valuable equipment",
+      "Improved measurement precision",
+      "Reduced operator workload",
+      "Enabled new research capabilities",
+      "Standardized testing procedures",
+      "Created reusable automation framework",
+      "Advanced manufacturing capabilities",
+      "Improved data quality"
+  ],
+  "skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "System Integration",
+      "Software Architecture",
+      "Process Automation",
+      "Quality Control",
+      "Error Handling",
+      "Data Analysis",
+      "Motion Control",
+      "Scientific Computing",
+      "Technical Documentation",
+      "Cross-functional Leadership"
+  ],
+  "tags": [
+      "Automation",
+      "Computer Vision",
+      "Hardware",
+      "Software",
+      "Research",
+      "Manufacturing",
+      "Quality Control",
+      "Process Development"
   ],
   "system_features": {
     "automation": [

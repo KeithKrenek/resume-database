@@ -2,25 +2,25 @@
     "id": "LED003",
     "core": "Led radiation testing and analysis of first-of-its-kind phase change memory device intended for harsh environment applications, establishing performance characteristics and validation protocols",
     "dates": {
-      "start": "2021-08",
-      "end": "2022-12",
+      "start": "Dec 2019",
+      "end": "Jun 2021",
       "status": "completed"
     },
     "company": "Draper",
     "variations": {
       "test_lead": {
         "short": "Led novel memory radiation testing",
-        "medium": "Directed radiation validation of new memory",
+        "medium": "Directed radiation validation of new memory device",
         "detailed": "Led comprehensive radiation testing program for first-of-its-kind phase change memory technology, establishing performance boundaries for harsh environments"
       },
       "validation_engineer": {
         "short": "Validated harsh environment performance",
-        "medium": "Conducted novel device radiation testing",
+        "medium": "Conducted novel memory device radiation testing",
         "detailed": "Developed and executed validation protocols for innovative memory technology under various radiation conditions"
       },
       "research_lead": {
         "short": "Characterized new memory technology",
-        "medium": "Led novel memory performance analysis",
+        "medium": "Led novel memory performance analysis under radiation",
         "detailed": "Directed characterization of phase change memory behavior under radiation exposure, defining operational limits and reliability metrics"
       }
     },
@@ -59,7 +59,7 @@
       {
         "category": "memory",
         "detail": "Device characterization",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "validation",

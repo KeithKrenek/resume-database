@@ -2,12 +2,17 @@
     "id": "RAD001",
     "core": "Leading research and development of next-generation radiation-hardened optical fiber for mission-critical sensors, advancing both fundamental understanding and practical implementation",
     "dates": {
-      "start": "2022-09",
-      "end": "2024-03",
+      "start": "Oct 2019",
+      "end": "Dec 2024",
       "status": "ongoing"
     },
     "company": "Draper",
     "variations": {
+      "technical_ic": {
+        "short": "Developed rad-hard optical systems",
+        "medium": "Led development of radiation-hardened systems with ML optimization",
+        "detailed": "Led R&D of radiation-hardened optical systems for navigation applications, implementing ML-driven process improvements and physics-based modeling to optimize radiation performance"
+      },
       "research_lead": {
         "short": "Led rad-hard fiber development",
         "medium": "Directed radiation-hardened fiber R&D",
@@ -22,6 +27,26 @@
         "short": "Managed fiber development program",
         "medium": "Led strategic technology development",
         "detailed": "Directing multi-phase development program for radiation-hardened fiber, coordinating research, testing, and implementation efforts"
+      },
+      "innovation_lead": {
+        "short": "Pioneered ML in radiation testing",
+        "medium": "Led innovation in screening of radiation-hardened systems",
+        "detailed": "Spearheaded integration of ML techniques into radiation testing and analysis, establishing new paradigm for performance optimization"
+      },
+      "materials_scientist": {
+          "short": "Optimized rad-hard materials",
+          "medium": "Advanced radiation-resistant materials",
+          "detailed": "Led development of radiation-resistant materials and designs, combining materials science with advanced characterization techniques"
+      },
+      "subject_matter_expert": {
+          "short": "Led radiation effects analysis",
+          "medium": "Guided radiation hardening strategies",
+          "detailed": "Provided technical leadership in radiation effects analysis and mitigation strategies, integrating physics, materials science, and systems engineering"
+      },
+      "manufacturing_engineer": {
+          "short": "Optimized rad-hard production",
+          "medium": "Led rad-hard manufacturing process improvement",
+          "detailed": "Developed and optimized manufacturing processes for radiation-hardened systems, implementing ML-driven quality control"
       }
     },
     "metrics": [
@@ -48,6 +73,14 @@
         "category": "scope",
         "timeframe": "project duration",
         "impact_area": "development"
+      },
+      {
+        "value": "90%+",
+        "context": "prediction accuracy in ML models",
+        "verified": true,
+        "category": "performance",
+        "timeframe": "continuous",
+        "impact_area": "analysis_quality"
       }
     ],
     "technical_details": [
@@ -62,13 +95,43 @@
         "proficiency": "expert"
       },
       {
+        "category": "materials",
+        "detail": "Radiation-resistant materials development",
+        "proficiency": "expert"
+      },
+      {
         "category": "optics",
         "detail": "Optical performance optimization",
         "proficiency": "expert"
       },
       {
+        "category": "physics",
+        "detail": "First principles radiation physics analysis",
+        "proficiency": "expert"
+      },
+      {
+        "category": "ml",
+        "detail": "ML-driven process optimization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "process",
+        "detail": "Manufacturing process development",
+        "proficiency": "expert"
+      },
+      {
+        "category": "simulation",
+        "detail": "Radiation transport modeling",
+        "proficiency": "expert"
+      },
+      {
         "category": "testing",
         "detail": "Validation and characterization",
+        "proficiency": "expert"
+      },
+      {
+        "category": "analysis",
+        "detail": "Data-driven decision making",
         "proficiency": "expert"
       }
     ],
@@ -84,8 +147,12 @@
     ],
     "skills": [
       "Research Leadership",
+      "R&D Leadership",
       "Technology Development",
       "Materials Science",
+      "Stakeholder Management",
+      "Materials Science",
+      "Process Optimization",
       "Radiation Physics",
       "Project Management",
       "Requirements Analysis",
@@ -101,6 +168,9 @@
       "Research",
       "Innovation",
       "Materials",
+      "Hardware",
+      "Defense",
+      "Space Systems",
       "Sensors"
     ],
     "methodology": [

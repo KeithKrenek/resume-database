@@ -2,8 +2,8 @@
   "id": "FAB002",
   "core": "Developed automated microfabrication systems and processes for producing photon counting arrays for deep space communications, creating closed-loop control systems for reliable production",
   "dates": {
-    "start": "2016-06",
-    "end": "2018-05",
+    "start": "May 2013",
+    "end": "Jun 2018",
     "status": "completed"
   },
   "company": "MIT Lincoln Lab",
@@ -11,8 +11,8 @@
   "relationship_type": "fabrication_development",
   "variations": {
     "process_engineer": {
-      "short": "Built array fabrication systems",
-      "medium": "Developed photon array production",
+      "short": "Built imaging array fabrication systems",
+      "medium": "Developed photon-counting array fabrication systems",
       "detailed": "Created automated microfabrication systems for producing advanced photon counting arrays"
     },
     "automation_engineer": {
@@ -21,8 +21,8 @@
       "detailed": "Engineered automated, closed-loop control systems for reliable array fabrication"
     },
     "test_engineer": {
-      "short": "Validated array performance",
-      "medium": "Conducted array testing",
+      "short": "Tested imaging array fabrication",
+      "medium": "Conducted imaging array testing",
       "detailed": "Performed comprehensive testing of fabricated photon counting arrays for space applications"
     }
   },
@@ -75,23 +75,41 @@
     }
   ],
   "impact": [
-    "Enabled reliable production",
-    "Enhanced fabrication control",
-    "Improved yield rates",
-    "Ensured space-grade quality",
-    "Reduced manual intervention",
-    "Increased process stability",
-    "Advanced manufacturing capability",
-    "Supported space missions"
+    "Enhanced System Reliability",
+    "Improved Measurement Accuracy",
+    "Enabled Reliable Production",
+    "Enhanced Fabrication Control",
+    "Improved Yield Rates",
+    "Automated Quality Processes",
+    "Reduced Operational Errors",
+    "Increased Process Stability",
+    "Improved Process Efficiency",
+    "Enhanced Product Quality",
+    "Ensured Space-Grade Quality",
+    "Standardized Procedures",
+    "Streamlined Testing Procedures",
+    "Advanced Testing Capabilities",
+    "Advanced Manufacturing Capability",
+    "Protected Valuable Equipment",
+    "Supported Space Missions",
+    "Reduced Manual Intervention"
   ],
   "skills": [
-    "Microfabrication",
     "Process Automation",
-    "Control Systems",
-    "Testing Protocols",
+    "Automated Testing",
     "System Integration",
+    "System Validation",
+    "Process Optimization",
     "Quality Control",
+    "Control Systems",
+    "Precision Measurement",
+    "Error Detection",
+    "Data Analysis",
     "Performance Analysis",
+    "Risk Management",
+    "Protocol Development",
+    "Testing Protocols",
+    "Microfabrication",
     "Documentation",
     "Technical Leadership",
     "Project Management"

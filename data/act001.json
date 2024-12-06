@@ -2,8 +2,8 @@
   "id": "ACT001",
   "core": "Served as editor for Harvard Science in the News publication",
   "dates": {
-    "start": "2016-09",
-    "end": "2019-05"
+    "start": "Sep 2017",
+    "end": "Jan 2019"
   },
   "organization": "Harvard Science in the News",
   "role": "Editor",
@@ -12,7 +12,10 @@
     "Edited scientific articles for general audience",
     "Managed content quality and accuracy",
     "Collaborated with writers and researchers",
-    "Ensured clear communication of complex topics"
+    "Ensured clear communication of complex topics",
+    "Led a team of editors",
+    "Trained new editing teams",
+    "Trained new writers in effective science communication to a broad audience"
   ],
   "impact": [
     "Enhanced science communication skills",
@@ -24,11 +27,11 @@
     "Technical writing",
     "Editorial review",
     "Team collaboration",
+    "Team leadership",
     "Project management"
   ],
   "outputs": [
     "Edited 20+ articles",
-    "Trained 5 new writers",
-    "Increased readership by 30%"
+    "Promoted to head editor of one editing team"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "BIO007",
-  "core": "Established comprehensive wet biology laboratory for neuronal network studies, implementing complete facilities for culturing rodent and human-derived neurons on silicon chips",
+  "core": "Established comprehensive wet biology laboratory for neuronal network studies, building complete facilities for culturing rodent and human-derived neurons on silicon chips",
   "dates": {
-    "start": "2015-09",
-    "end": "2016-08",
+    "start": "Sep 2015",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -13,12 +13,17 @@
     "lab_manager": {
       "short": "Built neurobiology lab",
       "medium": "Established research facility",
-      "detailed": "Created comprehensive wet biology laboratory specializing in neuronal network research"
+      "detailed": "Built comprehensive wet biology laboratory specializing in neuronal network research"
     },
     "research_scientist": {
       "short": "Developed neural culture systems",
       "medium": "Implemented neuron culture protocols",
       "detailed": "Established protocols for culturing multiple neuronal cell types on silicon substrates"
+    },
+    "protocol_developer": {
+      "short": "Established protocols",
+      "medium": "Created research procedures",
+      "detailed": "Developed comprehensive research protocols and procedures ensuring reliable operation and compliance"
     },
     "facility_developer": {
       "short": "Created research infrastructure",
@@ -72,7 +77,77 @@
       "category": "safety",
       "detail": "Laboratory protocols",
       "proficiency": "expert"
+    },
+    {
+      "category": "facilities",
+      "detail": "Research lab development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "protocols",
+      "detail": "Procedure development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "integration",
+      "detail": "System integration",
+      "proficiency": "expert"
+    },
+    {
+      "category": "operations",
+      "detail": "Facility operations",
+      "proficiency": "expert"
+    },
+    {
+      "category": "compliance",
+      "detail": "Regulatory compliance",
+      "proficiency": "expert"
+    },
+    {
+      "category": "training",
+      "detail": "Personnel development",
+      "proficiency": "expert"
+    },
+    {
+      "category": "maintenance",
+      "detail": "System maintenance",
+      "proficiency": "expert"
     }
+  ],
+  "impact": [
+      "Enabled advanced research",
+      "Enhanced experimental capabilities",
+      "Improved operational efficiency",
+      "Ensured regulatory compliance",
+      "Developed team capabilities",
+      "Established best practices",
+      "Optimized resource utilization",
+      "Advanced scientific knowledge",
+      "Built sustainable infrastructure"
+  ],
+  "skills": [
+      "Facility Development",
+      "Protocol Creation",
+      "System Integration",
+      "Safety Management",
+      "Team Training",
+      "Compliance Management",
+      "Operations Planning",
+      "Resource Optimization",
+      "Project Management",
+      "Technical Documentation",
+      "Risk Assessment",
+      "Quality Control"
+  ],
+  "tags": [
+      "Research",
+      "Infrastructure",
+      "Facilities",
+      "Operations",
+      "Protocols",
+      "Integration",
+      "Training",
+      "Compliance"
   ],
   "laboratory_components": {
     "facilities": [
@@ -90,6 +165,12 @@
     "equipment": [
       "Incubators",
       "Microscopes",
+      "Laminar Flow Hoods",
+      "Centrifuges",
+      "Freezers",
+      "Autoclaves",
+      "Sonicators",
+      "Pipettes",
       "Safety cabinets",
       "Monitoring systems"
     ],

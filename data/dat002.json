@@ -2,8 +2,8 @@
   "id": "DAT002",
   "core": "Conducted and analyzed terabytes of electrical data from over 100 neuronal network experiments, establishing comprehensive understanding of network behavior",
   "dates": {
-    "start": "2016-01",
-    "end": "2019-07",
+    "start": "Sep 2015",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -66,7 +66,7 @@
     {
       "category": "computing",
       "detail": "High-performance processing",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "visualization",

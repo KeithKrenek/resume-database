@@ -2,8 +2,8 @@
   "id": "DAT003",
   "core": "Developed pattern recognition software to automate testing of integrated circuit chip-to-chip interconnects, enabling efficient validation of complex connections",
   "dates": {
-    "start": "2012-08",
-    "end": "2014-05",
+    "start": "Aug 2012",
+    "end": "May 2015",
     "status": "completed"
   },
   "company": "Analog & Mixed Signal Group",
@@ -12,7 +12,7 @@
   "variations": {
     "software_engineer": {
       "short": "Built IC test automation",
-      "medium": "Developed interconnect testing system",
+      "medium": "Developed IC interconnect testing system",
       "detailed": "Created automated pattern recognition system for IC interconnect validation"
     },
     "test_engineer": {
@@ -61,7 +61,7 @@
     {
       "category": "testing",
       "detail": "IC validation",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "automation",

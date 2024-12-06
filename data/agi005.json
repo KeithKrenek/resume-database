@@ -2,8 +2,8 @@
   "id": "AGI005",
   "core": "Designed and implemented sophisticated math and physics-based prompts to test and improve AI model robustness, while ensuring prompt diversity and minimizing biases through systematic audits",
   "dates": {
-    "start": "2023-01",
-    "end": "2023-06",
+    "start": "Feb 2024",
+    "end": "Apr 2024",
     "status": "completed"
   },
   "company": "Scale AI",
@@ -12,7 +12,7 @@
   "variations": {
     "prompt_engineer": {
       "short": "Developed testing prompts",
-      "medium": "Created advanced model testing system",
+      "medium": "Created advanced model testing prompts",
       "detailed": "Engineered sophisticated prompts for testing and improving AI model performance in technical domains"
     },
     "quality_assurance": {
@@ -21,10 +21,25 @@
       "detailed": "Implemented systematic audit processes to ensure prompt compliance, diversity, and bias minimization"
     },
     "ai_researcher": {
-      "short": "Enhanced model robustness",
-      "medium": "Improved AI model performance",
-      "detailed": "Developed specialized prompts targeting technical reasoning capabilities to enhance model robustness"
-    }
+        "short": "Created prompts for RLHF training",
+        "medium": "Developed sophisticated prompts for AI model improvement",
+        "detailed": "Created complex math and physics-based prompts designed to identify and improve model reasoning capabilities"
+      },
+      "ml_engineer": {
+        "short": "Developed model evaluation prompts",
+        "medium": "Engineered prompts to test model limitations",
+        "detailed": "Engineered sophisticated prompt sequences to identify edge cases and limitations in model reasoning abilities"
+      },
+      "quality_engineer": {
+        "short": "Conducted AI model audits",
+        "medium": "Performed systematic model behavior audits",
+        "detailed": "Conducted regular audits ensuring prompt appropriateness and testing for model bias across various domains"
+      },
+      "technical_lead": {
+        "short": "Led RLHF prompt development",
+        "medium": "Directed development of RLHF training materials",
+        "detailed": "Led development of comprehensive prompt sets combining technical depth with systematic evaluation methods"
+      }
   },
   "metrics": [
     {
@@ -87,14 +102,15 @@
   "skills": [
     "Prompt Engineering",
     "AI Testing",
+    "Bias Detection",
+    "Model Behavior Analysis",
     "Quality Assurance",
-    "Technical Writing",
-    "Performance Analysis",
+    "Performance Evaluation Metrics",
+    "Mathematical Reasoning",
+    "Physics-Based Scenarios",
     "Compliance Management",
     "Test Design",
-    "Mathematical Reasoning",
-    "Physics Knowledge",
-    "Bias Detection"
+    "Technical Writing"
   ],
   "prompt_development": {
     "technical": [

@@ -2,15 +2,15 @@
     "id": "FAB001",
     "core": "Led analysis and down-selection of large-scale manufacturing methods for a novel electric motor design, evaluating technical feasibility, cost effectiveness, and production scalability",
     "dates": {
-      "start": "2022-04",
-      "end": "2023-01",
+      "start": "Oct 2019",
+      "end": "Jun 2020",
       "status": "completed"
     },
     "company": "Draper",
     "variations": {
       "manufacturing_engineer": {
-        "short": "Evaluated motor production methods",
-        "medium": "Analyzed manufacturing processes for novel motor",
+        "short": "Evaluated electric motor production methods",
+        "medium": "Analyzed manufacturing processes for novel electrostatic motor",
         "detailed": "Conducted comprehensive analysis of manufacturing methods for novel electric motor design, optimizing for scalability and cost-effectiveness"
       },
       "process_engineer": {
@@ -74,6 +74,7 @@
     ],
     "impact": [
       "Identified optimal production method",
+      "Innovated novel manufacturing approach",
       "Enabled scalable manufacturing",
       "Reduced production costs",
       "Improved process efficiency",

@@ -1,9 +1,9 @@
 {
   "id": "BIZ004",
-  "core": "Successfully commercialized research through spinout of CytoTronics biotech startup in 2020, translating academic innovations into marketable technology",
+  "core": "Research successfully commercialized through spinout of CytoTronics biotech startup in 2020, translating academic innovations into marketable technology",
   "dates": {
-    "start": "2019-01",
-    "end": "2020-12",
+    "start": "Sep 2015",
+    "end": "Jan 2020",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -13,28 +13,15 @@
     "technology_transfer": {
       "short": "Commercialized research technology",
       "medium": "Led biotech startup formation",
-      "detailed": "Translated academic research into commercial biotechnology venture"
+      "detailed": "Academic research translated into commercial biotechnology venture"
     },
-    "innovation_lead": {
+    "innovation_leader": {
       "short": "Developed commercial technology",
       "medium": "Created marketable biotech solutions",
       "detailed": "Transformed research innovations into viable commercial products"
-    },
-    "startup_founder": {
-      "short": "Established biotech startup",
-      "medium": "Created research-based company",
-      "detailed": "Led successful spinout of biotechnology research enterprise"
     }
   },
   "metrics": [
-    {
-      "value": "successful",
-      "context": "startup launch achieved",
-      "verified": true,
-      "category": "commercialization",
-      "timeframe": "2020",
-      "impact_area": "business"
-    },
     {
       "value": "complete",
       "context": "technology transfer",
@@ -56,7 +43,7 @@
     {
       "category": "commercialization",
       "detail": "Technology transfer",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "development",
@@ -66,7 +53,7 @@
     {
       "category": "business",
       "detail": "Startup formation",
-      "proficiency": "expert"
+      "proficiency": "competent"
     },
     {
       "category": "innovation",

@@ -2,8 +2,8 @@
   "id": "AGI003",
   "core": "Developed customized chatbots for engineering and campaign websites, creating tailored AI interactions for specific industry needs and user engagement",
   "dates": {
-    "start": "2023-08",
-    "end": "2024-02",
+    "start": "Feb 2024",
+    "end": "Oct 2024",
     "status": "completed"
   },
   "company": "Elementsist",
@@ -61,12 +61,12 @@
     {
       "category": "nlp",
       "detail": "Conversation design",
-      "proficiency": "expert"
+      "proficiency": "competent"
     },
     {
       "category": "integration",
       "detail": "Website implementation",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "customization",

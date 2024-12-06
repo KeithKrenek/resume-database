@@ -2,11 +2,11 @@
     "id": "AGI001",
     "core": "Applied machine learning to accelerate root cause analysis and boost production yield of radiation-exposed optical fiber for navigation gyroscopes, spanning from first principles investigation to production optimization",
     "dates": {
-      "start": "2020-01",
-      "end": "2024-03",
+      "start": "Oct 2019",
+      "end": "Dec 2024",
       "status": "ongoing"
     },
-    "company": "Draper",
+    "company": "Draper Lab",
     "variations": {
       "ml_engineer": {
         "short": "Built predictive ML models to optimize optical fiber production",
@@ -27,6 +27,21 @@
         "short": "Led ML-driven manufacturing optimization project",
         "medium": "Directed implementation of ML-based production improvements",
         "detailed": "Led end-to-end development of ML tools that transformed manufacturing data into actionable insights for production optimization"
+      },
+      "technical_ic": {
+        "short": "Built ML models to optimize production processes",
+        "medium": "Developed ML pipeline from scratch to boost manufacturing yield",
+        "detailed": "Architected end-to-end ML system for manufacturing optimization, implementing data pipeline for high-dimensional inputs and automated retraining capabilities"
+      },
+      "innovation_lead": {
+        "short": "Pioneered ML adoption in manufacturing",
+        "medium": "Led transition to ML-driven decision making in production",
+        "detailed": "Spearheaded adoption of ML methodologies in manufacturing, establishing new paradigm for process optimization"
+      },
+      "subject_matter_expert": {
+        "short": "Provided ML expertise for manufacturing",
+        "medium": "Guided implementation of ML systems across production",
+        "detailed": "Served as technical authority for ML integration in manufacturing, advising on algorithm selection and implementation strategies"
       }
     },
     "metrics": [
@@ -47,7 +62,7 @@
         "impact_area": "manufacturing"
       },
       {
-        "value": "multiple",
+        "value": "5+",
         "context": "data sources integrated",
         "verified": true,
         "category": "complexity",
@@ -75,38 +90,77 @@
         "category": "manufacturing",
         "detail": "Production process optimization",
         "proficiency": "expert"
+      },
+      {
+        "category": "infrastructure",
+        "detail": "Built data pipeline from scratch",
+        "proficiency": "expert"
+      },
+      {
+        "category": "automation",
+        "detail": "Automated retraining capability",
+        "proficiency": "expert"
+      },
+      {
+        "category": "integration",
+        "detail": "Production process integration",
+        "proficiency": "expert"
+      },
+      {
+        "category": "validation",
+        "detail": "Performance validation methods",
+        "proficiency": "expert"
       }
     ],
     "impact": [
-      "Enabled data-driven production decisions",
-      "Maintained program schedule and budget",
-      "Established new analysis methodology",
-      "Improved manufacturing yield",
-      "Created reusable ML infrastructure",
-      "Enhanced process understanding",
-      "Accelerated root cause analysis",
-      "Enabled weekly optimization cycles"
+      "Created Reusable ML Infrastructure",
+      "Established Scalable ML Framework",
+      "Enabled Data-Driven Production Decisions",
+      "Informed Strategic Process Improvements",
+      "Enhanced Process Understanding",
+      "Enabled Proactive Process Intervention",
+      "Accelerated Root Cause Analysis",
+      "Enabled Weekly Optimization Cycles",
+      "Improved Manufacturing Yield",
+      "Improved Product Quality",
+      "Optimized Resource Allocation",
+      "Reduced Operational Costs",
+      "Maintained Program Schedule and Budget",
+      "Maintained Critical Program Timeline",
+      "Critical for Navigation Systems Reliability",
+      "Established New Analysis Methodology"
     ],
     "skills": [
       "Machine Learning",
       "Data Pipeline Development",
-      "Root Cause Analysis",
-      "Physics Modeling",
       "Production Optimization",
+      "Root Cause Analysis",
+      "Algorithm Design",
+      "System Integration",
       "Cross-functional Leadership",
-      "Statistical Analysis",
+      "Team Leadership",
+      "Stakeholder Management",
       "Process Improvement",
+      "Statistical Analysis",
+      "Data Analysis",
+      "Physics Modeling",
+      "Manufacturing Analysis",
       "Technical Communication",
-      "Manufacturing Analysis"
+      "Technical Documentation"
     ],
     "tags": [
       "AI/ML",
-      "Manufacturing",
-      "Optimization",
       "Data Science",
-      "Physics",
+      "Process Optimization",
+      "Manufacturing",
       "Production",
-      "Root Cause Analysis"
+      "Leadership",
+      "Innovation",
+      "Root Cause Analysis",
+      "Physics",
+      "Enterprise Scale",
+      "Mission Critical",
+      "Defense Industry"
     ],
     "methodology": [
       "Agile Development",

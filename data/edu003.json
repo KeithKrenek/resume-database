@@ -2,9 +2,9 @@
   "id": "EDU003",
   "core": "Bachelor of Science (B.S.) in Electrical Engineering with Mathematics Minor, achieving perfect academic record",
   "dates": {
-    "start": "2010-08",
-    "end": "2014-08",
-    "graduation": "2014-08"
+    "start": "Aug 2009",
+    "end": "May 2014",
+    "graduation": "May 2014"
   },
   "institution": "Texas A&M University",
   "location": "College Station, TX",
@@ -38,18 +38,22 @@
   },
   "key_coursework": {
     "engineering": [
-      "Electronic Circuit Design",
-      "Digital Signal Processing",
-      "Microprocessor Systems",
-      "Control Theory",
-      "Electromagnetic Fields"
+      "Mechanics",
+      "Electricity and Optics",
+      "Modern Physics for Engineers",
+      "Electricity and Magnetic Fields",
+      "Electric Circuit Theory",
+      "Random Signals and Systems",
+      "Electrical Properties of Materials",
+      "Intro to Medical Imaging",
+      "Biosensors",
+      "Ultrasound Imaging"
     ],
     "mathematics": [
       "Advanced Engineering Math",
       "Differential Equations",
-      "Numerical Analysis",
-      "Vector Calculus",
-      "Linear Algebra"
+      "Topics in Applied Math",
+      "Fourier Series and Wavelets"
     ]
   },
   "research_experience": {
@@ -74,7 +78,6 @@
       "Department honors"
     ],
     "research": [
-      "Undergraduate research publications",
       "Conference presentations",
       "Technical innovations",
       "Laboratory expertise"
@@ -101,6 +104,10 @@
     ],
     "software": [
       "MATLAB",
+      "SolidWorks",
+      "LabVIEW",
+      "C++",
+      "Assembly language",
       "CAD tools",
       "Programming languages",
       "Simulation software"

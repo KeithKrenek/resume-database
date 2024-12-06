@@ -2,8 +2,8 @@
   "id": "SYS005",
   "core": "Led comprehensive electrical and optical performance characterization of new imaging system, establishing baseline performance metrics and operational parameters",
   "dates": {
-    "start": "2017-06",
-    "end": "2018-05",
+    "start": "May 2014",
+    "end": "Aug 2014",
     "status": "completed"
   },
   "company": "MIT Lincoln Lab",
@@ -76,7 +76,6 @@
   ],
   "characterization_areas": {
     "electrical": [
-      "Power consumption",
       "Signal integrity",
       "Noise characteristics",
       "Response time"

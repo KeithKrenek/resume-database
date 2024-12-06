@@ -2,8 +2,8 @@
   "id": "AWD003",
   "core": "Received multiple academic honors and scholarships recognizing exceptional academic performance and research contributions at Texas A&M University",
   "dates": {
-    "start": "2010-09",
-    "end": "2015-05"
+    "start": "Aug 2009",
+    "end": "May 2015"
   },
   "category": "university_awards",
   "institution": "Texas A&M University",
@@ -13,7 +13,7 @@
       "year": "2014",
       "type": "Graduation Honor",
       "details": "Graduated with highest academic distinction",
-      "significance": "Top 1% of graduating class"
+      "significance": "Top 1-2% of graduating class"
     },
     {
       "name": "University Honors",

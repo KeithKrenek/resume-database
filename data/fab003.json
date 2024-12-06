@@ -2,8 +2,8 @@
   "id": "FAB003",
   "core": "Developed and executed nano/micro-fabrication processes for integrating electrodes onto CMOS chips, including comprehensive metrology for quality assurance",
   "dates": {
-    "start": "2016-06",
-    "end": "2019-05",
+    "start": "Sep 2015",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -12,8 +12,8 @@
   "variations": {
     "process_engineer": {
       "short": "Fabricated CMOS electrodes",
-      "medium": "Developed electrode fabrication process",
-      "detailed": "Created nano/micro-scale electrode fabrication process for CMOS integration"
+      "medium": "Developed electrode fabrication processes",
+      "detailed": "Created nano/micro-scale electrode fabrication processes for CMOS integration"
     },
     "fabrication_specialist": {
       "short": "Integrated microelectrodes",
@@ -21,9 +21,9 @@
       "detailed": "Executed complex fabrication processes for nano/micro-electrode integration"
     },
     "metrology_engineer": {
-      "short": "Conducted process validation",
+      "short": "Validated fabrication processes",
       "medium": "Performed fabrication metrology",
-      "detailed": "Implemented comprehensive metrology protocols for fabrication quality assurance"
+      "detailed": "Assured fabrication quality through comprehensive metrology protocols"
     }
   },
   "metrics": [
@@ -52,6 +52,41 @@
       "impact_area": "validation"
     }
   ],
+  "impact": [
+      "Improved production yield",
+      "Enhanced product quality",
+      "Increased operational efficiency",
+      "Enabled scalable production",
+      "Improved process reliability",
+      "Reduced manual operations",
+      "Established quality standards",
+      "Created manufacturing capabilities",
+      "Advanced production methods"
+  ],
+  "skills": [
+      "Process Development",
+      "Manufacturing Optimization",
+      "Quality Control",
+      "Automation Engineering",
+      "System Integration",
+      "Scale-up Strategy",
+      "Documentation",
+      "Risk Management",
+      "Project Leadership",
+      "Technical Training",
+      "Vendor Management",
+      "Cost Analysis"
+  ],
+  "tags": [
+      "Manufacturing",
+      "Process Development",
+      "Automation",
+      "Quality",
+      "Integration",
+      "Scale-up",
+      "Production",
+      "Optimization"
+  ],
   "technical_details": [
     {
       "category": "fabrication",
@@ -61,6 +96,16 @@
     {
       "category": "integration",
       "detail": "CMOS compatibility",
+      "proficiency": "expert"
+    },
+    {
+      "category": "optimization",
+      "detail": "Yield improvement",
+      "proficiency": "expert"
+    },
+    {
+      "category": "scale-up",
+      "detail": "Production scale-up",
       "proficiency": "expert"
     },
     {
@@ -79,19 +124,36 @@
       "Photolithography",
       "Material deposition",
       "Etching processes",
-      "Surface modification"
+      "Surface modification",
+      "Electrode integration",
+      "Wafer dicing",
+      "Electrical packaging",
+      "Wet processes",
+      "Dry processes",
+      "Rapid prototyping",
+      "Maskless lithography",
+      "Laser ablation",
+      "Laser cutting",
+      "3D printing"
     ],
     "integration": [
       "CMOS compatibility",
       "Interface development",
       "Process sequencing",
-      "Thermal management"
+      "Thermal management",
+      "Chemical compatibility"
     ],
     "metrology": [
       "Dimensional analysis",
       "Surface characterization",
       "Electrical testing",
-      "Quality verification"
+      "Quality verification",
+      "Scanning Electron Microscopy",
+      "Optical microscopy",
+      "Imaging sample prep",
+      "Optical profilometry",
+      "Stylus profilometry",
+      "Electrical impedance spectroscopy"
     ],
     "optimization": [
       "Yield improvement",
@@ -105,7 +167,8 @@
       "Physical dimensions",
       "Electrical properties",
       "Surface qualities",
-      "Material characteristics"
+      "Material characteristics",
+      "Electrical probing"
     ],
     "validation": [
       "Process verification",

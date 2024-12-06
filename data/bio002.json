@@ -2,8 +2,8 @@
     "id": "BIO002",
     "core": "Led design and simulation efforts for new capacitive micromachined ultrasonic transducer (CMUT) arrays, optimizing acoustic force generation for precise cell and particle manipulation in microfluidic devices",
     "dates": {
-      "start": "2022-01",
-      "end": "2023-06",
+      "start": "Oct 2023",
+      "end": "Jun 2024",
       "status": "completed"
     },
     "company": "Draper",
@@ -96,6 +96,7 @@
     ],
     "tags": [
       "MEMS",
+      "Microfluidics",
       "Acoustics",
       "Simulation",
       "Biotech",
@@ -118,6 +119,7 @@
     ],
     "tech_stack": [
       "COMSOL Multiphysics",
+      "SolidWorks",
       "CAD Software",
       "Analysis Tools",
       "Simulation Frameworks"

@@ -2,8 +2,8 @@
     "id": "BIO003",
     "core": "Led electrical integration and RF optimization for an acoustofluidic biomanufacturing platform, developing a compact system for particle manipulation based on size and mechanical properties",
     "dates": {
-      "start": "2021-09",
-      "end": "2023-12",
+      "start": "Oct 2020",
+      "end": "May 2024",
       "status": "completed"
     },
     "company": "Draper",
@@ -52,14 +52,19 @@
     ],
     "technical_details": [
       {
-        "category": "rf",
-        "detail": "Power delivery optimization",
+        "category": "hardware",
+        "detail": "RF power delivery optimization",
         "proficiency": "expert"
       },
       {
         "category": "electrical",
         "detail": "System integration",
         "proficiency": "expert"
+      },
+      {
+        "category": "electrical",
+        "detail": "Impedance matching",
+        "proficiency": "proficient"
       },
       {
         "category": "acoustics",
@@ -73,35 +78,58 @@
       }
     ],
     "impact": [
-      "Enhanced system portability",
-      "Improved power efficiency",
-      "Enabled commercial deployment",
-      "Reduced system complexity",
-      "Optimized component selection",
-      "Established integration procedures",
-      "Created vendor network",
-      "Improved system reliability"
+      "Enabled Commercial Deployment",
+      "Enabled Efficient Cell Therapy Manufacturing",
+      "Advanced Treatment Accessibility",
+      "Improved Manufacturing Scalability",
+      "Reduced System Footprint and Cost",
+      "Enhanced System Portability",
+      "Improved System Reliability",
+      "Improved Power Efficiency",
+      "Integrated with Commercial Platform",
+      "Reduced System Complexity",
+      "Improved Process Reliability",
+      "Increased Process Reproducibility",
+      "Enhanced User Experience",
+      "Reduced Operator Training Requirements",
+      "Validated through Extensive Testing",
+      "Optimized Component Selection",
+      "Established Integration Procedures"
     ],
     "skills": [
       "System Integration",
+      "Process Automation",
+      "Computer Vision",
+      "Multiphysics Modeling",
       "RF Engineering",
       "Power Optimization",
-      "Vendor Management",
-      "Requirements Analysis",
-      "Technical Leadership",
       "Design for Manufacturing",
-      "Size Reduction",
+      "Cross-functional Leadership",
+      "Technical Leadership",
+      "Experimental Design",
+      "Requirements Analysis",
+      "Microfluidics",
       "Performance Optimization",
-      "Cross-functional Coordination"
+      "Vendor Management",
+      "Size Reduction",
+      "Process Validation",
+      "Quality Control",
+      "Technical Documentation",
+      "Regulatory Compliance"
     ],
     "tags": [
       "RF",
       "Integration",
       "Biotech",
+      "Automation",
       "Manufacturing",
       "Optimization",
+      "Software",
       "Hardware",
-      "Commercial"
+      "Commercial",
+      "Research",
+      "R&D",
+      "Cell Therapy"
     ],
     "methodology": [
       "Systems Engineering",
@@ -118,8 +146,13 @@
     ],
     "tech_stack": [
       "RF Test Equipment",
+      "Impedance Analyzers",
       "Power Analysis Tools",
+      "LTSpice",
+      "SolidWorks",
+      "COMSOL Multiphysics",
       "CAD Software",
+      "Image Processing",
       "Integration Tools"
     ],
     "system_optimization": {
@@ -131,6 +164,7 @@
       ],
       "integration": [
         "Component selection",
+        "Specification compliance",
         "Size reduction",
         "Assembly optimization",
         "Interface design"

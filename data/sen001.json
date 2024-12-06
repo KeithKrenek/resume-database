@@ -1,26 +1,26 @@
 {
     "id": "SEN001",
-    "core": "Leading design, build, integration, and testing of microfluidic systems integrated with ring resonator biosensors for protein kinetics measurements, employing rapid prototyping for accelerated development",
+    "core": "Leading design, build, integration, and testing of microfluidic ring resonator biosensors for protein kinetics measurements, employing rapid prototyping for accelerated development",
     "dates": {
-      "start": "2023-01",
-      "end": "2024-03",
-      "status": "ongoing"
+      "start": "Jan 2024",
+      "end": "Jun 2024",
+      "status": "completed"
     },
     "company": "Draper",
     "variations": {
       "technical_lead": {
-        "short": "Led biosensor development",
-        "medium": "Directed integrated biosensor project",
-        "detailed": "Leading comprehensive development of microfluidic-integrated optical biosensors, from concept through testing and validation"
+        "short": "Led biosensor microfluidics development",
+        "medium": "Directed microfluidics for integrated biosensor project",
+        "detailed": "Leading comprehensive development of microfluidics for optical biosensors, from concept through testing and validation"
       },
       "systems_engineer": {
-        "short": "Designed integrated sensing platform",
-        "medium": "Developed microfluidic-photonic system",
+        "short": "Integrated microfluidics with biosensor",
+        "medium": "Integrated microfluidics with photonic biosensor",
         "detailed": "Engineering complex integration of microfluidics with optical sensing elements for protein analysis applications"
       },
       "research_engineer": {
         "short": "Advanced biosensor capabilities",
-        "medium": "Developed protein measurement system",
+        "medium": "Developed microfluidics for protein measurement system",
         "detailed": "Developing advanced biosensing platform combining microfluidics and photonics for real-time protein kinetics analysis"
       }
     },
@@ -59,7 +59,7 @@
       {
         "category": "photonics",
         "detail": "Ring resonator sensors",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "integration",
@@ -117,6 +117,17 @@
       "Research Tools"
     ],
     "tech_stack": [
+      "SolidWorks",
+      "COMSOL",
+      "Python",
+      "MATLAB",
+      "3D Printing",
+      "CNC Machining",
+      "Lumerical",
+      "Automated Testing",
+      "Automated Fluid Control",
+      "Data Acquisition Systems",
+      "Thermal Control Systems",
       "CAD Software",
       "Simulation Tools",
       "Test Equipment",

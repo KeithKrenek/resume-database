@@ -2,15 +2,15 @@
   "id": "EDU004",
   "core": "Participated in select professional development and leadership programs, enhancing technical and leadership capabilities",
   "dates": {
-    "start": "2013",
-    "end": "2019"
+    "start": "2012",
+    "end": "2024"
   },
   "category": "professional_development",
   "programs": [
     {
       "name": "National Instruments Leaders Symposium",
       "organization": "National Instruments",
-      "date": "2013",
+      "date": "Apr 2012",
       "focus_areas": [
         "Technical leadership",
         "Industry trends",
@@ -27,7 +27,7 @@
     {
       "name": "Derek Bok Center for Teaching and Learning Conference",
       "organization": "Harvard University",
-      "date": "2017",
+      "date": "Aug 2016",
       "focus_areas": [
         "Pedagogical innovation",
         "Teaching effectiveness",

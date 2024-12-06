@@ -1,9 +1,9 @@
 {
     "id": "SYS002",
-    "core": "Led comprehensive trade space analysis for development of a portable, lightweight, custom very low frequency (VLF) transmitter for field testing, optimizing design for mobility and performance",
+    "core": "Led comprehensive trade space analysis for development of a portable, lightweight, custom very low frequency (VLF) transmitter for field testing, optimizing design for mobility, cost, and performance",
     "dates": {
-      "start": "2021-11",
-      "end": "2022-09",
+      "start": "Jan 2024",
+      "end": "Jun 2024",
       "status": "completed"
     },
     "company": "Draper",
@@ -54,7 +54,7 @@
       {
         "category": "rf",
         "detail": "VLF system analysis",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "systems",
@@ -118,7 +118,10 @@
     ],
     "tech_stack": [
       "Analysis Tools",
-      "RF Design Software",
+      "MathCAD",
+      "MATLAB",
+      "LTSPICE",
+      "RF Design Calculations",
       "System Modeling",
       "Requirements Management"
     ],

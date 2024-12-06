@@ -11,7 +11,7 @@
       "research_lead": {
         "short": "Led radiation physics investigation",
         "medium": "Directed first-principles radiation analysis",
-        "detailed": "Led comprehensive investigation combining quantum mechanics, materials science, and experimental validation to resolve unexpected radiation effects in optical systems"
+        "detailed": "Led comprehensive investigation combining quantum mechanics, materials science, simulation, and experimental validation to resolve unexpected radiation effects in optical systems"
       },
       "physics_investigator": {
         "short": "Analyzed radiation-material interactions",
@@ -117,6 +117,10 @@
       "Design Improvement"
     ],
     "tech_stack": [
+      "MATLAB",
+      "MCNP",
+      "COMSOL",
+      "Monte Carlo Simulation",
       "Physics Simulation Tools",
       "Analysis Software",
       "Data Processing Tools",

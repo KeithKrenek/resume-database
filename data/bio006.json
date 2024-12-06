@@ -2,8 +2,8 @@
     "id": "BIO006",
     "core": "Developed comprehensive multiphysics simulations for a commercial acoustofluidic biomanufacturing platform, integrating electrical, piezoelectric, mechanical, fluidic, and thermal physics domains",
     "dates": {
-      "start": "2021-04",
-      "end": "2023-10",
+      "start": "Oct 2020",
+      "end": "May 2024",
       "status": "completed"
     },
     "company": "Draper",
@@ -118,6 +118,8 @@
     ],
     "tech_stack": [
       "COMSOL Multiphysics",
+      "MATLAB",
+      "SolidWorks",
       "Scientific Computing Tools",
       "Analysis Software",
       "Visualization Platforms"
@@ -133,7 +135,8 @@
         "Structural mechanics",
         "Vibration analysis",
         "Material response",
-        "Acoustic waves"
+        "Acoustic waves",
+        "Frequency response"
       ],
       "fluidic": [
         "Flow dynamics",

@@ -2,8 +2,8 @@
   "id": "BIO008",
   "core": "Developed comprehensive multiphysics models to characterize and optimize interactions between living cells and 3D electrodes, enabling improved neuroelectronic interface design",
   "dates": {
-    "start": "2016-09",
-    "end": "2019-05",
+    "start": "Sep 2017",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -61,11 +61,11 @@
     {
       "category": "biology",
       "detail": "Cell behavior analysis",
-      "proficiency": "expert"
+      "proficiency": "proficient"
     },
     {
       "category": "electronics",
-      "detail": "Interface characterization",
+      "detail": "Bio-interface characterization",
       "proficiency": "expert"
     },
     {

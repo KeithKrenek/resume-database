@@ -2,8 +2,8 @@
   "id": "BIO011",
   "core": "Led multi-year project planning and execution to develop specialized tool for studying cell aging, managing complete research and development lifecycle",
   "dates": {
-    "start": "2013-08",
-    "end": "2015-05",
+    "start": "Aug 2013",
+    "end": "May 2015",
     "status": "completed"
   },
   "company": "NanoBio Systems Lab",
@@ -55,6 +55,16 @@
   "technical_details": [
     {
       "category": "management",
+      "detail": "Project leadership",
+      "proficiency": "expert"
+    },
+    {
+      "category": "budgeting",
+      "detail": "Project leadership",
+      "proficiency": "expert"
+    },
+    {
+      "category": "schedule",
       "detail": "Project leadership",
       "proficiency": "expert"
     },

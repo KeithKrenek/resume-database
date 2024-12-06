@@ -2,9 +2,9 @@
   "id": "EDU002",
   "core": "Master of Science (M.S.) in Electrical Engineering with perfect academic performance",
   "dates": {
-    "start": "2014-08",
-    "end": "2015-05",
-    "graduation": "2015-05"
+    "start": "Aug 2014",
+    "end": "May 2015",
+    "graduation": "May 2015"
   },
   "institution": "Texas A&M University",
   "location": "College Station, TX",
@@ -25,11 +25,15 @@
     ]
   },
   "key_coursework": [
-    "Advanced MEMS",
-    "Microelectronics",
-    "Signal Processing",
-    "Digital System Design",
-    "Advanced Circuit Design"
+    "BioMEMS and Lab-on-a-Chip",
+    "Microelectromechanical Systems",
+    "Nanobiotechnology",
+    "Nanotech Fabrication",
+    "Optical Communication Systems",
+    "Bio-photonics",
+    "Polymeric Biomaterials",
+    "Microfabrication",
+    "Nano-photonics"
   ],
   "technical_skills": {
     "design": [
@@ -40,6 +44,8 @@
     ],
     "software": [
       "MATLAB",
+      "PSPICE",
+      "LTSPICE",
       "CAD tools",
       "Circuit simulation",
       "Data analysis"

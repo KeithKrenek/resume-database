@@ -2,8 +2,8 @@
   "id": "ACT003",
   "core": "Developed technical content across multiple platforms and industries, translating complex concepts for diverse audiences",
   "dates": {
-    "start": "2019-01",
-    "end": "2024-03",
+    "start": "Jan 2019",
+    "end": "Dec 2024",
     "status": "ongoing"
   },
   "category": "professional_communication",
@@ -11,23 +11,16 @@
     {
       "title": "Tech Blog Writer/Editor",
       "organization": "Very (IoT development company)",
-      "dates": "2022-2024",
+      "dates": "Feb 2022 - May 2022",
       "content_types": ["Technical blogs", "White papers", "Documentation"],
       "focus_areas": ["IoT", "Development practices", "Industry trends"]
     },
     {
       "title": "Tech Content Creator",
       "organization": "Cartwheel Robotics",
-      "dates": "2023-2024",
+      "dates": "Mar 2022 - May 2022",
       "content_types": ["Technical documentation", "Marketing materials", "Educational content"],
       "focus_areas": ["Robotics", "Automation", "Technology innovation"]
-    },
-    {
-      "title": "Software Engineering Consultant",
-      "organization": "Elementsist",
-      "dates": "2023-2024",
-      "content_types": ["Technical proposals", "Project documentation", "Client communications"],
-      "focus_areas": ["Software development", "AI/ML", "Business solutions"]
     }
   ],
   "deliverables": {

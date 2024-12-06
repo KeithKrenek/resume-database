@@ -1,0 +1,277 @@
+{
+    "id": "EDU001",
+    "core": "Led impactful educational and technical communication initiatives across academic, industry, and public sectors, effectively translating complex technical concepts for diverse audiences",
+    "dates": {
+        "start": "Sep 2015",
+        "end": "Dec 2024",
+        "status": "ongoing"
+    },
+    "company": "Multiple (Harvard, Draper Lab, Various Organizations)",
+    "variations": {
+        "technical_educator": {
+            "short": "Led technical training programs",
+            "medium": "Developed comprehensive technical education",
+            "detailed": "Created and delivered technical training programs for audiences ranging from elementary students to military personnel, effectively communicating complex concepts"
+        },
+        "mentor": {
+            "short": "Guided professional development",
+            "medium": "Led formal mentorship initiatives",
+            "detailed": "Provided comprehensive mentorship through employer's formal program, guiding colleagues in both technical and career development"
+        },
+        "science_communicator": {
+            "short": "Created technical content",
+            "medium": "Developed scientific communications",
+            "detailed": "Authored and edited technical content for diverse audiences, translating complex research into accessible formats"
+        },
+        "teaching_fellow": {
+            "short": "Led university instruction",
+            "medium": "Delivered advanced technical education",
+            "detailed": "Provided university-level instruction in engineering and physics, earning distinction for teaching excellence"
+        },
+        "public_speaker": {
+            "short": "Delivered technical presentations",
+            "medium": "Presented complex technical topics",
+            "detailed": "Delivered engaging presentations on advanced technical topics to diverse audiences, from elementary schools to military stakeholders"
+        },
+        "documentation_lead": {
+            "short": "Created technical documentation",
+            "medium": "Led technical documentation efforts",
+            "detailed": "Developed comprehensive technical documentation and training materials for complex systems and processes"
+        },
+        "outreach_coordinator": {
+            "short": "Led STEM outreach",
+            "medium": "Coordinated educational initiatives",
+            "detailed": "Organized and led STEM education initiatives, connecting technical experts with educational institutions"
+        },
+        "content_strategist": {
+            "short": "Developed technical content",
+            "medium": "Created technical communication strategy",
+            "detailed": "Developed strategies for effectively communicating technical concepts across various platforms and audiences"
+        }
+    },
+    "metrics": [
+        {
+            "value": "3+",
+            "context": "years of tutoring experience",
+            "verified": true,
+            "category": "education",
+            "timeframe": "cumulative",
+            "impact_area": "student_support"
+        },
+        {
+            "value": "dozens",
+            "context": "technical articles authored/edited",
+            "verified": true,
+            "category": "communication",
+            "timeframe": "cumulative",
+            "impact_area": "knowledge_sharing"
+        },
+        {
+            "value": "15+",
+            "context": "engineers trained on protocols",
+            "verified": true,
+            "category": "training",
+            "timeframe": "cumulative",
+            "impact_area": "professional_development"
+        },
+        {
+            "value": "4+",
+            "context": "years in formal mentorship program",
+            "verified": true,
+            "category": "mentoring",
+            "timeframe": "cumulative",
+            "impact_area": "career_development"
+        },
+        {
+            "value": "500+",
+            "context": "employees using documentation",
+            "verified": true,
+            "category": "impact",
+            "timeframe": "continuous",
+            "impact_area": "knowledge_base"
+        },
+        {
+            "value": "multiple",
+            "context": "teaching awards received",
+            "verified": true,
+            "category": "recognition",
+            "timeframe": "cumulative",
+            "impact_area": "teaching_excellence"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "communication",
+            "detail": "Technical writing",
+            "proficiency": "expert"
+        },
+        {
+            "category": "presentation",
+            "detail": "Public speaking",
+            "proficiency": "expert"
+        },
+        {
+            "category": "mentoring",
+            "detail": "Career development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "documentation",
+            "detail": "Technical documentation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "training",
+            "detail": "Professional development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "outreach",
+            "detail": "STEM education",
+            "proficiency": "expert"
+        },
+        {
+            "category": "content",
+            "detail": "Content strategy",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced Knowledge Transfer",
+        "Improved Training Efficiency",
+        "Accelerated Professional Development",
+        "Advanced STEM Education",
+        "Secured Program Funding",
+        "Facilitated Collaboration",
+        "Standardized Documentation",
+        "Improved Documentation Quality",
+        "Enhanced Communication Effectiveness",
+        "Improved Communication",
+        "Strengthened Team Capabilities",
+        "Built Lasting Mentoring Relationships",
+        "Increased Public Engagement",
+        "Advanced Scientific Literacy",
+        "Advanced Organizational Capabilities"
+    ],
+    "skills": [
+        "Technical Education",
+        "Public Speaking",
+        "Content Development",
+        "Mentorship",
+        "Program Management",
+        "Stakeholder Engagement",
+        "Training Development",
+        "Curriculum Design",
+        "Knowledge Transfer",
+        "Knowledge Management",
+        "Proposal Development",
+        "Technical Writing",
+        "Educational Assessment",
+        "Documentation",
+        "Process Documentation",
+        "Documentation Systems",
+        "Communication Strategy",
+        "Communication Planning",
+        "Content Strategy",
+        "Project Planning",
+        "Standard Development",
+        "Information Architecture"
+    ],
+    "tags": [
+        "Education",
+        "Training",
+        "Mentoring",
+        "Knowledge Management",
+        "Communication",
+        "Leadership",
+        "Outreach",
+        "STEM",
+        "Technical Writing",
+        "Documentation",
+        "Proposals",
+        "Standards",
+        "Content"
+    ],
+    "teaching_domains": [
+        {
+            "subject": "Brain-Machine Interfaces",
+            "audience": "Elementary Students",
+            "format": "Interactive Presentations"
+        },
+        {
+            "subject": "Radiation Physics",
+            "audience": "Military Personnel",
+            "format": "Technical Briefings"
+        },
+        {
+            "subject": "Engineering Fundamentals",
+            "audience": "University Students",
+            "format": "Classroom Instruction"
+        },
+        {
+            "subject": "Technical Protocols",
+            "audience": "Professional Engineers",
+            "format": "Training Seminars"
+        }
+    ],
+    "awards_recognition": [
+        {
+            "name": "Harvard Distinction in Teaching Award",
+            "year": "2019",
+            "context": "Graduate education"
+        },
+        {
+            "name": "First Place Oral Presentation",
+            "year": "2014",
+            "context": "Research communication"
+        }
+    ],
+    "publication_platforms": [
+        {
+            "name": "Harvard Science in the News",
+            "role": "Editor",
+            "impact": "Public science communication"
+        },
+        {
+            "name": "Technology Blog",
+            "role": "Author",
+            "impact": "Industry knowledge sharing"
+        }
+    ],
+    "mentorship_programs": [
+        {
+            "program": "Draper Lab Mentor Program",
+            "role": "Mentor",
+            "duration": "2+ years"
+        },
+        {
+            "program": "Junior High Tutoring",
+            "role": "Tutor",
+            "duration": "3+ years"
+        }
+    ],
+    "communication_methods": [
+        "Technical Documentation",
+        "Live Presentations",
+        "Interactive Workshops",
+        "Written Articles",
+        "One-on-One Mentoring",
+        "Group Training",
+        "Online Content",
+        "Technical Briefings",
+        "Written Documentation",
+        "Training Sessions",
+        "Knowledge Bases",
+        "Process Guides"
+    ],
+    "audience_types": [
+        "Elementary Students",
+        "University Students",
+        "Professional Engineers",
+        "Military Personnel",
+        "General Public",
+        "Technical Experts",
+        "Industry Stakeholders",
+        "Research Community"
+    ]
+}

@@ -2,8 +2,8 @@
   "id": "ACT005",
   "core": "Participated in and contributed to strategic professional development conferences focusing on resource optimization, teaching excellence, and industry advancement",
   "dates": {
-    "start": "2016-09",
-    "end": "2024-03",
+    "start": "Sep 2016",
+    "end": "Dec 2024",
     "status": "ongoing"
   },
   "category": "professional_development",
@@ -11,7 +11,7 @@
     {
       "name": "Business Today Regional Conference: Optimizing Resources",
       "role": "Participant",
-      "date": "2023",
+      "date": "Feb 2011",
       "focus_areas": [
         "Resource optimization",
         "Business strategy",
@@ -28,7 +28,7 @@
     {
       "name": "Derek Bok Center for Teaching and Learning Conference",
       "role": "Participant",
-      "date": "2017",
+      "date": "Aug 2016",
       "focus_areas": [
         "Teaching methodologies",
         "Educational innovation",
@@ -45,7 +45,7 @@
     {
       "name": "Harvard Open Labs Science Café",
       "role": "Presenter",
-      "date": "2018",
+      "date": "Apr 2017",
       "presentation_topic": "Neuroelectronic Interfaces and Their Applications",
       "impact": [
         "Knowledge dissemination",

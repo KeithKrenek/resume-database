@@ -2,8 +2,8 @@
   "id": "FAB004",
   "core": "Invented and developed novel process for fabricating nanopipette electrodes onto CMOS chips, leading complete R&D cycle for biocompatible electrochemistry integration",
   "dates": {
-    "start": "2017-01",
-    "end": "2019-07",
+    "start": "Sep 2015",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -12,7 +12,7 @@
   "variations": {
     "process_innovator": {
       "short": "Invented electrode process",
-      "medium": "Created novel fabrication method",
+      "medium": "Created novel nanofabrication method",
       "detailed": "Developed innovative process for integrating nanopipette electrodes with CMOS"
     },
     "research_lead": {
@@ -22,7 +22,7 @@
     },
     "technical_lead": {
       "short": "Managed process creation",
-      "medium": "Led technology development",
+      "medium": "Led nano-electrode process development",
       "detailed": "Directed development of novel biocompatible electrochemistry process"
     }
   },

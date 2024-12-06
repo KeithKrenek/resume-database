@@ -2,16 +2,16 @@
   "id": "ACT006",
   "core": "Participated in and contributed to specialized academic programs focused on engineering excellence, research development, and scholarly achievement",
   "dates": {
-    "start": "2010-09",
-    "end": "2015-05",
+    "start": "Sep 2010",
+    "end": "May 2015",
     "status": "completed"
   },
   "category": "academic_development",
   "programs": [
     {
       "name": "Texas A&M Engineering Scholars Program",
-      "role": "Scholar",
-      "duration": "2010-2014",
+      "role": "Engineering Scholar",
+      "duration": "Jan 2011 - Aug 2014",
       "focus_areas": [
         "Advanced engineering concepts",
         "Research methodology",
@@ -28,7 +28,7 @@
     {
       "name": "Texas A&M Undergraduate Research Scholars Program",
       "role": "Research Scholar",
-      "duration": "2013-2014",
+      "duration": "Aug 2013 - May 2014",
       "activities": [
         "Independent research",
         "Methodology development",

@@ -1,9 +1,9 @@
 {
   "id": "SEN002",
-  "core": "Designed and optimized electric/fluidic packaging for neuroelectronic interface arrays, achieving 5x improvement in system package lifetime through innovative solutions",
+  "core": "Designed and optimized electric/fluidic packaging for neuroelectronic interface arrays, achieving 5x improvement in system package lifetime through first principles analysis and innovative solutions",
   "dates": {
-    "start": "2016-03",
-    "end": "2019-05",
+    "start": "Sep 2015",
+    "end": "Jul 2019",
     "status": "completed"
   },
   "company": "Harvard University",
@@ -16,14 +16,14 @@
       "detailed": "Developed advanced packaging solutions for neuroelectronic interfaces with extended lifetime"
     },
     "systems_engineer": {
-      "short": "Designed interface systems",
-      "medium": "Created neural interface solutions",
+      "short": "Designed bio-interface systems",
+      "medium": "Created neural interface packaging solutions",
       "detailed": "Engineered comprehensive packaging solutions for neural interface arrays"
     },
     "reliability_engineer": {
-      "short": "Improved system longevity",
-      "medium": "Enhanced package reliability",
-      "detailed": "Achieved significant improvements in system reliability and lifetime"
+      "short": "Improved biosensor longevity",
+      "medium": "Enhanced biosensor package reliability",
+      "detailed": "Achieved significant improvements in biosensor reliability and lifetime"
     }
   },
   "metrics": [
@@ -65,19 +65,83 @@
     },
     {
       "category": "electronics",
-      "detail": "Interface design",
+      "detail": "Bio-interface design",
+      "proficiency": "expert"
+    },
+    {
+      "category": "process",
+      "detail": "Biocompatible manufacturing",
       "proficiency": "expert"
     },
     {
       "category": "reliability",
       "detail": "Lifetime optimization",
       "proficiency": "expert"
+    },
+    {
+        "category": "characterization",
+        "detail": "Advanced materials analysis",
+        "proficiency": "expert"
+    },
+    {
+        "category": "integration",
+        "detail": "Materials-process integration",
+        "proficiency": "expert"
+    },
+    {
+        "category": "optimization",
+        "detail": "Process optimization methods",
+        "proficiency": "expert"
+    },
+    {
+        "category": "quality",
+        "detail": "Quality control systems",
+        "proficiency": "expert"
+    },
+    {
+        "category": "scale-up",
+        "detail": "Manufacturing scale-up",
+        "proficiency": "expert"
     }
+  ],
+  "impact": [
+      "Enhanced device reliability",
+      "Advanced manufacturing capabilities",
+      "Enabled new device architectures",
+      "Reduced production costs",
+      "Improved process reproducibility",
+      "Created scalable solutions",
+      "Enhanced product quality",
+      "Enabled new applications",
+      "Advanced field knowledge"
+  ],
+  "skills": [
+      "Materials Science",
+      "Process Development",
+      "Manufacturing Optimization",
+      "Quality Control",
+      "Experimental Design",
+      "Data Analysis",
+      "Team Leadership",
+      "Project Management",
+      "Technical Writing",
+      "Risk Assessment",
+      "Vendor Management",
+      "Cost Analysis"
+  ],
+  "tags": [
+      "Materials",
+      "Manufacturing",
+      "Research",
+      "Innovation",
+      "Quality Control",
+      "Process Development",
+      "Optimization",
+      "Scale-up"
   ],
   "design_features": {
     "electrical": [
       "Signal routing",
-      "Interference protection",
       "Connection reliability",
       "Power distribution"
     ],

@@ -2,8 +2,8 @@
   "id": "BIO009",
   "core": "Developed automated software system for cell morphology analysis, achieving 10x improvement in experimental throughput for cell aging studies through automated size quantification",
   "dates": {
-    "start": "2013-08",
-    "end": "2014-12",
+    "start": "Aug 2013",
+    "end": "May 2015",
     "status": "completed"
   },
   "company": "NanoBio Systems Lab",
@@ -61,6 +61,11 @@
     {
       "category": "imaging",
       "detail": "Cell morphology analysis",
+      "proficiency": "expert"
+    },
+    {
+      "category": "analysis",
+      "detail": "Computer vision algorithms",
       "proficiency": "expert"
     },
     {

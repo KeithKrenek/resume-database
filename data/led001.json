@@ -1,6 +1,6 @@
 {
     "id": "LED001",
-    "core": "Led strategic hiring initiative that doubled group size through structured candidate evaluation and strategic position creation, strengthening team capabilities and technical diversity",
+    "core": "Assisted strategic hiring initiative that doubled group size through structured candidate evaluation and strategic position creation, strengthening team capabilities and technical diversity",
     "dates": {
       "start": "2021-09",
       "end": "2023-03",
@@ -9,14 +9,14 @@
     "company": "Draper",
     "variations": {
       "technical_lead": {
-        "short": "Led technical team expansion",
-        "medium": "Directed strategic team growth initiative",
-        "detailed": "Led comprehensive hiring initiative to double team size while maintaining technical excellence and cultural fit"
+        "short": "Assisted technical team expansion",
+        "medium": "Assisted strategic team growth initiative",
+        "detailed": "Assisted comprehensive hiring initiative to double team size while maintaining technical excellence and cultural fit"
       },
       "hiring_manager": {
-        "short": "Managed recruitment process",
+        "short": "Facilitated recruitment process",
         "medium": "Orchestrated strategic hiring campaign",
-        "detailed": "Developed and executed strategic hiring plan, including position definition, candidate evaluation, and team integration"
+        "detailed": "Helped execute strategic hiring plan, including position definition, candidate evaluation, and team integration"
       },
       "group_leader": {
         "short": "Expanded technical group",
@@ -54,22 +54,22 @@
       {
         "category": "leadership",
         "detail": "Team development",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "recruitment",
         "detail": "Technical hiring",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "evaluation",
         "detail": "Candidate assessment",
-        "proficiency": "expert"
+        "proficiency": "proficient"
       },
       {
         "category": "strategy",
         "detail": "Growth planning",
-        "proficiency": "expert"
+        "proficiency": "competent"
       }
     ],
     "impact": [
